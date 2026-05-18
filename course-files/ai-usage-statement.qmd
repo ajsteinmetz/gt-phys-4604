@@ -1,0 +1,100 @@
+---
+title: "How to Format an AI Usage Statement"
+subtitle: "PHYS 4604: Professional Development"
+---
+
+## Overview
+
+Limited use of generative AI tools, such as Copilot, ChatGPT, Claude, Gemini, and similar systems, is permitted in PHYS 4604 only within instructor-approved boundaries. Examples of potentially appropriate use may include brainstorming, revising wording, receiving feedback, grammar refinement, or other support tasks connected to the writing process.
+
+When generative AI is used in preparing an assignment submission, students must include an **AI Usage Statement** with that assignment. The statement documents what tool was used, what was asked of it, what it produced, and how the student incorporated or revised that output.
+
+::: {.callout-note}
+**Important:** AI use is *entirely optional*. You are never required use generative AI in this course.
+:::
+
+Overuse of such tools are discouraged as there is growing evidence that reliance on AI can decrease one's expertise and skills:
+
+> "The ADR of standard colonoscopy decreased significantly from 28.4% (226 of 795) before to 22.4% (145 of 648) after exposure to AI, corresponding with an absolute difference of -6.0% (95% CI -10.5 to -1.6; p=0.0089). [...] Continuous exposure to AI might reduce the ADR of standard non-AI assisted colonoscopy, suggesting a negative effect on endoscopist behaviour."
+
+Reference: Budzyń K, et. al. Endoscopist deskilling risk after exposure to artificial intelligence in colonoscopy: a multicentre, observational study. *Lancet Gastroenterol Hepatol*. 2025 Oct;10(10):896-903. doi: [10.1016/S2468-1253(25)00133-5](https://doi.org/10.1016/s2468-1253(25)00133-5). PMID: 40816301.
+
+::: {.callout-warning}
+**Important:** AI should never be used to generate a whole assignment from scratch. The final submission must reflect your own thinking, judgment, and revisions.
+:::
+
+## When Is an AI Usage Statement Required?
+
+Include an AI Usage Statement with any course submission in which you used generative AI in a meaningful way. This includes, but is not limited to:
+
+- Generating ideas, outlines, or possible approaches.
+- Receiving feedback on a draft.
+- Revising wording, organization, or clarity.
+- Using AI for grammar refinement or editing suggestions.
+- Using AI for coding, LaTeX, or formatting assistance connected to the assignment.
+
+If you did not use generative AI for an assignment, no AI Usage Statement is required.
+
+## Required Components of the AI Usage Statement
+
+Each AI Usage Statement should include the following four elements:
+
+| Required Item | What to Include |
+|---|---|
+| **1. Tool used and date of access** | Name the AI tool and indicate when you used it. |
+| **2. Input prompt** | Provide the prompt or instruction you entered into the tool. |
+| **3. Output received** | Include a copy of the AI-generated output relevant to your assignment. |
+| **4. How you used or edited it** | Briefly explain whether you adopted, rejected, revised, summarized, or otherwise used the output. |
+
+## What If I Used AI Iteratively?
+
+Generative AI use is often conversational and iterative. You are not expected to include every single prompt and every output from a long exchange. Instead, include **no more than three** of the most consequential or important conversational snippets. Select the examples that best show how AI affected your work.
+
+For example, you might include:
+
+- A prompt used to generate initial brainstorming ideas.
+- A prompt asking for feedback on a draft paragraph.
+- A prompt used to improve clarity or organization in a final revision.
+
+## Suggested Format
+
+You may upload the AI Usage Statement as a separate document which accompanies your main submission.
+
+### AI Usage Statement Template
+
+**Name, course, and assignment.**
+
+**AI Tool:** [Tool name]
+
+**Date of Access:** [Date]
+
+**Prompt 1:**
+
+> [Paste the prompt you entered.]
+
+**Output 1:**
+
+> [Paste the relevant AI-generated output.]
+
+**How I Used or Edited This Output:**
+
+> [Briefly explain how the output informed your work, what you changed, and what you did not use.]
+
+## What Is Not Appropriate?
+
+The following are not consistent with course policy:
+
+- Submitting an assignment that was generated substantially or entirely by AI.
+- Using AI to invent experiences, qualifications, accomplishments, or participation records.
+- Using AI in a way that is prohibited by assignment-specific instructions.
+- Using AI but failing to disclose that use when a statement is required.
+
+::: {.callout-tip}
+**When in doubt:** Ask the instructor before using generative AI for a course assignment.
+:::
+
+## Why This Matters
+
+The AI Usage Statement is not intended to discourage legitimate use of useful tools. Its purpose is to make the writing process transparent and to ensure that submitted work remains your own.
+
+Failure to follow the course AI policy, including using generative AI when it is not permitted or failing to disclose its use, may be considered a violation of Georgia Tech's academic integrity policies.

@@ -1,0 +1,171 @@
+---
+title: "PHYS 4604: Professional Development"
+subtitle: "Fall 2026 | CRN #94323 | 1 credit hour"
+---
+
+**Fridays, 4:00–4:50 PM • Howey Physics L3 • Weekly in-person attendance required**
+
+## Course Description
+
+In this course, we will discuss practical skills for post-degree success. Topics include selecting graduate schools, understanding career options with a B.S. or Ph.D., applying to graduate school, applying to industry jobs, developing a professional network, and preparing a research proposal suitable for the NSF Graduate Research Fellowship Program.
+
+[NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/)
+
+This course is designed to produce tangible artifacts that can be used immediately in graduate school applications, job searches and applications, and professional networking.
+
+### Prerequisites
+
+There are no formal prerequisites, but the course is typically taken in the final year of the B.S. program in Physics, Astrophysics, or Applied Physics.
+
+### Learning Outcomes
+
+You will learn how to:
+
+- Write a résumé or CV.
+- Identify career opportunities, practice networking, and apply to industry jobs.
+- Choose and apply to graduate M.S. or Ph.D. programs.
+- Write a research proposal in the style of the NSF GRFP.
+
+[Georgia Tech résumé resources](https://career.gatech.edu/resumes/)
+
+[Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+
+## Instructor Information
+
+| | |
+|---|---|
+| **Instructor** | Andrew J. Steinmetz |
+| **Email** | [ajsteinmetz@gatech.edu](mailto:ajsteinmetz@gatech.edu) |
+| **Office** | Howey W204 |
+| **Office Hours** | [By appointment](https://outlook.office.com/bookwithme/user/118287044b844adb8cb5cfaadd54546f@gatech.edu?anonymous&ismsaljsauthenabled&ep=plink) |
+
+## Course Modality Information
+
+This is an in-person course with mandatory attendance.
+
+No required textbook. Course materials and assignment information will be provided through Canvas.
+
+## Course Schedule
+
+The course meets every Friday of the semester except holidays, from **August 28 through December 4**. The schedule below may be adjusted as needed throughout the semester. Please check the Canvas Homepage for the most up-to-date course schedule.
+
+| Date | Tentative Topic / Focus | Major Due Dates |
+|---|---|---|
+| Aug. 28 | Course introduction; résumés and CVs | — |
+| Sept. 4 | Résumé / CV review and revision workshop | — |
+| Sept. 11 | Career paths with a physics, astrophysics, or applied physics degree | **Résumé due** |
+| Sept. 14-15 | **Fall 2026 All Majors Career Fair** | — |
+| Sept. 18 | Professional networking and online presence | — |
+| Sept. 25 | LinkedIn, GitHub, personal websites, and professional identity | — |
+| Oct. 2 | Graduate school pathways and selecting programs | **Online professional presence due** |
+| Oct. 9 | Research proposals and NSF GRFP-style writing | — |
+| Oct. 16 | Research proposal workshop | — |
+| Oct. 23 | Guest lecture | **Research proposal due** |
+| Oct. 30 | Personal statements and cover letters | — |
+| Nov. | **NSF GRFP Deadlines for 2027** | — |
+| Nov. 6 | Industry applications and interviews | — |
+| Nov. 13 | Peer review and revision of application materials | — |
+| Nov. 20 | Graduate school and job application strategy | **Personal statement or cover letter due** |
+| Dec. 4 | Course wrap-up and professional development reflection | **External participation due** |
+
+## Assignments and Grading
+
+There are no exams in this course. Your grade is based primarily on attendance and participation, along with a small number of professional-development assignments. Written assignments should be submitted on Canvas in PDF format by **11:59 PM ET** unless otherwise specified.
+
+| Assignment | Due Date | Weight |
+|---|---|---|
+| Attendance / participation | Weekly | 52% |
+| Résumé | September 11 | 10% |
+| Online professional presence | October 2 | 4% |
+| Research proposal, GRFP style | October 23 | 15% |
+| Personal statement or cover letter | November 20 | 15% |
+| External participation | December 4 | 4% |
+
+### Assignment Descriptions
+
+- **Attendance / participation:** Attendance is mandatory. Participation will be scored through sign-in sheets and hand-submitted in-class activities. One missed class is dropped from the attendance grade.
+- **Résumé:** Prepare or revise a professional résumé suitable for job, internship, research, or graduate school applications.
+- **Online professional presence:** Set up a complete LinkedIn profile if you did not have one yet, improve a pre-existing LinkedIn profile, or document appropriate professional use of LinkedIn. GitHub pages, personal websites, or other professional portfolios are also encouraged.
+- **Research proposal:** Write a two-page research proposal with references in the style of the NSF Graduate Research Fellowship Program. This assignment should be completed in LaTeX.
+- **Personal statement or cover letter:** Write a graduate school personal statement or a job application cover letter, depending on your professional goals.
+- **External participation:** Participate in a professional-development event such as a Georgia Tech Career Center workshop, official career fair, industry interview, internship activity, research symposium, conference, grant submission, grant acceptance, or another instructor-approved activity during the semester. Written or photographic documentation of participation is required for credit. Keep an eye on the [Georgia Tech Campus Calendar](https://calendar.gatech.edu/) for career-building events. See also: [Interviewing resources](https://career.gatech.edu/interviewing/), [Co-ops and internships](https://career.gatech.edu/apply-for-co-ops-and-internships/), [Georgia Tech Career Fair](https://careerfair.gatech.edu/).
+
+### Grading Scale
+
+Your final grade will be assigned as a letter grade according to the following scale:
+
+| Letter Grade | Percentage |
+|---|---|
+| A | 90–100% |
+| B | 80–89% |
+| C | 70–79% |
+| D | 60–69% |
+| F | 0–59% |
+
+Final numeric grades are rounded to the nearest whole percent. For example, 83.76% becomes 84%. This course is not otherwise curved. At Georgia Tech, grades are awarded on a scale of A–F with no plus/minus grades permitted.
+
+[Georgia Tech grading system](http://registrar.gatech.edu/info/grading-system)
+
+## Course and Institution Policies
+
+### Attendance
+
+Attendance is mandatory; however, one missed class will be dropped from your grade. You must attend 13 of the 14 scheduled class sessions to receive a full attendance score of 13 × 4% = 52%.
+
+If you will miss a class for any reason, please let me know as soon as possible via email.
+
+To request an excused absence, contact the Dean of Students office for class absence verification in the case of a documented illness, hospitalization, accident, death in the family, family emergency, or lengthy illness.
+
+[Dean of Students: Class Attendance](https://studentlife.gatech.edu/dean-students/class-attendance)
+
+#### Late Work
+
+**Late work is not accepted.** An assignment may be excused only through the Dean of Students office. While this is not meant to be a difficult course, all assignments are open and available for the entirety of the semester, therefore appropriate time-management is expected.
+
+### Collaboration and Group Work
+
+Collaboration on assignments is reasonable, as is seeking peer review, feedback, or advice. However, the final product turned in should be the student's own work. Turned-in assignments that clearly do not reflect the student's own work will receive zero credit and may be considered a violation of academic integrity.
+
+### Limited Generative AI Use Permitted
+
+Use of generative AI, such as Copilot, ChatGPT, Claude, Gemini, and similar tools, is permitted in this course, but only within instructor-approved boundaries. Examples may include drafting assignments, stages of writing, revising work, providing feedback, grammar refinement, or coding assistance.
+
+[Georgia Tech OIT guidance on AI](https://oit.gatech.edu/ai/guidance)
+
+#### Two Golden Rules
+
+1. AI usage is entirely optional. You should never feel pressured to use it.
+2. AI should never be used to generate a whole assignment from scratch.
+
+AI usage must be transparent and documented in a required **AI Usage Statement** with each submission where it is used. The statement should include the following:
+
+- The tool used and date of access.
+- The input prompt used.
+- A copy of the output.
+- A brief description of how you used or edited the output.
+
+Because generative AI usage is often iterative, it would be cumbersome to include all prompts and outputs. Therefore, select no more than three of the most consequential or important conversational snippets to include in your statement.
+
+Failure to follow these guidelines, including using generative AI when it is not permitted or failing to disclose its use, may be considered a violation of Georgia Tech's academic integrity policies. When in doubt, always consult your instructor before using generative AI.
+
+### Academic Integrity
+
+Georgia Tech aims to cultivate a community based on trust, academic integrity, and honor. Students are expected to act according to the highest ethical standards.
+
+Any student suspected of cheating or plagiarizing on a quiz, exam, or assignment will be reported to the Office of Student Integrity, who will investigate the incident and identify the appropriate penalty for violations.
+
+[Georgia Tech Academic Honor Code](https://osi.gatech.edu/students/honor-code)
+
+### Accommodations for Individuals with Disabilities
+
+If you are a student with learning needs that require special accommodation, contact the Office of Disability Services, often referred to as ADAPTS, at [(404) 894-2563](tel:4048942563) or through the Office of Disability Services website as soon as possible to make an appointment to discuss your special needs and to obtain an accommodations letter.
+
+[Georgia Tech Office of Disability Services](http://disabilityservices.gatech.edu/)
+
+### Student-Faculty Expectations
+
+At Georgia Tech, we believe that it is important to strive for an atmosphere of mutual respect, acknowledgment, and responsibility between faculty members and the student body.
+
+In the end, simple respect for knowledge, hard work, and cordial interactions will help build the environment we seek. Therefore, I encourage you to remain committed to the ideals of Georgia Tech while in this class.
+
+[Georgia Tech student-faculty expectations](http://www.catalog.gatech.edu/rules/22/)

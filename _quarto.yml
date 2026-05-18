@@ -1,0 +1,12 @@
+project:
+  type: default
+
+format:
+  html:
+    theme: none
+    css: gatech-theme.css
+    toc: false
+    embed-resources: true
+
+execute:
+  freeze: auto
