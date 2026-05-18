@@ -1,0 +1,151 @@
+---
+title: "Technical and Professional Writing"
+subtitle: "PHYS 4604: Professional Development"
+---
+
+## Why Writing Matters in This Course
+
+This course is designed to help you produce materials that can be used immediately in graduate-school applications, job searches, fellowship applications, and professional networking. The assignments in this course are therefore not only obstacles in your path in pursuit of an agreeable letter grade but documents that can help develop your career and reputation as a physicist.
+
+::: {.callout-tip}
+## Recommendation
+*The Elements of Style* by W. Strunk Jr. and E. B. White (often referred to as [*Strunk & White*](https://en.wikipedia.org/wiki/The_Elements_of_Style)) is a popular and concise (~50–100 pages depending on the edition) book about how to write well in English. To quote Stephen King: *"There is little or no detectable bullshit in that book."* While not specifically about technical writing, much of its wisdom is broadly applicable.
+:::
+
+Strong technical and professional writing is:
+
+- **Clear:** the reader can understand your purpose and main points without guessing;
+- **Specific:** claims are supported by concrete details, evidence, or examples;
+- **Audience-aware:** the document is shaped toward the actual reader and context;
+- **Professional:** formatting, tone, grammar, and organization reinforce your credibility;
+- **Purposeful:** every section contributes to the document's goal.
+
+::: {.callout-note}
+## Core principle
+Good technical writing accomplishes an objective and communicates it to the audience.
+:::
+
+## Start with Audience and Purpose
+
+Before writing, identify two things:
+
+1. **Who is the reader?**
+2. **What should the document accomplish?**
+
+| Document | Likely Reader | Primary Purpose |
+|---|---|---|
+| **Résumé** | Employer, recruiter, hiring manager, research supervisor | Show that your background fits a specific role. |
+| **Online professional profile** | Employers, alumni, collaborators, graduate programs, professional contacts | Present a concise and credible professional identity. |
+| **Research proposal** | Fellowship reviewers, faculty, research mentors | Persuade the reader that a research question is important, feasible, and worth supporting. |
+| **Personal statement** | Graduate admissions committee, faculty group, research supervisor | Explain your preparation, goals, and fit for a specific academic opportunity. |
+| **Cover letter** | Employer or hiring committee | Show why your experience and interests match a specific job posting. |
+
+A document that is technically polished but not shaped toward its actual audience will usually be less effective than a slightly simpler document that is highly specific and well targeted.
+
+An example mismatch would be a B.S. Physics student applying to a data analysis, engineering, or technical role who writes a résumé like a graduate-school application, emphasizing abstract intellectual interests and course topics while underemphasizing concrete skills, projects, software and instrumentation, teamwork, and deliverables.
+
+## Writing Style: Clear, Specific, and Direct
+
+Technical and professional writing should favor clarity over vagueness, needless complexity, and ornament for its own sake. Use specialized vocabulary when your audience requires it, but do not use complexity to imitate expertise.
+
+### Prefer Specific Claims
+
+| Less Effective | More Effective |
+|---|---|
+| I gained valuable research experience. | I analyzed detector calibration data in Python and developed plots used in weekly group meetings. |
+| This research is important. | This work addresses how improved vacuum diagnostics could improve pump longevity and increase vacuum stability. |
+| I am passionate about physics. | My interest in condensed-matter physics developed through coursework in quantum mechanics, auditing a graduate-level solid-state class, and a summer project modeling lattice excitations. |
+
+### Use Strong Verbs
+
+Especially in résumés and cover letters, strong verbs help the reader understand what you did. Examples include analyzed, designed, developed, implemented, measured, modeled, presented, programmed, tested, and wrote.
+
+### Avoid Empty Intensifiers
+
+Words such as *very*, *extremely*, *incredibly*, and *highly* often add less value than a concrete detail.
+
+::: {.callout-tip}
+## Better habit
+Replace vague emphasis with evidence, examples, or measurable detail whenever possible.
+:::
+
+## Concision and Structure
+
+Concise writing is about sentence structure rather than whether a document is particularly lengthy or short.
+
+### Paragraph Structure
+
+Each paragraph should usually have:
+
+1. A clear main point;
+2. Specific support or evidence;
+3. A connection back to the purpose of the document.
+
+For example, in a personal statement, a paragraph about prior research experience should not merely list tasks. It should explain how those tasks prepared you for the graduate program, professor, laboratory, or research direction you are targeting.
+
+### Document-Level Flow
+
+Longer professional documents should guide the reader logically:
+
+- **Opening:** Establish purpose and direction.
+- **Middle:** Provide evidence, preparation, or technical substance.
+- **Closing:** Reinforce significance or intended next steps.
+
+## Formatting: Make the Document Easy to Read
+
+Formatting helps a reader navigate your document, locate key information, and form an impression of your professionalism. This last effect is partly psychological and partly conventional: a reader may ignore your message or stop reading if the document is difficult or annoying to read. Formatting may be precisely prescribed, as in a grant proposal, or guided more loosely by disciplinary norms and aesthetic judgment, as in an academic publication.
+
+### General Formatting Principles
+
+- Use consistent spacing, indentation, capitalization, and punctuation.
+- Use headings to guide the reader where appropriate.
+- Maintain enough white space that the page does not feel crowded.
+- Choose readable fonts and avoid excessive visual complexity.
+- Align dates, titles, and section labels consistently.
+
+## Citations and References
+
+Citations are especially important in research writing. They show how your work fits into existing knowledge, help establish credibility, and allow readers to confirm information used to support your claims. Citations should also prioritize primary sources, peer-reviewed literature, and authoritative texts over blogs, social media posts, and anonymous webpages.
+
+### When Should You Cite?
+
+In a research document, whether a proposal or publication, cite sources when you:
+
+- Describe prior research or accepted findings;
+- Identify an open problem, technical limitation, or gap in the literature;
+- Use a specialized method, model, dataset, or established experimental approach;
+- Make a factual claim that is not common knowledge;
+- Position your proposed research relative to existing work.
+
+::: {.callout-warning}
+## Do not pad references
+Unless you are writing a review article, a compact and well-chosen bibliography is usually more effective than a long list of sources that are never meaningfully integrated into the document's message.
+:::
+
+## Responsible Source Use
+
+Technical writing requires intentional use of references. When using outside sources:
+
+- Read sources closely enough to understand what they actually claim.
+- Do not cite a paper merely because it seems related from the title or abstract.
+- Do not copy wording without quotation and attribution.
+- Do not distort a source to make it support a claim it does not support.
+- Check citations, bibliographic information, and URLs carefully before submission.
+
+## Revision Is Part of Writing
+
+Strong documents are rarely produced in a single draft. Revision should be expected.
+
+### A Useful Revision Process
+
+1. Draft the main content and get the main ideas onto the page.
+2. Revise the structure to check that the document flows logically.
+3. Revise to replace vague claims with details and evidence.
+4. Revise to ensure the document satisfies the purpose expected by the reader.
+5. Edit the style and formatting to improve clarity and remove awkward sentences.
+6. Proofread carefully.
+
+::: {.callout-tip}
+## Recommendation
+Read important application documents aloud during revision. Awkward phrasing, overly long sentences, and unclear transitions often become easier to notice.
+:::

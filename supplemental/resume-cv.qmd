@@ -1,0 +1,91 @@
+---
+title: "Résumé vs. Academic CV"
+subtitle: "PHYS 4604: Professional Development"
+---
+
+## The Short Version
+
+A **résumé** is a concise, targeted document that highlights the experiences and qualifications most relevant to a particular opportunity. It is the standard document for most internships, industry jobs, research technician positions, and many early-career applications.
+
+An **academic curriculum vitae**, usually called a **CV**, is a longer and more comprehensive record of academic, research, teaching, and professional accomplishments. It grows over time and is commonly used for graduate school, academic research positions, postdoctoral applications, faculty positions, grant applications, and promotion or review processes.
+
+::: {.callout-important}
+Most undergraduates will need a strong résumé well before they need a true academic CV. An academic CV is often first developed during graduate school, when publications, talks, research outputs, teaching roles, and professional service begin to accumulate.
+:::
+
+## When Should You Use Each?
+
+| Situation | Usually Use | Why |
+|---|---|---|
+| Internship or industry job application | **Résumé** | Employers typically want a concise, tailored summary of relevant skills and experience. |
+| Career fair or networking conversation | **Résumé** | A short document is easier to scan quickly and use in conversation. |
+| Undergraduate research position | **Usually résumé** | A résumé is typically sufficient unless the program specifically asks for a CV. |
+| Graduate school application | **Résumé or CV** | Follow the program instructions. Research-intensive programs may request a CV. |
+| Graduate fellowship, academic research role, or postdoctoral application | **Academic CV** | These applications often need a fuller record of research, publications, presentations, and honors. |
+| Faculty jobs, academic promotion, grant applications | **Academic CV** | The CV serves as a comprehensive professional record. |
+
+## Key Differences
+
+| Feature | Résumé | Academic CV |
+|---|---|---|
+| **Typical length** | Often 1 page for undergraduates; sometimes 2 pages with substantial experience | No fixed limit; grows with academic experience |
+| **Purpose** | Market your fit for a specific role | Document your full academic and professional record |
+| **Customization** | Highly tailored to the job, internship, or opportunity | Usually updated over time, but less radically tailored |
+| **Style** | Selective, concise, skill-oriented | Comprehensive, chronological, detailed |
+| **Common content** | Education, skills, experience, projects, leadership, selected awards | Education, appointments, publications, talks, teaching, grants, awards, mentoring, service, outreach, professional memberships |
+| **Main question answered** | "Why are you a strong candidate for this position?" | "What is the full scope of your academic and professional record?" |
+
+## What Belongs on a Résumé?
+
+A résumé should be selective. You do not need to list everything you have ever done. Instead, choose the experiences most relevant to the opportunity you are pursuing.
+
+### Common Résumé Sections
+
+- Contact information
+- Education
+- Relevant work, research, or internship experience
+- Projects or technical experience
+- Skills, especially software, laboratory, computational, or language skills
+- Leadership, service, or activities, when relevant
+- Selected honors or awards, if useful
+
+::: {.callout-note}
+## PHYS 4604 résumé assignment
+Most, if not all, students should submit a résumé rather than an academic CV. The goal is to prepare a polished professional document that can be used for jobs, internships, research opportunities, career fairs, or related applications.
+:::
+
+## What Belongs on an Academic CV?
+
+An academic CV is much broader than a résumé. The three example CVs provided for this course show that academic CVs can vary in style and length, but they commonly document a wide range of academic contributions.
+
+### Common Academic CV Sections
+
+- Contact information and professional title
+- Education, often including dissertation or advisor information
+- Academic employment or appointments
+- Research interests or areas of specialization
+- Publications, sometimes separated into peer-reviewed articles, book chapters, reports, and works in progress
+- Conference presentations, invited talks, and seminars
+- Grants, fellowships, awards, and honors
+- Teaching experience, often with courses, terms, enrollment, or instructional roles
+- Mentoring and student supervision
+- Professional service, such as reviewing, organizing conferences, committee work, and society involvement
+- Institutional service and public outreach
+
+## Practical Guidance for Students
+
+1. **Start with a résumé.** Every student should be able to produce a polished résumé for jobs, internships, research roles, and networking.
+2. **Begin a CV only when it becomes useful.** This often happens during graduate school, or earlier if you begin applying for research-intensive programs that specifically request one.
+3. **Follow the instructions of the opportunity.** If an application asks for a résumé, submit a résumé. If it asks for a CV, submit a CV.
+4. **Do not simply rename one document.** A résumé and CV serve different purposes and should be structured accordingly.
+5. **Maintain a master record.** Even if you are submitting a one-page résumé, keep a private running list of all research projects, presentations, awards, teaching roles, and service. That record can later become the basis of an academic CV.
+
+## Bottom Line
+
+::: {.callout-tip}
+**Use a résumé** when you need a concise, targeted document for a job, internship, networking event, or many undergraduate opportunities.
+
+**Use an academic CV** when you need a fuller scholarly record, starting usually in graduate school, for fellowships, research-intensive academic applications, or later academic careers.
+
+For most students in PHYS 4604, the immediate priority is learning to produce a strong résumé. Understanding the academic CV now will help you recognize when and how to build one later.
+:::
