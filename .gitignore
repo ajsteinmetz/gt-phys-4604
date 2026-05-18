@@ -1,0 +1,17 @@
+# Quarto build artifacts
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+/.quarto/
+
+**/*.quarto_ipynb

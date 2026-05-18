@@ -1,0 +1,130 @@
+---
+title: "PHYS 4604: Professional Development"
+subtitle: "Fall 2026 | CRN #94323 | 1 credit hour"
+---
+
+**Fridays, 4:00–4:50 PM • Howey Physics L3 • Weekly in-person attendance required**
+
+## Welcome
+
+Welcome to **PHYS 4604: Professional Development**. This course is designed to help you prepare for life after your undergraduate degree, whether you are planning to apply to graduate school, pursue industry positions, develop a professional network, or explore multiple possible career paths.
+
+By the end of the semester, you should have several tangible professional materials that you can use immediately, including a résumé or CV, an online professional profile, a research proposal in the style of the NSF Graduate Research Fellowship Program, and either a graduate school personal statement or job cover letter.
+
+::: {.callout-note}
+Review the [full syllabus on Canvas](https://gatech.instructure.com/courses/559356/pages/phys-4604-syllabus-fall-2026) as the home page is a truncated version (with the exception of the Course Schedule which will remain updated here if anything changes during the semester).
+:::
+
+## Course Description
+
+In this course, we will discuss practical skills for post-degree success. Topics include selecting graduate schools, understanding career options with a B.S. or Ph.D., applying to graduate school, applying to industry jobs, developing a professional network, and preparing a research proposal suitable for the NSF Graduate Research Fellowship Program.
+
+There are no formal prerequisites, but the course is typically taken in the final year of the B.S. program in Physics, Astrophysics, or Applied Physics.
+
+### Learning Outcomes
+
+- Write a résumé or CV.
+- Identify career opportunities, practice networking, and apply to industry jobs.
+- Choose and apply to graduate M.S. or Ph.D. programs.
+- Write a research proposal in the style of the NSF GRFP.
+
+## Instructor Information
+
+| | |
+|---|---|
+| **Instructor** | Andrew J. Steinmetz |
+| **Email** | [ajsteinmetz@gatech.edu](mailto:ajsteinmetz@gatech.edu) |
+| **Office** | Howey W204 |
+| **Office Hours** | [By appointment](https://outlook.office.com/bookwithme/user/118287044b844adb8cb5cfaadd54546f@gatech.edu?anonymous&ismsaljsauthenabled&ep=plink) |
+
+## Course Schedule
+
+The course meets every Friday of the semester except holidays, from **August 28 through December 4**. The schedule below may be adjusted as needed throughout the semester.
+
+| Date | Tentative Topic / Focus | Major Due Dates |
+|---|---|---|
+| Aug. 28 | Course introduction; résumés and CVs | — |
+| Sept. 4 | Résumé / CV review and revision workshop | — |
+| Sept. 11 | Career paths with a physics, astrophysics, or applied physics degree | **Résumé due** |
+| Sept. 14-15 | **Fall 2026 All Majors Career Fair** | — |
+| Sept. 18 | Professional networking and online presence | — |
+| Sept. 25 | LinkedIn, GitHub, personal websites, and professional identity | — |
+| Oct. 2 | Graduate school pathways and selecting programs | **Online professional presence due** |
+| Oct. 9 | Research proposals and NSF GRFP-style writing | — |
+| Oct. 16 | Research proposal workshop | — |
+| Oct. 23 | Guest lecture | **Research proposal due** |
+| Oct. 30 | Personal statements and cover letters | — |
+| Nov. | **NSF GRFP Deadlines for 2027** | — |
+| Nov. 6 | Industry applications and interviews | — |
+| Nov. 13 | Peer review and revision of application materials | — |
+| Nov. 20 | Graduate school and job application strategy | **Personal statement or cover letter due** |
+| Dec. 4 | Course wrap-up and professional development reflection | **External participation due** |
+
+## Assignments and Grading
+
+There are no exams in this course. Your grade is based primarily on attendance and participation, along with a small number of professional-development assignments. Written assignments should be submitted on Canvas in PDF format by **11:59 PM ET** unless otherwise specified.
+
+| Assignment | Due Date | Weight |
+|---|---|---|
+| Attendance / participation | Weekly | 52% |
+| Résumé | September 11 | 10% |
+| Online professional presence | October 2 | 4% |
+| Research proposal, GRFP style | October 23 | 15% |
+| Personal statement or cover letter | November 20 | 15% |
+| External participation | December 4 | 4% |
+
+### Assignment Descriptions
+
+- **Attendance / participation:** Attendance is mandatory. Participation will be scored through sign-in sheets and hand-submitted in-class activities. One missed class is dropped from the attendance grade.
+- **[Résumé](https://gatech.instructure.com/courses/559356/assignments/2471170):** Prepare or revise a professional résumé suitable for job, internship, research, or graduate school applications.
+- **[Online professional presence](https://gatech.instructure.com/courses/559356/assignments/2471172):** Set up a complete LinkedIn profile, improve a pre-existing LinkedIn profile, or document appropriate professional use of LinkedIn. GitHub pages, personal websites, or other professional portfolios are also encouraged.
+- **[Research proposal](https://gatech.instructure.com/courses/559356/assignments/2475460):** Write a two-page research proposal with references in the style of the NSF Graduate Research Fellowship Program. This assignment should be completed in LaTeX.
+- **[Personal statement or cover letter](https://gatech.instructure.com/courses/559356/assignments/2475462):** Write a graduate school personal statement or a job application cover letter, depending on your professional goals.
+- **[External participation](https://gatech.instructure.com/courses/559356/assignments/2475464):** Participate in a professional-development event such as a Georgia Tech Career Center workshop, official career fair, industry interview, internship activity, research symposium, conference, grant submission, or another instructor-approved activity. Written or photographic documentation is required for credit.
+
+## Important Links and Resources
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Career Preparation**
+
+- [Georgia Tech résumé resources](https://career.gatech.edu/resumes/)
+- [Interviewing resources](https://career.gatech.edu/interviewing/)
+- [Co-ops and internships](https://career.gatech.edu/apply-for-co-ops-and-internships/)
+- [Georgia Tech Career Fair](https://careerfair.gatech.edu/)
+
+**Graduate School and Proposals**
+
+- [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/)
+- [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+:::
+
+::: {.column width="50%"}
+**Campus Resources**
+
+- [Georgia Tech Campus Calendar](https://calendar.gatech.edu/)
+- [Dean of Students class attendance verification](https://studentlife.gatech.edu/dean-students/class-attendance)
+- [Office of Disability Services / ADAPTS](https://disabilityservices.gatech.edu/)
+
+**Policies**
+
+- [Georgia Tech Academic Honor Code](https://osi.gatech.edu/students/honor-code)
+- [Georgia Tech guidance on generative AI](https://oit.gatech.edu/ai/guidance)
+- [Georgia Tech grading system](http://registrar.gatech.edu/info/grading-system)
+- [Student-faculty expectations](http://www.catalog.gatech.edu/rules/22/)
+:::
+
+::::
+
+## A Few Important Course Notes
+
+- **Attendance is mandatory.** One missed class is dropped from the attendance grade. If you will miss class, please email the instructor as soon as possible.
+- **No textbook is required.** Course materials and assignment information will be provided through Canvas.
+- **Collaboration is allowed within reason.** Peer review, feedback, and advice are appropriate, but submitted work must be your own.
+- **Limited generative AI use is permitted.** AI may be used only within instructor-approved boundaries and must be documented with an [AI Usage Statement](https://gatech.instructure.com/courses/559356/pages/how-to-format-an-ai-usage-statement) when used.
+- **When in doubt, ask.** If you are unsure whether a resource, collaboration, or AI use is appropriate, contact the instructor before submitting.
+
+::: {.callout-tip}
+**Next steps:** Review the [full syllabus on Canvas](https://gatech.instructure.com/courses/559356/pages/phys-4604-syllabus-fall-2026), then take the [Syllabus Quiz](https://gatech.instructure.com/courses/559356/quizzes/786463). Note the major assignment due dates listed in the Course Schedule and begin thinking about which post-degree pathway you want to prepare for this semester.
+:::
