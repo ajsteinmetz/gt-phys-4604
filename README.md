@@ -1,4 +1,4 @@
-# GT-PHYS-4604
+# gt-phys-4604
 
 PHYS 4604 — Professional Development
 
