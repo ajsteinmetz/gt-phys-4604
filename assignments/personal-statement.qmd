@@ -1,0 +1,89 @@
+---
+title: "Personal Statement or Cover Letter Assignment"
+subtitle: "Due: November 20 by 11:59 PM ET · PDF uploaded to Canvas · 15% of course grade"
+---
+
+## Purpose
+
+For this assignment, you will prepare a polished application document aligned with one of two possible professional pathways:
+
+1. A **personal statement** for graduate-school or research-oriented applications, or
+2. A **job cover letter** for an industry, government, nonprofit, laboratory, or other professional position.
+
+A document of either type satisfies this assignment. Choose the format most relevant to your current goals.
+
+::: {.callout-important}
+This assignment must be shaped toward a **real opportunity**, preferably one you are actually interested in applying for. Generic statements or generic cover letters will not earn a high grade.
+:::
+
+## Personal Statement vs. Cover Letter
+
+| Document | Primary Purpose | Typical Audience |
+|---|---|---|
+| **Personal Statement** | Explains your preparation, interests, motivations, and fit for a graduate program, research group, professor, or advanced academic opportunity. | Graduate admissions committees, faculty mentors, or research groups. |
+| **Cover Letter** | Explains why your skills, background, and interests make you a strong candidate for a specific job posting. | Hiring managers, recruiters, technical team leads, laboratories, companies, or other employers. |
+
+Both documents are persuasive professional writing, but they are shaped differently. A personal statement typically emphasizes your academic development, research interests, intellectual goals, and fit with a program or group. A cover letter typically emphasizes your qualifications for a particular role, your relevant experiences, and your ability to contribute to an employer's needs.
+
+## Choose One Assignment Track
+
+### Option A: Personal Statement
+
+Write a personal statement directed toward a **real graduate-school or research opportunity**. Your statement must be shaped toward at least one of the following:
+
+- A specific graduate institution or department;
+- A specific professor, laboratory, or research group;
+- A specific Ph.D. or M.S. research advertisement or posting.
+
+Your statement should make clear why the opportunity is a good fit for your goals. It should not read as a generic statement that could be sent unchanged to many unrelated programs. A strong personal statement will generally:
+
+- Explain your academic or research interests.
+- Describe relevant preparation, experiences, and skills.
+- Connect your background to the specific program, faculty member, laboratory, or research opportunity.
+- Show that you have investigated the program thoroughly rather than writing generically.
+- Communicate your next-step goals clearly and professionally.
+
+### Option B: Job Cover Letter
+
+Write a cover letter directed toward a **real job posting**. This may be a posting for employment, an internship, a research technician role, a national laboratory role, an engineering or data position, or another relevant employer. Your letter should be shaped toward the specific job advertisement. A strong cover letter will generally:
+
+- Identify the specific position or opportunity.
+- Explain why you are interested in that role and organization.
+- Highlight experiences and skills directly relevant to the posting.
+- Demonstrate that you understand what the employer is seeking.
+- Communicate professionally and concisely.
+
+## Required Additional Documentation
+
+In addition to your personal statement or cover letter, you must include a copy of or link to the real opportunity that shaped your document. Include one of the following, as appropriate:
+
+- A URL link to the relevant graduate department or program;
+- A URL link to a faculty member's laboratory or research group;
+- A URL link to a specific Ph.D. or M.S. posting or research opportunity;
+- A URL link to a specific job posting;
+- A PDF or screenshot copy of the posting or webpage, especially if the listing may expire.
+
+::: {.callout-tip}
+## Recommendation
+For job postings and time-sensitive advertisements, include a saved PDF or screenshot whenever practical. Online postings may disappear before the assignment is graded.
+:::
+
+## What to Submit
+
+Upload to Canvas the following:
+
+1. Your completed PDF personal statement or job cover letter.
+2. A URL link and/or copy of the relevant advertisement, webpage, department page, or laboratory group page.
+3. An [**AI Usage Statement**](https://gatech.instructure.com/courses/559356/pages/how-to-format-an-ai-usage-statement), if generative AI was used during your writing or revision process.
+
+::: {.callout-note}
+The assignment should reflect your own work and professional history. Peer review, instructor feedback, and reasonable collaboration are welcome, but the final submitted document must be your own.
+:::
+
+## Submission Checklist
+
+- My document is shaped toward a real career position.
+- I proofread for clarity, organization, tone, spelling, and grammar.
+- I submitted the assignment as a single PDF through Canvas.
+- I included a URL link and/or copy of the relevant job/position information.
+- I included an AI Usage Statement, if needed.

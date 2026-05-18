@@ -1,0 +1,68 @@
+---
+title: "Online Profile Assignment"
+subtitle: "Due: October 2 by 11:59 PM ET · PDF uploaded to Canvas · 4% of course grade"
+---
+
+## Purpose
+
+A professional online presence can help you connect with employers, graduate programs, alumni, researchers, and professional communities. You will create or meaningfully improve an online professional profile that represents your background, interests, and goals.
+
+The primary focus of this assignment is [**LinkedIn**](https://www.linkedin.com/). Students who do not yet have a LinkedIn profile should create a complete profile. Students who already have a LinkedIn profile should revise and strengthen that profile.
+
+::: {.callout-tip}
+## Encouraged, but not required
+You may also include links to supplementary professional materials such as a personal website, [GitHub profile](https://github.com/), digital portfolio, [ORCID profile](https://orcid.org/), or other relevant professional presence.
+:::
+
+## What to Submit
+
+Submit a single PDF to Canvas that documents your online professional presence. Your submission should include:
+
+1. A PDF copy of your LinkedIn profile, saved using LinkedIn's profile export feature.
+2. Optional supplementary URLs to professional websites, portfolios, GitHub, or similar materials that you would like to share. These links are encouraged but are not worth extra points.
+
+## How to Save Your LinkedIn Profile as a PDF
+
+LinkedIn provides a built-in option to save your profile as a PDF from a desktop browser. To do so:
+
+1. Log in to LinkedIn on a desktop web browser.
+2. Click the **Me** icon at the top of the LinkedIn homepage.
+3. Select **View Profile**.
+4. In the introduction section of your profile, click **More** or **Resources**.
+5. Select **Save to PDF**.
+
+LinkedIn notes that this export feature is available only for profiles set to English. If you are unable to access the PDF export feature, contact your instructor for an appropriate alternative method of documentation.
+
+[LinkedIn Help: Save a profile as a PDF](https://www.linkedin.com/help/linkedin/answer/a541960)
+
+## Expectations
+
+Your LinkedIn profile should present you in a clear and professional way. A strong submission will generally include:
+
+- A full name and headline.
+- An introductory summary of yourself.
+- A location and/or academic or professional affiliation, where appropriate.
+- An education section that includes Georgia Tech and your degree program.
+- Relevant work, research, leadership, project, or service experience.
+- Skills, interests, or areas of professional focus relevant to your goals.
+
+You are encouraged to think about how the profile communicates your likely next steps: industry employment, internships, graduate school, research, or another professional pathway.
+
+## Optional Supplementary Professional Links
+
+In addition to your LinkedIn profile, you may include links to other professional materials. These are encouraged, especially when relevant to your field or goals, but they are not required and are not worth extra points.
+
+Examples include:
+
+- A personal professional website.
+- A GitHub profile or other code portfolio.
+- A design, writing, or project portfolio.
+- An ORCID profile or other research-facing professional profile.
+- Another professional platform directly relevant to your career direction.
+
+## Submission Checklist
+
+- I have checked my profile for clarity, professionalism, spelling, and grammar.
+- I have saved my LinkedIn profile as a PDF.
+- I have uploaded the final PDF to Canvas.
+- I have included any optional URLs I would like to share.

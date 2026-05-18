@@ -1,0 +1,100 @@
+---
+title: "Research Proposal, GRFP Style"
+subtitle: "Due: October 23 by 11:59 PM ET · PDF uploaded to Canvas · 15% of course grade"
+---
+
+## Purpose
+
+For this assignment, you will write a **two-page research proposal with references** modeled after the National Science Foundation Graduate Research Fellowship Program [Graduate Research Plan Statement](https://www.nsfgrfp.org/applicants/statements.html).
+
+The proposal should be developed with the intention of being **ready (or nearly ready) for an actual NSF GRFP submission**, should you choose to pursue the fellowship. This means that the proposal should describe a serious, feasible, and clearly motivated graduate-level research direction rather than a vague topic area or informal class exercise.
+
+::: {.callout-important}
+Undergraduate seniors and B.S. degree holders with no prior graduate enrollment can apply for the NSF GRFP multiple times. However, once enrolled in a graduate program (including joint B.S.-M.S. degree programs), you can only apply **once** in the first year of your first graduate program.
+:::
+
+## Assignment Overview
+
+Your proposal should present a focused research question or project that could plausibly be pursued in graduate study. It should explain:
+
+- What problem, question, or opportunity motivates the proposed research;
+- Why that problem matters scientifically, technically, or societally;
+- What approach, methods, or strategy you would use;
+- What new knowledge, capability, or impact could result;
+- How the project addresses NSF's review criteria of **Intellectual Merit** and **Broader Impacts**.
+
+The current NSF GRFP Graduate Research Plan Statement requires applicants to address both **Intellectual Merit** and **Broader Impacts** and to include headings for these criteria. Your assignment submission should do the same.
+
+## What to Submit
+
+Upload to Canvas the following:
+
+1. Your completed two-page research proposal with references as a PDF formatted in LaTeX.
+2. An [AI Usage Statement](https://gatech.instructure.com/courses/559356/pages/how-to-format-an-ai-usage-statement), if generative AI was used during the drafting, revision, or formatting of the proposal.
+
+## Proposal Structure
+
+A strong proposal will be specific, carefully reasoned, and shaped toward a plausible graduate research direction. Your proposal may be organized in different ways depending on the project. The following is a starting template:
+
+| Section | Purpose |
+|---|---|
+| **Title** | A concise, informative title for the proposed research. |
+| **Motivation / Background** | Introduce the research problem, its context, and why it matters. |
+| **Research Question or Objective** | State clearly what the proposed work seeks to understand, test, develop, or accomplish. |
+| **Approach / Methods** | Describe the proposed strategy, tools, models, experiments, calculations, or analyses. |
+| **Intellectual Merit** | Explain how the project could advance knowledge, contribute to the field, or address an important scientific or technical challenge. |
+| **Broader Impacts** | Explain how the proposed work may benefit society or contribute to broader educational, scientific, technological, or community outcomes. |
+| **References** | Cite relevant literature clearly and consistently. |
+
+## Intellectual Merit
+
+The **Intellectual Merit** portion should make a convincing case that the proposed research is worth doing. Depending on the project, this may involve:
+
+- Identifying an important open question or gap in current understanding;
+- Proposing a novel theoretical, computational, experimental, or analytical approach;
+- Developing a new tool, method, dataset, model, or capability;
+- Connecting your project to broader questions in physics, astrophysics, engineering, or another relevant field;
+- Explaining what a successful outcome would teach the field.
+
+## Broader Impacts
+
+The **Broader Impacts** portion should explain how the work or its surrounding activities may benefit society or contribute to broader goals beyond the immediate technical result. NSF describes broader impacts as the potential to benefit society and contribute to desired societal outcomes.
+
+Depending on the proposal, broader impacts might include:
+
+- Educational outreach or public engagement;
+- Broadening access to scientific knowledge or research participation;
+- Development of tools, software, open resources, or data products;
+- Applications that support technology, energy, health, infrastructure, sustainability, or national needs;
+- Training, mentoring, or workforce development;
+- Contributions to scientific communication or public understanding.
+
+## Level of Polish Expected
+
+This proposal should be treated as a serious professional draft. A successful submission should be:
+
+- Near submission quality in tone, clarity, and technical presentation;
+- Carefully edited for organization, grammar, and readability;
+- Grounded in credible literature through appropriate references;
+- Specific enough that the reader understands what work would actually be done;
+- Realistic enough that the project could plausibly be proposed by an incoming or early graduate student with appropriate mentorship.
+
+::: {.callout-tip}
+## Practical goal
+By the end of this assignment, a student interested in attending a graduate program should seriously consider applying for the NSF GRFP.
+:::
+
+## Helpful Resources
+
+- [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/)
+- [NSF GRFP Statement Requirements](https://www.nsfgrfp.org/applicants/statements.html)
+- [NSF GRFP Funding Opportunity Page](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program)
+- [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+
+## Submission Checklist
+
+- I wrote a two-page research proposal with references.
+- I included explicit attention to Intellectual Merit.
+- I included explicit attention to Broader Impacts.
+- I edited the proposal for clarity, professionalism, and near-submission quality.
+- I included an AI Usage Statement, if needed.

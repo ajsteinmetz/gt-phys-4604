@@ -80,12 +80,6 @@ An academic CV is much broader than a résumé. The three example CVs provided f
 4. **Do not simply rename one document.** A résumé and CV serve different purposes and should be structured accordingly.
 5. **Maintain a master record.** Even if you are submitting a one-page résumé, keep a private running list of all research projects, presentations, awards, teaching roles, and service. That record can later become the basis of an academic CV.
 
-## Bottom Line
-
 ::: {.callout-tip}
-**Use a résumé** when you need a concise, targeted document for a job, internship, networking event, or many undergraduate opportunities.
-
-**Use an academic CV** when you need a fuller scholarly record, starting usually in graduate school, for fellowships, research-intensive academic applications, or later academic careers.
-
 For most students in PHYS 4604, the immediate priority is learning to produce a strong résumé. Understanding the academic CV now will help you recognize when and how to build one later.
 :::

@@ -1,0 +1,43 @@
+---
+title: "Résumé Assignment"
+subtitle: "Due: September 11 by 11:59 PM ET · PDF uploaded to Canvas · 10% of course grade"
+---
+
+## Purpose
+
+Résumés have a long history going back to at least Leonardo da Vinci, [who wrote a letter](https://artsandculture.google.com/asset/atlantic-codex-codex-atlanticus-f-1082recto-leonardo-da-vinci/EAFjs2sqiBInqg?hl=en) to Ludovico il Moro, Duke of Milan, [summarizing his many talents](https://bookhaven.stanford.edu/2015/11/leonardo-da-vinci-on-how-to-write-a-c-v/) c. 1483–1485.
+
+For this assignment, prepare or revise a professional résumé suitable for use in a job, internship, research, or graduate-school application context. This assignment is intended to produce a polished professional document that you can continue refining and using beyond this course.
+
+Your résumé should present your education, experiences, skills, and accomplishments clearly and strategically for the kinds of opportunities you may pursue after graduation.
+
+::: {.callout-note}
+For the differences between a résumé and an academic CV, see the [Résumé vs. Academic CV](https://gatech.instructure.com/courses/559356/pages/resume-vs-academic-cv) supplemental guide.
+:::
+
+## What to Submit
+
+- A completed or revised résumé.
+- The file must be submitted as a PDF.
+- Upload the PDF directly to this Canvas assignment by the deadline.
+- If you used generative AI while developing or revising your résumé, include the required [**AI Usage Statement**](https://gatech.instructure.com/courses/559356/pages/how-to-format-an-ai-usage-statement).
+
+## Expectations
+
+Your résumé should be professional, readable, and carefully edited. While the precise content will vary, strong résumés typically:
+
+- Use clear organization and consistent formatting.
+- Highlight relevant education, work, research, leadership, service, projects, or technical experience.
+- Describe experiences in a concise, accomplishment-oriented way.
+- Use language appropriate for professional or academic opportunities.
+- Contain no obvious spelling, grammar, or formatting errors.
+
+## Helpful Resources
+
+- [Georgia Tech Career Center résumé guidance](https://career.gatech.edu/resumes/)
+
+## Submission Checklist
+
+- I have reviewed the document for clarity, formatting, spelling, and grammar.
+- I have submitted my résumé as a PDF.
+- I have included an AI Usage Statement, if needed.

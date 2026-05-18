@@ -54,7 +54,7 @@ Technical and professional writing should favor clarity over vagueness, needless
 |---|---|
 | I gained valuable research experience. | I analyzed detector calibration data in Python and developed plots used in weekly group meetings. |
 | This research is important. | This work addresses how improved vacuum diagnostics could improve pump longevity and increase vacuum stability. |
-| I am passionate about physics. | My interest in condensed-matter physics developed through coursework in quantum mechanics, auditing a graduate-level solid-state class, and a summer project modeling lattice excitations. |
+| I am passionate about physics. | My interest in condensed-matter developed through my coursework in quantum mechanics, auditing a graduate-level solid-state class, and a summer project with Professor X modeling lattice excitations. |
 
 ### Use Strong Verbs
 
@@ -93,7 +93,7 @@ Longer professional documents should guide the reader logically:
 
 ## Formatting: Make the Document Easy to Read
 
-Formatting helps a reader navigate your document, locate key information, and form an impression of your professionalism. This last effect is partly psychological and partly conventional: a reader may ignore your message or stop reading if the document is difficult or annoying to read. Formatting may be precisely prescribed, as in a grant proposal, or guided more loosely by disciplinary norms and aesthetic judgment, as in an academic publication.
+Formatting helps a reader navigate your document, locate key information, and form an impression of your professionalism. This last effect is partly psychological and partly conventional: a reader may ignore your message or stop reading if the document is difficult or annoying to read (the same is true of professors grading your work!). Formatting may be precisely prescribed, as in a grant proposal, or guided more loosely by disciplinary norms and aesthetic judgment, as in an academic publication.
 
 ### General Formatting Principles
 

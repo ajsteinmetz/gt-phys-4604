@@ -1,5 +1,6 @@
 # Quarto build artifacts
 *.pdf
+*.html
 
 # OS files
 .DS_Store

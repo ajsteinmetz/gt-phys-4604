@@ -1,0 +1,71 @@
+---
+title: "External Participation Assignment"
+subtitle: "Due: December 4 by 11:59 PM ET · PDF uploaded to Canvas · 4% of course grade"
+---
+
+## Purpose
+
+Primarily, professional development happens outside the classroom. To earn these points, you will participate in and document an external activity during the semester that supports your career preparation, graduate-school preparation, research development, or professional networking.
+
+The purpose of this assignment is to encourage you to take advantage of opportunities at Georgia Tech beyond PHYS 4604 that can help you build experience and advance your professional goals.
+
+## Eligible Activities
+
+Appropriate activities may include, but are not limited to:
+
+- A Georgia Tech Career Center workshop;
+- An official Georgia Tech Career Fair;
+- An industry job interview;
+- An internship-related professional activity;
+- A research symposium or academic conference;
+- A grant submission or grant acceptance.
+
+Many relevant events will also appear on the [Georgia Tech Campus Calendar](https://calendar.gatech.edu/).
+
+::: {.callout-note}
+## When in doubt
+If you are unsure whether a particular activity counts, ask the instructor.
+:::
+
+## What to Submit
+
+Submit a PDF to Canvas containing documentation of your participation. Your submission should include:
+
+1. Your name and the title of the event or activity.
+2. The date on which the activity occurred.
+3. A brief 1–2 paragraph description of the activity and how it relates to your professional development.
+4. Written or photographic documentation showing that you participated.
+
+## Acceptable Documentation
+
+Documentation may take different forms depending on the activity. Examples include:
+
+- A registration confirmation, attendance confirmation, or completion email;
+- A photograph or selfie from the event, when appropriate;
+- A screenshot of participation in a virtual event;
+- A program, nametag, badge, or event sign-in confirmation;
+- A copy of a grant submission confirmation or acceptance notice.
+
+The documentation does not need to disclose sensitive information. For example, students documenting a job interview may redact personal details as needed while still showing that a qualifying professional activity occurred.
+
+## Examples of Qualifying Submissions
+
+| Activity | Possible Documentation |
+|---|---|
+| **Career Center workshop** | Registration or attendance confirmation, screenshot, workshop handout, or event photo. |
+| **Career Fair** | Event registration, fair badge, photo at the event, or another reasonable record of attendance. |
+| **Industry interview** | Redacted interview invitation or scheduling confirmation. |
+| **Research symposium or conference** | Program listing, registration confirmation, event badge, photo, or presentation documentation. |
+| **Grant submission or acceptance** | Submission receipt, confirmation email, award notification, or other appropriate evidence. |
+
+## Helpful Resources
+
+- [Georgia Tech Campus Calendar](https://calendar.gatech.edu/)
+- [Georgia Tech Career Fair](https://careerfair.gatech.edu/)
+- [Georgia Tech Interviewing Resources](https://career.gatech.edu/interviewing/)
+- [Georgia Tech Co-ops and Internships Resources](https://career.gatech.edu/apply-for-co-ops-and-internships/)
+
+## Submission Checklist
+
+- I completed a qualifying professional-development activity during the semester.
+- I uploaded the PDF with written or photographic documentation of participation.
