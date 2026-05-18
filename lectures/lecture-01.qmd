@@ -1,6 +1,6 @@
 ---
-title: "PHYS 4604: Professional Development"
-subtitle: "Lecture 1 · Course Overview & Résumés"
+title: "Lecture 1 · Course Overview & Résumés"
+subtitle: "PHYS 4604: Professional Development"
 author: "Andrew J. Steinmetz"
 date: "August 28, 2026"
 format:

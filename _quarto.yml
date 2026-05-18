@@ -1,6 +1,29 @@
 project:
   type: website
 
+website:
+  title: "PHYS 4604"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Syllabus"
+        href: course-files/syllabus.qmd
+      - text: "Assignments"
+        menu:
+          - assignments/resume.qmd
+          - assignments/online-profile.qmd
+          - assignments/research-proposal.qmd
+          - assignments/personal-statement.qmd
+          - assignments/external-participation.qmd
+      - text: "Supplemental"
+        menu:
+          - supplemental/resume-cv.qmd
+          - supplemental/technical-writing.qmd
+      - text: "Lectures"
+        menu:
+          - lectures/lecture-01.qmd
+
 format:
   html:
     theme: default
