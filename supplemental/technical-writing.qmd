@@ -83,14 +83,6 @@ Each paragraph should usually have:
 
 For example, in a personal statement, a paragraph about prior research experience should not merely list tasks. It should explain how those tasks prepared you for the graduate program, professor, laboratory, or research direction you are targeting.
 
-### Document-Level Flow
-
-Longer professional documents should guide the reader logically:
-
-- **Opening:** Establish purpose and direction.
-- **Middle:** Provide evidence, preparation, or technical substance.
-- **Closing:** Reinforce significance or intended next steps.
-
 ## Formatting: Make the Document Easy to Read
 
 Formatting helps a reader navigate your document, locate key information, and form an impression of your professionalism. This last effect is partly psychological and partly conventional: a reader may ignore your message or stop reading if the document is difficult or annoying to read (the same is true of professors grading your work!). Formatting may be precisely prescribed, as in a grant proposal, or guided more loosely by disciplinary norms and aesthetic judgment, as in an academic publication.
@@ -122,7 +114,7 @@ In a research document, whether a proposal or publication, cite sources when you
 Unless you are writing a review article, a compact and well-chosen bibliography is usually more effective than a long list of sources that are never meaningfully integrated into the document's message.
 :::
 
-## Responsible Source Use
+### Responsible Source Use
 
 Technical writing requires intentional use of references. When using outside sources:
 
