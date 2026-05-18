@@ -5,6 +5,8 @@ format:
   html:
     theme: default
     css: gatech-theme.css
+    number-sections: true
+    html-math-method: mathml
     toc: false
     embed-resources: true
 
