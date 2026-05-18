@@ -137,6 +137,27 @@ tbody td {
   padding: 10px;
 }
 
+/* ── Navbar ──────────────────────────────────────────────────────── */
+.navbar .nav-link,
+.navbar .navbar-brand,
+.navbar .dropdown-toggle {
+  color: var(--gatech-gold-bright) !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .dropdown-toggle:hover {
+  color: white !important;
+}
+
+.navbar .dropdown-menu .dropdown-item {
+  color: var(--gatech-navy);
+}
+
+.navbar .dropdown-menu .dropdown-item:hover {
+  background-color: var(--gatech-navy);
+  color: white;
+}
+
 /* ── Links ───────────────────────────────────────────────────────── */
 a, a:visited {
   color: var(--gatech-navy);
