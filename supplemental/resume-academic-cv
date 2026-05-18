@@ -1,0 +1,161 @@
+<div id="dp-wrapper" class="dp-wrapper">
+    <div style="max-width: 1000px; margin: 0 auto; font-family: Arial, Helvetica, sans-serif; line-height: 1.55; color: #1f1f1f;">
+        <div style="border-top: 8px solid #B3A369; border-bottom: 1px solid #D6DBD4; padding: 24px 28px; background-color: #f9f6e5;">
+            <h1 style="margin: 0; color: #003057; font-size: 2.1em;">R&eacute;sum&eacute; vs. Academic CV</h1>
+            <p style="margin: 8px 0 0 0; font-size: 1.1em;"><strong>PHYS 4604: Professional Development</strong></p>
+        </div>
+        <div style="padding: 24px 28px 24px 28px;">
+            <h2 style="color: #003057; border-bottom: 2px solid #B3A369; padding-bottom: 6px;">The Short Version</h2>
+            <p>A <strong>r&eacute;sum&eacute;</strong> is a concise, targeted document that highlights the experiences and qualifications most relevant to a particular opportunity. It is the standard document for most internships, industry jobs, research technician positions, and many early-career applications.</p>
+            <p>An <strong>academic curriculum vitae</strong>, usually called a <strong>CV</strong>, is a longer and more comprehensive record of academic, research, teaching, and professional accomplishments. It grows over time and is commonly used for graduate school, academic research positions, postdoctoral applications, faculty positions, grant applications, and promotion or review processes.</p>
+            <div style="margin-top: 24px; padding: 16px; border-left: 6px solid #B3A369; background-color: #f9f6e5;">
+                <p style="margin: 0;"><strong>Important:</strong> Most undergraduates will need a strong r&eacute;sum&eacute; well before they need a true academic CV. An academic CV is often first developed during graduate school, when publications, talks, research outputs, teaching roles, and professional service begin to accumulate.</p>
+            </div>
+        </div>
+        <div style="padding: 0 28px 24px 28px;">
+            <h2 style="color: #003057; border-bottom: 2px solid #B3A369; padding-bottom: 6px;">When Should You Use Each?</h2>
+            <div class="dp-table-scroll">
+                <table style="width: 100%; border-collapse: collapse; margin-top: 12px;">
+                    <thead>
+                        <tr style="background-color: #003057; color: white;">
+                            <th style="padding: 10px; text-align: left;">Situation</th>
+                            <th style="padding: 10px; text-align: left;">Usually Use</th>
+                            <th style="padding: 10px; text-align: left;">Why</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr style="border-bottom: 1px solid #D6DBD4;">
+                            <td style="padding: 10px;">Internship or industry job application</td>
+                            <td style="padding: 10px;"><strong>R&eacute;sum&eacute;</strong></td>
+                            <td style="padding: 10px;">Employers typically want a concise, tailored summary of relevant skills and experience.</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #D6DBD4;">
+                            <td style="padding: 10px;">Career fair or networking conversation</td>
+                            <td style="padding: 10px;"><strong>R&eacute;sum&eacute;</strong></td>
+                            <td style="padding: 10px;">A short document is easier to scan quickly and use in conversation.</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #D6DBD4;">
+                            <td style="padding: 10px;">Undergraduate research position</td>
+                            <td style="padding: 10px;"><strong>Usually r&eacute;sum&eacute;</strong></td>
+                            <td style="padding: 10px;">A r&eacute;sum&eacute; is typically sufficient unless the program specifically asks for a CV.</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #D6DBD4;">
+                            <td style="padding: 10px;">Graduate school application</td>
+                            <td style="padding: 10px;"><strong>R&eacute;sum&eacute; or CV</strong></td>
+                            <td style="padding: 10px;">Follow the program instructions. Research-intensive programs may request a CV.</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #D6DBD4;">
+                            <td style="padding: 10px;">Graduate fellowship, academic research role, or postdoctoral application</td>
+                            <td style="padding: 10px;"><strong>Academic CV</strong></td>
+                            <td style="padding: 10px;">These applications often need a fuller record of research, publications, presentations, and honors.</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #D6DBD4;">
+                            <td style="padding: 10px;">Faculty jobs, academic promotion, grant applications</td>
+                            <td style="padding: 10px;"><strong>Academic CV</strong></td>
+                            <td style="padding: 10px;">The CV serves as a comprehensive professional record.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div style="padding: 0 28px 24px 28px;">
+            <h2 style="color: #003057; border-bottom: 2px solid #B3A369; padding-bottom: 6px;">Key Differences</h2>
+            <div class="dp-table-scroll">
+                <table style="width: 100%; border-collapse: collapse; margin-top: 12px;">
+                    <thead>
+                        <tr style="background-color: #003057; color: white;">
+                            <th style="padding: 10px; text-align: left;">Feature</th>
+                            <th style="padding: 10px; text-align: left;">R&eacute;sum&eacute;</th>
+                            <th style="padding: 10px; text-align: left;">Academic CV</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr style="border-bottom: 1px solid #D6DBD4;">
+                            <td style="padding: 10px;"><strong>Typical length</strong></td>
+                            <td style="padding: 10px;">Often 1 page for undergraduates; sometimes 2 pages with substantial experience</td>
+                            <td style="padding: 10px;">No fixed limit; grows with academic experience</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #D6DBD4;">
+                            <td style="padding: 10px;"><strong>Purpose</strong></td>
+                            <td style="padding: 10px;">Market your fit for a specific role</td>
+                            <td style="padding: 10px;">Document your full academic and professional record</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #D6DBD4;">
+                            <td style="padding: 10px;"><strong>Customization</strong></td>
+                            <td style="padding: 10px;">Highly tailored to the job, internship, or opportunity</td>
+                            <td style="padding: 10px;">Usually updated over time, but less radically tailored</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #D6DBD4;">
+                            <td style="padding: 10px;"><strong>Style</strong></td>
+                            <td style="padding: 10px;">Selective, concise, skill-oriented</td>
+                            <td style="padding: 10px;">Comprehensive, chronological, detailed</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #D6DBD4;">
+                            <td style="padding: 10px;"><strong>Common content</strong></td>
+                            <td style="padding: 10px;">Education, skills, experience, projects, leadership, selected awards</td>
+                            <td style="padding: 10px;">Education, appointments, publications, talks, teaching, grants, awards, mentoring, service, outreach, professional memberships</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #D6DBD4;">
+                            <td style="padding: 10px;"><strong>Main question answered</strong></td>
+                            <td style="padding: 10px;">&ldquo;Why are you a strong candidate for this position?&rdquo;</td>
+                            <td style="padding: 10px;">&ldquo;What is the full scope of your academic and professional record?&rdquo;</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div style="padding: 0 28px 24px 28px;">
+            <h2 style="color: #003057; border-bottom: 2px solid #B3A369; padding-bottom: 6px;">What Belongs on a R&eacute;sum&eacute;?</h2>
+            <p>A r&eacute;sum&eacute; should be selective. You do not need to list everything you have ever done. Instead, choose the experiences most relevant to the opportunity you are pursuing.</p>
+            <h3 style="color: #003057;">Common R&eacute;sum&eacute; Sections</h3>
+            <ul>
+                <li>Contact information</li>
+                <li>Education</li>
+                <li>Relevant work, research, or internship experience</li>
+                <li>Projects or technical experience</li>
+                <li>Skills, especially software, laboratory, computational, or language skills</li>
+                <li>Leadership, service, or activities, when relevant</li>
+                <li>Selected honors or awards, if useful</li>
+            </ul>
+            <div style="margin-top: 20px; padding: 16px; border-left: 6px solid #B3A369; background-color: #f9f6e5;">
+                <p style="margin: 0;"><strong>For the PHYS 4604 r&eacute;sum&eacute; assignment:</strong> Most, if not all, students should submit a r&eacute;sum&eacute; rather than an academic CV. The goal is to prepare a polished professional document that can be used for jobs, internships, research opportunities, career fairs, or related applications.</p>
+            </div>
+        </div>
+        <div style="padding: 0 28px 24px 28px;">
+            <h2 style="color: #003057; border-bottom: 2px solid #B3A369; padding-bottom: 6px;">What Belongs on an Academic CV?</h2>
+            <p>An academic CV is much broader than a r&eacute;sum&eacute;. The three example CVs provided for this course show that academic CVs can vary in style and length, but they commonly document a wide range of academic contributions.</p>
+            <h3 style="color: #003057;">Common Academic CV Sections</h3>
+            <ul>
+                <li>Contact information and professional title</li>
+                <li>Education, often including dissertation or advisor information</li>
+                <li>Academic employment or appointments</li>
+                <li>Research interests or areas of specialization</li>
+                <li>Publications, sometimes separated into peer-reviewed articles, book chapters, reports, and works in progress</li>
+                <li>Conference presentations, invited talks, and seminars</li>
+                <li>Grants, fellowships, awards, and honors</li>
+                <li>Teaching experience, often with courses, terms, enrollment, or instructional roles</li>
+                <li>Mentoring and student supervision</li>
+                <li>Professional service, such as reviewing, organizing conferences, committee work, and society involvement</li>
+                <li>Institutional service and public outreach</li>
+            </ul>
+        </div>
+        <div style="padding: 0 28px 24px 28px;">
+            <h2 style="color: #003057; border-bottom: 2px solid #B3A369; padding-bottom: 6px;">Practical Guidance for Students</h2>
+            <ol>
+                <li><strong>Start with a r&eacute;sum&eacute;.</strong> Every student should be able to produce a polished r&eacute;sum&eacute; for jobs, internships, research roles, and networking.</li>
+                <li><strong>Begin a CV only when it becomes useful.</strong> This often happens during graduate school, or earlier if you begin applying for research-intensive programs that specifically request one.</li>
+                <li><strong>Follow the instructions of the opportunity.</strong> If an application asks for a r&eacute;sum&eacute;, submit a r&eacute;sum&eacute;. If it asks for a CV, submit a CV.</li>
+                <li><strong>Do not simply rename one document.</strong> A r&eacute;sum&eacute; and CV serve different purposes and should be structured accordingly.</li>
+                <li><strong>Maintain a master record.</strong> Even if you are submitting a one-page r&eacute;sum&eacute;, keep a private running list of all research projects, presentations, awards, teaching roles, and service. That record can later become the basis of an academic CV.</li>
+            </ol>
+        </div>
+        <div style="padding: 0 28px 28px 28px;">
+            <h2 style="color: #003057; border-bottom: 2px solid #B3A369; padding-bottom: 6px;">Bottom Line</h2>
+            <div style="border: 1px solid #D6DBD4; padding: 16px; background-color: #f9f6e5;">
+                <p style="margin-top: 0;"><strong>Use a r&eacute;sum&eacute;</strong> when you need a concise, targeted document for a job, internship, networking event, or many undergraduate opportunities.</p>
+                <p><strong>Use an academic CV</strong> when you need a fuller scholarly record, starting usually in graduate school, for fellowships, research-intensive academic applications, or later academic careers.</p>
+                <p style="margin-bottom: 0;">For most students in PHYS 4604, the immediate priority is learning to produce a strong r&eacute;sum&eacute;. Understanding the academic CV now will help you recognize when and how to build one later.</p>
+            </div>
+        </div>
+    </div>
+</div>
