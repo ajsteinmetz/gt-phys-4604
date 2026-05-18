@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1 · Résumé"
-subtitle: "Due: September 11 by 11:59 PM ET · PDF uploaded to Canvas · 10% of course grade"
+subtitle: "Due: September 11 by 11:59 PM ET · 10% of course grade"
 ---
 
 ## Purpose
