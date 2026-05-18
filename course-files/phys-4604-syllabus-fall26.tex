@@ -4,12 +4,14 @@
 \usepackage{array}
 \usepackage{booktabs}
 \usepackage{tabularx}
+\usepackage{longtable}
 \usepackage{enumitem}
-\usepackage{xcolor}
+\usepackage[table]{xcolor}
 \usepackage{microtype}
 \usepackage{hyperref}
 \usepackage{fancyhdr}
-\usepackage{lastpage}
+\usepackage{titlesec}
+\usepackage{ragged2e}
 
 \hypersetup{
     colorlinks=true,
@@ -21,14 +23,34 @@
     pdfsubject={PHYS 4604 Professional Development syllabus}
 }
 
+\setlength{\headheight}{14pt}
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{0.25em}
+\setlength{\parskip}{0.35em}
+\setlist[itemize]{leftmargin=2em, itemsep=0.15em, topsep=0.25em}
+\setlist[enumerate]{leftmargin=2em, itemsep=0.15em, topsep=0.25em}
 
 \definecolor{GTGold}{HTML}{B3A369}
 \definecolor{GTNavy}{HTML}{003057}
 \definecolor{GTLightGold}{HTML}{F9F6E5} % Diploma
 \definecolor{GTGray}{HTML}{54585A}      % Gray Matter
 \definecolor{GTLightGray}{HTML}{D6DBD4} % Pi Mile
+
+\titleformat{\section}
+  {\large\bfseries\color{GTNavy}}
+  {}{0pt}{}
+  [\vspace{0.45em}\color{GTGold}\titlerule]
+
+\titleformat{\subsection}
+  {\normalsize\bfseries\color{GTNavy}}
+  {}{0pt}{}
+
+\titleformat{\subsubsection}
+  {\normalsize\bfseries\color{GTNavy}}
+  {}{0pt}{}
+
+\titlespacing*{\section}{0pt}{1.2em}{0.6em}
+\titlespacing*{\subsection}{0pt}{0.9em}{0.35em}
+\titlespacing*{\subsubsection}{0pt}{0.8em}{0.3em}
 
 \pagestyle{fancy}
 \fancyhf{}
@@ -39,60 +61,158 @@
 \renewcommand{\headrulewidth}{0.2pt}
 \renewcommand{\footrulewidth}{0.2pt}
 
+\newcommand{\dash}{---}
+\newcommand{\tablehead}[1]{\textbf{\textcolor{white}{#1}}}
+\newcommand{\navycell}[1]{\cellcolor{GTNavy}\textbf{\textcolor{white}{#1}}}
 
 \begin{document}
 
-{\LARGE \textcolor{black}{\textbf{PHYS 4604 Syllabus}}}\\[0.5em]
-{\normalsize \textcolor{black}{Professional Development | Fall 2026 CRN \# 94323 | 1 credit hour}}\\[0.5em]
-{\normalsize \textcolor{black}{Fridays 4:00--4:50 PM | Howey Physics L3 | Weekly in-person attendance is required}}
+\noindent\textcolor{GTGold}{\rule{\textwidth}{4pt}}
+\vspace{-0.2em}
+
+\begingroup
+\setlength{\fboxsep}{14pt}
+\noindent\colorbox{GTLightGold}{%
+\parbox{\dimexpr\textwidth-2\fboxsep\relax}{%
+    {\LARGE\bfseries\textcolor{GTNavy}{PHYS 4604: Professional Development}}\\[0.45em]
+    {\normalsize\bfseries Fall 2026 \textbar{} CRN \#94323 \textbar{} 1 credit hour}\\[0.25em]
+    {\normalsize Fridays, 4:00--4:50 PM \textbullet{} Howey Physics L3 \textbullet{} Weekly in-person attendance required}
+}}
+\endgroup
+
+\vspace{0.1em}
+\noindent\textcolor{GTLightGray}{\rule{\textwidth}{0.5pt}}
+
+\section*{Course Description}
+
+In this course, we will discuss practical skills for post-degree success. Topics include selecting graduate schools, understanding career options with a B.S. or Ph.D., applying to graduate school, applying to industry jobs, developing a professional network, and preparing a research proposal suitable for the NSF Graduate Research Fellowship Program.
+
+\href{https://www.nsfgrfp.org/}{NSF Graduate Research Fellowship Program}
+
+This course is designed to produce tangible artifacts that can be used immediately in graduate school applications, job searches and applications, and professional networking.
+
+\subsection*{Prerequisites}
+
+There are no formal prerequisites, but the course is typically taken in the final year of the B.S. program in Physics, Astrophysics, or Applied Physics.
+
+\subsection*{Learning Outcomes}
+
+You will learn how to:
+\begin{itemize}[nosep]
+    \item Write a r\'esum\'e or CV.
+    \item Identify career opportunities, practice networking, and apply to industry jobs.
+    \item Choose and apply to graduate M.S. or Ph.D. programs.
+    \item Write a research proposal in the style of the NSF GRFP.
+\end{itemize}
+
+\href{https://career.gatech.edu/resumes/}{Georgia Tech r\'esum\'e resources}
+
+\href{https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes}{Learn \LaTeX{} in 30 minutes}
 
 \section*{Instructor Information}
 
-\begin{tabularx}{\textwidth}{>{\bfseries}l l l X}
+\begin{tabularx}{\textwidth}{>{\bfseries}p{0.23\textwidth} X}
 \toprule
-Instructor & Email & Office & Office Hours \\
+Instructor & Andrew J. Steinmetz \\
 \midrule
-Andrew J. Steinmetz & \href{mailto:ajsteinmetz@gatech.edu}{ajsteinmetz@gatech.edu} & Howey W204 & \href{https://outlook.office.com/bookwithme/user/118287044b844adb8cb5cfaadd54546f@gatech.edu?anonymous\&ismsaljsauthenabled\&ep=plink}{By appointment (link)} \\
+Email & \href{mailto:ajsteinmetz@gatech.edu}{ajsteinmetz@gatech.edu} \\
+\midrule
+Office & Howey W204 \\
+\midrule
+Office Hours & \href{https://outlook.office.com/bookwithme/user/118287044b844adb8cb5cfaadd54546f@gatech.edu?anonymous\&ismsaljsauthenabled\&ep=plink}{By appointment} \\
 \bottomrule
 \end{tabularx}
 
-\section*{Description}
-
-In this course, you will learn a number of skills in preparation for life post-degree. We will discuss how to select graduate schools, what careers are available with a B.S. degree or with a Ph.D., and how to apply to graduate school or industry. A portion of the course will also be spent on developing a proposal suitable for the National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)\footnote{See \url{https://www.nsfgrfp.org/}}. This course is designed to produce tangible artifacts that can be used immediately in graduate school applications, job searches and applications, and professional networking.
-
-\section*{Prerequisites}
-
-There are no formal prerequisites for this course, but it is typically taken in the final year of the B.S. program in Physics, Astrophysics, or Applied Physics.
-
-\section*{Learning Outcomes}
-
-You will learn how to:
-\begin{itemize}[leftmargin=2em,nosep]
-    \item write a r\'esum\'e\footnote{See \url{https://career.gatech.edu/resumes/}} or CV;
-    \item identify career opportunities, practice networking, and apply to industry jobs;
-    \item choose and apply to graduate (M.S. or Ph.D.) programs;
-    \item write a research proposal in the GRFP style.
-\end{itemize}
+\newpage
 
 \section*{Course Modality Information}
 
-This is an in-person course with mandatory attendance.
+This is an in-person course with mandatory attendance. No required textbook. Course materials and assignment information will be provided through Canvas.
 
-\section*{Calendar}
+\section*{Course Schedule}
 
-The course meets every Friday of the semester except holidays from 8/28 to 12/4.
+The course meets every Friday of the semester except holidays, from \textbf{August 28 through December 4}. The schedule below may be adjusted as needed throughout the semester. Please check the {Canvas Homepage} for the most up-to-date course schedule.
 
-\section*{Course Text}
+\renewcommand{\arraystretch}{1.15}
+\begin{center}
+\begin{tabularx}{\textwidth}{
+    >{\RaggedRight\arraybackslash}p{0.17\textwidth}
+    >{\RaggedRight\arraybackslash}X
+    >{\RaggedRight\arraybackslash}p{0.24\textwidth}
+}
+\toprule
+{Date} & {Tentative Topic / Focus} & {Major Due Dates} \\
+\midrule
+Aug.~28 & Course introduction; r\'esum\'es and CVs & \dash \\
+Sept.~4 & R\'esum\'e / CV review and revision workshop & \dash \\
+Sept.~11 & Career paths with a physics, astrophysics, or applied physics degree & \textbf{R\'esum\'e due} \\
+Sept.~14--15 & \textbf{Fall 2026 All Majors Career Fair} & \dash \\
+Sept.~18 & Professional networking and online presence & \dash \\
+Sept.~25 & LinkedIn, GitHub, personal websites, and professional identity & \dash \\
+Oct.~2 & Graduate school pathways and selecting programs & \textbf{Online professional presence due} \\
+Oct.~9 & Research proposals and NSF GRFP-style writing & \dash \\
+Oct.~16 & Research proposal workshop & \dash \\
+Oct.~23 & Guest lecture & \textbf{Research proposal due} \\
+Oct.~30 & Personal statements and cover letters & \dash \\
+Nov. & \textbf{NSF GRFP Deadlines for 2027} & \dash \\
+Nov.~6 & Industry applications and interviews & \dash \\
+Nov.~13 & Peer review and revision of application materials & \dash \\
+Nov.~20 & Graduate school and job application strategy & \textbf{Personal statement or cover letter due} \\
+Dec.~4 & Course wrap-up and professional development reflection & \textbf{External participation due} \\
+\bottomrule
+\end{tabularx}
+\end{center}
+\renewcommand{\arraystretch}{1.0}
 
-No required textbook.
+\section*{Assignments and Grading}
 
-\section*{Grading Scale}
-
-Your final grade will be assigned as a letter grade according
-to the following scale:
+There are no exams in this course. Your grade is based primarily on attendance and participation, along with a small number of professional-development assignments. Written assignments should be submitted on Canvas in PDF format by \textbf{11:59 PM ET} unless otherwise specified.
 
 \begin{center}
-\begin{tabular}{c c}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabularx}{0.98\textwidth}{X p{0.24\textwidth} p{0.12\textwidth}}
+\toprule
+\textbf{Assignment} & \textbf{Due Date} & \textbf{Weight} \\
+\midrule
+Attendance / participation & Weekly & 52\% \\
+R\'esum\'e & September 11 & 10\% \\
+Online professional presence & October 2 & 4\% \\
+Research proposal, GRFP style & October 23 & 15\% \\
+Personal statement or cover letter & November 20 & 15\% \\
+External participation & December 4 & 4\% \\
+\bottomrule
+\end{tabularx}
+\renewcommand{\arraystretch}{1.0}
+\end{center}
+
+\subsection*{Assignment Descriptions}
+
+\begin{itemize}
+    \item \textbf{Attendance / participation:} Attendance is mandatory. Participation will be scored through sign-in sheets and hand-submitted in-class activities. One missed class is dropped from the attendance grade.
+
+    \item \textbf{R\'esum\'e:} Prepare or revise a professional r\'esum\'e suitable for job, internship, research, or graduate school applications.
+
+    \item \textbf{Online professional presence:} Set up a complete LinkedIn profile if you did not have one yet, improve a pre-existing LinkedIn profile, or document appropriate professional use of LinkedIn. GitHub pages, personal websites, or other professional portfolios are also encouraged.
+
+    \item \textbf{Research proposal:} Write a two-page research proposal with references in the style of the NSF Graduate Research Fellowship Program. This assignment should be completed in \LaTeX.
+
+    \item \textbf{Personal statement or cover letter:} Write a graduate school personal statement or a job application cover letter, depending on your professional goals.
+
+    \item \textbf{External participation:} Participate in a professional-development event such as a Georgia Tech Career Center workshop, official career fair, industry interview, internship activity, research symposium, conference, grant submission, grant acceptance, or another instructor-approved activity during the semester. Written or photographic documentation of participation is required for credit. Keep an eye on the \href{https://calendar.gatech.edu/}{Georgia Tech Campus Calendar} for career-building events. See also the following links:
+    \begin{itemize}
+        \item \href{https://career.gatech.edu/interviewing/}{Interviewing resources}
+        \item \href{https://career.gatech.edu/apply-for-co-ops-and-internships/}{Co-ops and internships}
+        \item \href{https://careerfair.gatech.edu/}{Georgia Tech Career Fair}
+    \end{itemize}
+\end{itemize}
+
+\subsection*{Grading Scale}
+
+Your final grade will be assigned as a letter grade according to the following scale:
+
+\begin{center}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabularx}{0.98\textwidth}{X p{0.24\textwidth}}
 \toprule
 \textbf{Letter Grade} & \textbf{Percentage} \\
 \midrule
@@ -102,86 +222,80 @@ C & 70--79\% \\
 D & 60--69\% \\
 F & 0--59\% \\
 \bottomrule
-\end{tabular}
-\end{center}
-
-Final numeric grades are rounded to the nearest whole percent, e.g. \(83.76\%\to84\%\). This course is not otherwise curved. At Georgia Tech, grades are awarded on a scale of A--F with no plus/minus grades permitted. For more information about the grading system at Georgia Tech, see \url{http://registrar.gatech.edu/info/grading-system}.
-
-\section*{Course Requirements \& Assignments}
-
-Grading will be based primarily on attendance/participation, which is 52\% of the course grade,
-as well as a few assignments. Written assignments will be due at 11:59 PM ET on the course Canvas website in PDF format unless otherwise specified. These will include:
-\begin{itemize}[leftmargin=2em,nosep]
-    \item writing a r\'esum\'e;
-    \item setting up a complete LinkedIn profile if you did not have one yet, or documenting your recent use of (and improvement of) your pre-existing LinkedIn profile (GitHub or personal websites are also encouraged) for appropriate professional networking;
-    \item writing a research proposal suitable for the NSF GRFP, two pages with references, in \LaTeX\footnote{See \url{https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes}};
-    \item writing a personal statement for graduate school (or a cover letter for a job application);
-    \item external participation in a Georgia Tech Career Center\footnote{See \url{https://undergraduate.gatech.edu/}} workshop, official Georgia Tech Career Fair\footnote{See \url{https://careerfair.gatech.edu/}}, industry job interview\footnote{See \url{https://career.gatech.edu/interviewing/}} or internship\footnote{See \url{https://career.gatech.edu/apply-for-co-ops-and-internships/}}, research symposium or conference, grant submission or acceptance, or other event (at the instructor's discretion) during the semester which shows professional development; many such events will be listed in the Georgia Tech Campus Calendar \url{https://calendar.gatech.edu/}. Written/photographic documentation of participation is required for credit.
-\end{itemize}
-
-\begin{center}
-\begin{tabularx}{0.9\textwidth}{l X r}
-\toprule
-\textbf{Assignment} & \textbf{Due Date} & \textbf{Weight} \\
-\midrule
-Attendance/participation & Weekly & \(13\times4\%=52\%\) \\
-R\'esum\'e & September 11 & 10\% \\
-Online professional presence & October 2 & 4\% \\
-Research proposal, GRFP style & October 23 & 15\% \\
-Personal statement (or cover letter) & November 20 & 15\% \\
-External participation & December 4 & 4\% \\
-\bottomrule
 \end{tabularx}
+\renewcommand{\arraystretch}{1.0}
 \end{center}
 
-Attendance/participation will be scored through a mixture of sign-in sheets and hand-submitted in-class activities. There are no exams in this course.
+Final numeric grades are rounded to the nearest whole percent. For example, 83.76\% becomes 84\%. This course is not otherwise curved. At Georgia Tech, grades are awarded on a scale of A--F with no plus/minus grades permitted.
 
-\section*{Attendance}
+\href{http://registrar.gatech.edu/info/grading-system}{Georgia Tech grading system}
 
-Attendance is mandatory; however one missed class will be dropped from your grade, i.e. you must attend 13 of the 14 scheduled class sessions to receive a full attendance score \(13\times4\%=52\%\). If you will miss a class for any reason, please let me know as soon as possible via email. 
+\section*{Course and Institution Policies}
 
-To request an excused absence, contact the Dean of Students' (DoS) office at \url{https://studentlife.gatech.edu/dean-students/class-attendance} for class absence verification in the case of a documented illness, hospitalization, accident, death in the family, family emergency, or lengthy illness.
+\subsection*{Attendance}
 
-\section*{Collaboration \& Group Work}
+Attendance is mandatory; however, one missed class will be dropped from your grade. You must attend 13 of the 14 scheduled class sessions to receive a full attendance score of \(13\times4\%=52\%\).
 
-Collaboration on assignments is reasonable, as is seeking peer-review, feedback or advice. However, the final product turned in should be the student's own work. Turned-in assignments that clearly do not reflect the student's own work will receive zero credit.
+If you will miss a class for any reason, please let me know as soon as possible via email.
 
-\section*{Limited Generative AI Use Permitted}
+To request an excused absence, contact the Dean of Students office for class absence verification in the case of a documented illness, hospitalization, accident, death in the family, family emergency, or lengthy illness.
 
-Use of Generative AI\footnote{See \url{https://oit.gatech.edu/ai/guidance}} (such as Copilot, ChatGPT, Claude, Gemini, etc.) is permitted in this course but only within \emph{instructor-approved boundaries} (e.g., drafting assignments, stages of writing, revising work, providing feedback, or support tasks such as grammar refinement or coding assistance). 
+\href{https://studentlife.gatech.edu/dean-students/class-attendance}{Dean of Students: Class Attendance}
 
-Here are the two golden rules for this course:
-\begin{enumerate}[leftmargin=2em,nosep]
-    \item AI usage is entirely \emph{optional}. You should never feel pressured to use it.
+\subsubsection*{Late Work}
+
+\textbf{Late work is not accepted.} An assignment may be excused only through the Dean of Students office. While this is not meant to be a difficult course, all assignments are open and available for the entirety of the semester; therefore, appropriate time-management is expected.
+
+\subsection*{Collaboration and Group Work}
+
+Collaboration on assignments is reasonable, as is seeking peer review, feedback, or advice. However, the final product turned in should be the student's own work. Turned-in assignments that clearly do not reflect the student's own work will receive zero credit and may be considered a violation of academic integrity.
+
+\subsection*{Limited Generative AI Use Permitted}
+
+Use of generative AI, such as Copilot, ChatGPT, Claude, Gemini, and similar tools, is permitted in this course, but only within instructor-approved boundaries. Examples may include drafting assignments, stages of writing, revising work, providing feedback, grammar refinement, or coding assistance.
+
+\href{https://oit.gatech.edu/ai/guidance}{Georgia Tech OIT guidance on AI}
+
+\subsubsection*{Two Golden Rules}
+
+\begin{enumerate}[nosep]
+    \item AI usage is entirely optional. You should never feel pressured to use it.
     \item AI should never be used to generate a whole assignment from scratch.
 \end{enumerate}
 
 AI usage must be transparent and documented in a required \textbf{AI Usage Statement} with each submission where it is used. The statement should include the following:
 
-\begin{itemize}[leftmargin=2em,nosep]
-    \item The tool used and date of access;
-    \item the input prompt used;
-    \item a copy of the output;
-    \item a brief description of how you used or edited the output.
+\begin{itemize}[nosep]
+    \item The tool used and date of access.
+    \item The input prompt used.
+    \item A copy of the output.
+    \item A brief description of how you used or edited the output.
 \end{itemize}
-As the usage of Generative AI is often iterative, it would be cumbersome to include all prompts (and outputs). Therefore, select no more than three of the most consequential or important conversational snippets to include in your statement.
 
-Failure to follow these guidelines (including using Generative AI when it is not permitted or failing to disclose its use) may be considered a violation of Georgia Tech’s academic integrity policies. When in doubt, always consult your instructor before using Generative AI.
+Because generative AI usage is often iterative, it would be cumbersome to include all prompts and outputs. Therefore, select no more than three of the most consequential or important conversational snippets to include in your statement.
 
-\section*{Academic Integrity}
+Failure to follow these guidelines, including using generative AI when it is not permitted or failing to disclose its use, may be considered a violation of Georgia Tech's academic integrity policies. When in doubt, always consult your instructor before using generative AI.
 
-Georgia Tech aims to cultivate a community based on trust, academic integrity, and honor. Students are expected to act according to the highest ethical standards. For information on Georgia Tech's Academic Honor Code, please visit \url{https://osi.gatech.edu/students/honor-code}. Any student suspected of cheating or plagiarizing on a quiz, exam, or assignment will be reported to the Office of Student Integrity, who will investigate the incident and identify the appropriate penalty for violations.
+\subsection*{Academic Integrity}
 
-\section*{Accommodations for Individuals with Disabilities}
+Georgia Tech aims to cultivate a community based on trust, academic integrity, and honor. Students are expected to act according to the highest ethical standards.
 
-If you are a student with learning needs that require special accommodation, contact the Office of Disability Services, often referred to as ADAPTS, at \href{tel:4048942563}{(404) 894-2563} or \url{http://disabilityservices.gatech.edu/}, as soon as possible, to make an appointment to discuss your special needs and to obtain an accommodations letter.
+Any student suspected of cheating or plagiarizing on a quiz, exam, or assignment will be reported to the Office of Student Integrity, who will investigate the incident and identify the appropriate penalty for violations.
 
-\section*{Student-Faculty Expectations}
+\href{https://osi.gatech.edu/students/honor-code}{Georgia Tech Academic Honor Code}
 
-At Georgia Tech we believe that it is important to strive for an atmosphere of mutual respect, acknowledgment, and responsibility between faculty members and the student body. See \url{http://www.catalog.gatech.edu/rules/22/} {this catalog page} for an articulation of some basic expectations that you can have of me and that I have of you. In the end, simple respect for knowledge, hard work, and cordial interactions will help build the environment we seek. Therefore, I encourage you to remain committed to the ideals of Georgia Tech while in this class.
+\subsection*{Accommodations for Individuals with Disabilities}
 
-\section*{Statement of Intent for Inclusivity}
+If you are a student with learning needs that require special accommodation, contact the Office of Disability Services, often referred to as ADAPTS, at \href{tel:4048942563}{(404) 894-2563} or through the Office of Disability Services website as soon as possible to make an appointment to discuss your special needs and to obtain an accommodations letter.
 
-As a member of the Georgia Tech community, I am committed to creating a learning environment in which all of my students feel safe and included. Because we are individuals with varying needs, I am reliant on your feedback to achieve this goal. I therefore invite you to enter into a dialogue with me about the things I can stop, start, and continue doing to make my classroom an environment in which every student feels valued and can engage actively in our learning community.
+\href{http://disabilityservices.gatech.edu/}{Georgia Tech Office of Disability Services}
+
+\subsection*{Student-Faculty Expectations}
+
+At Georgia Tech, we believe that it is important to strive for an atmosphere of mutual respect, acknowledgment, and responsibility between faculty members and the student body.
+
+In the end, simple respect for knowledge, hard work, and cordial interactions will help build the environment we seek. Therefore, I encourage you to remain committed to the ideals of Georgia Tech while in this class.
+
+\href{http://www.catalog.gatech.edu/rules/22/}{Georgia Tech student-faculty expectations}
 
 \end{document}
