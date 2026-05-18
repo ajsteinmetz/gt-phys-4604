@@ -1,0 +1,106 @@
+/*-- scss:rules --*/
+
+:root {
+  --gt-navy: #003057;
+  --gt-gold: #B3A369;
+  --gt-gold-bright: #EAAA00;
+  --gt-cream: #f9f6e5;
+  --gt-border: #D6DBD4;
+}
+
+/* Title slide */
+#title-slide {
+  background-color: var(--gt-navy);
+}
+#title-slide h1.title {
+  color: white;
+  font-size: 1.9em;
+  font-weight: bold;
+}
+#title-slide p.subtitle {
+  color: var(--gt-gold-bright);
+  font-size: 1.2em;
+  font-weight: 600;
+}
+#title-slide p.author,
+#title-slide p.date {
+  color: var(--gt-gold);
+  font-size: 0.95em;
+}
+
+/* Content slide headings */
+.reveal h2 {
+  color: var(--gt-navy);
+  border-bottom: 3px solid var(--gt-gold-bright);
+  padding-bottom: 6px;
+  font-size: 1.35em;
+}
+.reveal h3 {
+  color: var(--gt-navy);
+  border-left: 4px solid var(--gt-gold);
+  padding-left: 10px;
+  font-size: 1.1em;
+}
+
+/* Section divider slides — white text on navy */
+.reveal section.section-slide h2 {
+  color: white;
+  border-bottom-color: var(--gt-gold-bright);
+}
+
+/* Tables */
+.reveal table {
+  border-collapse: collapse;
+  font-size: 0.85em;
+  width: 100%;
+  margin-top: 8px;
+}
+.reveal table thead tr {
+  background-color: var(--gt-navy);
+  color: white;
+}
+.reveal table thead th {
+  padding: 8px 12px;
+  text-align: left;
+}
+.reveal table tbody tr {
+  border-bottom: 1px solid var(--gt-border);
+}
+.reveal table tbody td {
+  padding: 8px 12px;
+}
+.reveal table tbody tr:nth-child(even) {
+  background-color: var(--gt-cream);
+}
+
+/* Callout-style highlight box */
+.highlight-box {
+  border-left: 6px solid var(--gt-gold-bright);
+  background-color: var(--gt-cream);
+  padding: 14px 18px;
+  margin-top: 16px;
+  border-radius: 2px;
+}
+
+/* Footer */
+.reveal .footer {
+  color: #555;
+  font-size: 0.7em;
+}
+
+/* Links */
+.reveal a,
+.reveal a:visited {
+  color: var(--gt-navy);
+}
+
+/* Slide number */
+.reveal .slide-number {
+  color: var(--gt-navy);
+  background-color: transparent;
+}
+
+/* Reduce default font size slightly so content fits better */
+.reveal .slides section {
+  font-size: 0.95em;
+}

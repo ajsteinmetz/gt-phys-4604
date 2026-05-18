@@ -8,7 +8,7 @@ format:
     number-sections: true
     html-math-method: mathml
     toc: false
-    embed-resources: true
+    embed-resources: false
 
 execute:
   freeze: auto
