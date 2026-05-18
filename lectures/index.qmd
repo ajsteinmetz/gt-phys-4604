@@ -1,0 +1,8 @@
+---
+title: "Lectures"
+subtitle: "PHYS 4604: Professional Development · Fall 2026"
+---
+
+| # | Date | Topic | Slides |
+|---|---|---|---|
+| 1 | August 28 | Course Overview & Résumés | [Open slides](lecture-01.qmd){target="_blank"} |

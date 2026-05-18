@@ -4,6 +4,10 @@ project:
 website:
   title: "PHYS 4604"
   navbar:
+    background: "#003057"
+    foreground: "#EAAA00"
+    pinned: true
+    search: true
     left:
       - text: "Home"
         href: index.qmd
@@ -21,8 +25,7 @@ website:
           - supplemental/resume-cv.qmd
           - supplemental/technical-writing.qmd
       - text: "Lectures"
-        menu:
-          - lectures/lecture-01.qmd
+        href: lectures/index.qmd
 
 format:
   html:
