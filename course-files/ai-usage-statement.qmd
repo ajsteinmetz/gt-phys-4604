@@ -10,17 +10,17 @@ Limited use of generative AI tools, such as Copilot, ChatGPT, Claude, Gemini, an
 When generative AI is used in preparing an assignment submission, students must include an **AI Usage Statement** with that assignment. The statement documents what tool was used, what was asked of it, what it produced, and how the student incorporated or revised that output.
 
 ::: {.callout-note}
-**Important:** AI use is *entirely optional*. You are never required use generative AI in this course.
+AI use is *entirely optional*. You are never required use generative AI in this course.
 :::
 
 Overuse of such tools are discouraged as there is growing evidence that reliance on AI can decrease one's expertise and skills:
 
 > "The ADR of standard colonoscopy decreased significantly from 28.4% (226 of 795) before to 22.4% (145 of 648) after exposure to AI, corresponding with an absolute difference of -6.0% (95% CI -10.5 to -1.6; p=0.0089). [...] Continuous exposure to AI might reduce the ADR of standard non-AI assisted colonoscopy, suggesting a negative effect on endoscopist behaviour."
 
-Reference: Budzyń K, et. al. Endoscopist deskilling risk after exposure to artificial intelligence in colonoscopy: a multicentre, observational study. *Lancet Gastroenterol Hepatol*. 2025 Oct;10(10):896-903. doi: [10.1016/S2468-1253(25)00133-5](https://doi.org/10.1016/s2468-1253(25)00133-5). PMID: 40816301.
+**Reference:** Budzyń K, et. al. Endoscopist deskilling risk after exposure to artificial intelligence in colonoscopy: a multicentre, observational study. *Lancet Gastroenterol Hepatol*. 2025 Oct;10(10):896-903. doi: [10.1016/S2468-1253(25)00133-5](https://doi.org/10.1016/s2468-1253(25)00133-5). PMID: 40816301.
 
-::: {.callout-warning}
-**Important:** AI should never be used to generate a whole assignment from scratch. The final submission must reflect your own thinking, judgment, and revisions.
+::: {.callout-important}
+AI should never be used to generate a whole assignment from scratch. The final submission must reflect your own thinking, judgment, and revisions.
 :::
 
 ## When Is an AI Usage Statement Required?
@@ -90,7 +90,8 @@ The following are not consistent with course policy:
 - Using AI but failing to disclose that use when a statement is required.
 
 ::: {.callout-tip}
-**When in doubt:** Ask the instructor before using generative AI for a course assignment.
+## When in doubt
+Ask the instructor before using generative AI for a course assignment.
 :::
 
 ## Why This Matters

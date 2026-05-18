@@ -3,7 +3,7 @@ project:
 
 format:
   html:
-    theme: none
+    theme: default
     css: gatech-theme.css
     toc: false
     embed-resources: true

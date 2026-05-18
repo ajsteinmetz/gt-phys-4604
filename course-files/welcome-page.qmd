@@ -126,5 +126,6 @@ There are no exams in this course. Your grade is based primarily on attendance a
 - **When in doubt, ask.** If you are unsure whether a resource, collaboration, or AI use is appropriate, contact the instructor before submitting.
 
 ::: {.callout-tip}
-**Next steps:** Review the [full syllabus on Canvas](https://gatech.instructure.com/courses/559356/pages/phys-4604-syllabus-fall-2026), then take the [Syllabus Quiz](https://gatech.instructure.com/courses/559356/quizzes/786463). Note the major assignment due dates listed in the Course Schedule and begin thinking about which post-degree pathway you want to prepare for this semester.
+## Next steps
+Review the [full syllabus on Canvas](https://gatech.instructure.com/courses/559356/pages/phys-4604-syllabus-fall-2026), then take the [Syllabus Quiz](https://gatech.instructure.com/courses/559356/quizzes/786463). Note the major assignment due dates listed in the Course Schedule and begin thinking about which post-degree pathway you want to prepare for this semester.
 :::
