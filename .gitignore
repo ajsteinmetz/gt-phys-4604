@@ -14,5 +14,6 @@ Thumbs.db
 
 # Build artifacts
 /.quarto/
+/_site/
 
 **/*.quarto_ipynb

@@ -13,7 +13,7 @@ When generative AI is used in preparing an assignment submission, students must 
 AI use is *entirely optional*. You are never required use generative AI in this course.
 :::
 
-Overuse of such tools are discouraged as there is growing evidence that reliance on AI can decrease one's expertise and skills:
+Overuse of such tools is discouraged as there is growing evidence that reliance on AI can decrease one's expertise and skills:
 
 > "The ADR of standard colonoscopy decreased significantly from 28.4% (226 of 795) before to 22.4% (145 of 648) after exposure to AI, corresponding with an absolute difference of -6.0% (95% CI -10.5 to -1.6; p=0.0089). [...] Continuous exposure to AI might reduce the ADR of standard non-AI assisted colonoscopy, suggesting a negative effect on endoscopist behaviour."
 
