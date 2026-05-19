@@ -1,6 +1,6 @@
 ---
-title: "Lecture 1 · Course Overview & Résumés"
-subtitle: "PHYS 4604: Professional Development"
+title: "Course Overview & Résumés"
+subtitle: "PHYS 4604 · Lecture 1"
 author: "Andrew J. Steinmetz"
 date: "August 28, 2026"
 format:
@@ -17,12 +17,74 @@ format:
 
 This course is built around a simple idea: **professional development happens by doing it.**
 
-Over the semester, you will produce five real documents you can use immediately — in job applications, graduate school applications, fellowship applications, and career fairs.
+Over the semester, we will produce five real documents you can use immediately -- in job applications, graduate school applications, fellowship applications, and career fairs.
 
-No exams. No textbooks. Just work product.
+### Course websites:
+
+- https://canvas.gatech.edu/
+- https://ajsteinmetz.github.io/gt-phys-4604/
 
 ::: notes
 Welcome students. This course is intentionally low-overhead — one credit, one hour per week, no exams. The deliverables are the point. Emphasize that the résumé they write is one they can hand to an employer in three weeks.
+:::
+
+---
+
+## Where do B.S. Physics go nationally?
+
+![](figs/fig1_bachelors-status.png){fig-align="center" width="85%"}
+
+::: {style="font-size: 0.6em; text-align: center; color: #555; margin-top: 4px;"}
+[@mulvey2025]
+:::
+
+---
+
+## B.S. Physics Starting Salaries
+
+```{python}
+#| echo: false
+#| fig-align: center
+#| out-width: "90%"
+import matplotlib
+import matplotlib.pyplot as plt
+import numpy as np
+
+matplotlib.rcParams.update({'font.family': 'sans-serif'})
+
+years  = ['2020–21', '2021–22', '2022–23', '2023–24', '2024–25', '2025–26']
+x      = np.arange(len(years))
+width  = 0.25
+
+oae    = [74.0,   80.0,  76.5,   86.5,   84.0,   np.nan]
+winter = [67.0,   74.0,  72.5,   74.05,  85.0,   87.0  ]
+summer = [67.834, 70.0,  64.776, 74.563, np.nan, np.nan]
+
+fig, ax = plt.subplots(figsize=(9, 3.8))
+
+ax.bar(x - width, oae,    width, label='B.S. (OAE)',         color='#003057', edgecolor='black', linewidth=0.5)
+ax.bar(x,         winter, width, label='B.S. (NACE prelim.)', color='#EAAA00', edgecolor='black', linewidth=0.5)
+ax.bar(x + width, summer, width, label='B.S. (NACE final)',   color='#C45000', edgecolor='black', linewidth=0.5)
+
+ax.set_xlabel('Academic Year', fontsize=10)
+ax.set_ylabel('Median salary ($k)', fontsize=10)
+ax.set_xticks(x)
+ax.set_xticklabels(years, fontsize=9)
+ax.set_ylim(60, 95)
+ax.set_yticks(range(60, 96, 5))
+ax.yaxis.grid(True, linestyle='--', alpha=0.55, color='gray')
+ax.set_axisbelow(True)
+ax.legend(loc='upper center', bbox_to_anchor=(0.5, 1.15),
+          ncol=3, frameon=False, fontsize=9)
+ax.spines['top'].set_visible(False)
+ax.spines['right'].set_visible(False)
+
+plt.tight_layout()
+plt.show()
+```
+
+::: {style="font-size: 0.55em; text-align: center; color: #555; margin-top: 2px;"}
+[@nace_winter; @nace_summer; @oae_gt]
 :::
 
 ---
@@ -301,3 +363,10 @@ The GT Career Center offers drop-in résumé reviews. Use them before September 
 - *How to Format an AI Usage Statement*
 
 **Office Hours:** By appointment — email [ajsteinmetz@gatech.edu](mailto:ajsteinmetz@gatech.edu) to schedule.
+
+---
+
+## References
+
+::: {#refs}
+:::
