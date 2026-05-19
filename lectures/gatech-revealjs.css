@@ -10,10 +10,10 @@
 
 /* Title slide */
 #title-slide {
-  background-color: var(--gt-navy);
+  background-color: var(--gt-cream);
 }
 #title-slide h1.title {
-  color: white;
+  color: var(--gt-navy);
   font-size: 1.9em;
   font-weight: bold;
 }
@@ -24,7 +24,7 @@
 }
 #title-slide p.author,
 #title-slide p.date {
-  color: var(--gt-gold);
+  color: var(--gt-navy);
   font-size: 0.95em;
 }
 

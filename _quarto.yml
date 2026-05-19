@@ -9,10 +9,10 @@ website:
     pinned: true
     search: true
     left:
-      - text: "Home"
-        href: index.qmd
-      - text: "Syllabus"
-        href: course-files/syllabus.qmd
+      - text: "Course Files"
+        menu:
+          - course-files\syllabus.qmd
+          - course-files\ai-usage-statement.qmd
       - text: "Assignments"
         menu:
           - assignments/resume.qmd
