@@ -4,7 +4,7 @@ PHYS 4604 — Professional Development
 
 This repository contains course materials for PHYS 4604 (Professional Development), a 1-credit, in-person course offered at the School of Physics, Georgia Institute of Technology. Materials include the syllabus, welcome page, assignment pages, supplemental guides, and lecture files intended for students and instructors.
 
-The site is built with [Quarto](https://quarto.org/). Project configuration is in `_quarto.yml`; visual styling is in `gatech-theme.css`. The live course site is hosted at **[ajsteinmetz.github.io/GT-PHYS-4604](https://ajsteinmetz.github.io/GT-PHYS-4604/)** via GitHub Pages.
+The site is built with [Quarto](https://quarto.org/). Project configuration is in `_quarto.yml`; visual styling is in `gatech-theme.css`. The live course site is hosted at **[ajsteinmetz.github.io/gt-phys-4604](https://ajsteinmetz.github.io/gt-phys-4604/)** via GitHub Pages.
 
 ## Contents
 
@@ -27,8 +27,6 @@ The site is built with [Quarto](https://quarto.org/). Project configuration is i
 ## Prerequisites
 
 - [Quarto](https://quarto.org/docs/get-started/) 1.4 or later
-
-No R or Python installation is required. All course materials are plain Markdown with no executable code blocks.
 
 ## Local Development
 
