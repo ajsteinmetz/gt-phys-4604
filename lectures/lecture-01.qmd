@@ -11,6 +11,29 @@ format:
     footer: "PHYS 4604 · Fall 2026 · Georgia Institute of Technology"
     width: 1200
     height: 750
+    auto-stretch: false
+---
+
+## Your Instructor
+
+:::: {.columns}
+::: {.column width="40%"}
+**Dr. Andrew J. Steinmetz**
+
+School of Physics · Georgia Institute of Technology
+
+| | |
+|---|---|
+| **Email** | [ajsteinmetz@gatech.edu](mailto:ajsteinmetz@gatech.edu) |
+| **Office hours** | [By appointment](https://outlook.office.com/bookwithme/user/118287044b844adb8cb5cfaadd54546f@gatech.edu?anonymous&ismsaljsauthenabled&ep=plink) |
+| **Office** | Howey W204 |
+:::
+::: {.column width="60%"}
+![](figs/qr-code.jpg){fig-align="center" width="75%"}
+:::
+::::
+
+
 ---
 
 ## Welcome to PHYS 4604
@@ -21,71 +44,8 @@ Over the semester, we will produce five real documents you can use immediately -
 
 ### Course websites:
 
-- https://canvas.gatech.edu/
-- https://ajsteinmetz.github.io/gt-phys-4604/
-
-::: notes
-Welcome students. This course is intentionally low-overhead — one credit, one hour per week, no exams. The deliverables are the point. Emphasize that the résumé they write is one they can hand to an employer in three weeks.
-:::
-
----
-
-## Where do B.S. Physics go nationally?
-
-![](figs/fig1_bachelors-status.png){fig-align="center" width="85%"}
-
-::: {style="font-size: 0.6em; text-align: center; color: #555; margin-top: 4px;"}
-[@mulvey2025]
-:::
-
----
-
-## B.S. Physics Starting Salaries
-
-```{python}
-#| echo: false
-#| fig-align: center
-#| out-width: "90%"
-import matplotlib
-import matplotlib.pyplot as plt
-import numpy as np
-
-matplotlib.rcParams.update({'font.family': 'sans-serif'})
-
-years  = ['2020–21', '2021–22', '2022–23', '2023–24', '2024–25']
-x      = np.arange(len(years))
-width  = 0.25
-
-oae    = [74.0,   80.0,  76.5,   86.5,   84.0]
-# winter = [67.0,   74.0,  72.5,   74.05,  85.0,   87.0  ]
-summer = [67.834, 70.0,  64.776, 74.563, np.nan]
-
-fig, ax = plt.subplots(figsize=(9, 3.8))
-
-ax.bar(x, oae,    width, label='B.S. (GT OAE)',         color='#003057', edgecolor='black', linewidth=0.5)
-# ax.bar(x,         winter, width, label='B.S. (NACE prelim.)', color='#EAAA00', edgecolor='black', linewidth=0.5)
-ax.bar(x + width, summer, width, label='B.S. (NACE)',   color='#C45000', edgecolor='black', linewidth=0.5)
-
-ax.set_xlabel('Academic Year', fontsize=10)
-ax.set_ylabel('Median salary ($k)', fontsize=10)
-ax.set_xticks(x)
-ax.set_xticklabels(years, fontsize=9)
-ax.set_ylim(60, 95)
-ax.set_yticks(range(60, 96, 5))
-ax.yaxis.grid(True, linestyle='--', alpha=0.55, color='gray')
-ax.set_axisbelow(True)
-ax.legend(loc='upper center', bbox_to_anchor=(0.5, 1.15),
-          ncol=3, frameon=False, fontsize=9)
-ax.spines['top'].set_visible(False)
-ax.spines['right'].set_visible(False)
-
-plt.tight_layout()
-plt.show()
-```
-
-::: {style="font-size: 0.55em; text-align: center; color: #555; margin-top: 2px;"}
-[@nace_winter; @nace_summer; @oae_gt]
-:::
+- [https://canvas.gatech.edu/](https://canvas.gatech.edu/)
+- [https://ajsteinmetz.github.io/gt-phys-4604/](https://ajsteinmetz.github.io/gt-phys-4604/)
 
 ---
 
@@ -100,25 +60,204 @@ plt.show()
 | External participation | December 4 | 4% |
 | Attendance and participation | Weekly | 52% |
 
-Each assignment produces something real — not a class exercise.
-
 ---
 
 ## Course Policies — The Short Version
 
 - **Attendance is mandatory.** One missed class is dropped from your attendance grade.
-- **No textbook.** Materials are provided through Canvas.
-- **Limited AI use is permitted** — but must be disclosed with an AI Usage Statement.
+- **No textbook.** Materials are provided through Canvas/course website.
+- **No exams.**
+- **Limited AI use is permitted** but must be disclosed with an AI Usage Statement.
 - **Late work is not accepted.** All assignments are open the entire semester, so plan ahead.
-- **When in doubt, ask.** Email or office hours — I'd rather you ask than guess.
+- **When in doubt, ask.** Email or office hours, I'd rather you ask than guess.
 
 ---
 
-## Part I: The Career Fair
+## Part I: What do I do with my degree?
 
-### Fall 2026 All Majors Career Fair
+Nationally, about half of B.S. Physics majors are employed 1-year post-graduation; the rest mostly go to graduate school.
 
-Dates: **September 14–15, 2026**
+::: {style="font-size: 0.6em; text-align: left; color: #555; margin-top: 4px;"}
+[@mulvey2025]
+:::
+
+![](figs/fig1_bachelors-status.png){fig-align="center" width="80%"}
+
+---
+
+## B.S. Physics: Employment Outcomes
+
+::: {style="font-size: 0.6em; text-align: left; color: #555; margin-top: 4px;"}
+[@mulvey2025]
+:::
+
+![](figs/fig2_bachelors-employment.png){fig-align="center" width="75%"}
+
+---
+
+## GT B.S. Physics: Starting Salaries
+
+Reported initial median salaries range from $74,000 to $86,500 and are competitive or in excess of national trends reported by NACE.
+
+::: {style="font-size: 0.55em; text-align: left; color: #555; margin-top: 2px;"}
+[@nace_winter; @nace_summer; @oae_gt]
+:::
+
+```{python}
+#| echo: false
+#| fig-align: center
+import matplotlib
+import matplotlib.pyplot as plt
+import numpy as np
+
+matplotlib.rcParams.update({'font.family': 'sans-serif'})
+
+years  = ['2020–21', '2021–22', '2022–23', '2023–24', '2024–25']
+x      = np.arange(len(years))
+width  = 0.25
+
+oae    = [74.0,   80.0,  76.5,   86.5,   84.0]
+summer = [67.834, 70.0,  64.776, 74.563, np.nan]
+
+fig, ax = plt.subplots(figsize=(12, 4.5))
+
+ax.bar(x, oae,    width, label='B.S. (GT OAE)',          color='#003057', edgecolor='black', linewidth=0.5)
+ax.bar(x + width, summer, width, label='B.S. (NACE final)',    color='#C45000', edgecolor='black', linewidth=0.5)
+
+ax.set_xlabel('Academic Year', fontsize=18)
+ax.set_ylabel('Median salary ($k)', fontsize=18)
+ax.set_xticks(x)
+ax.set_xticklabels(years, fontsize=16)
+ax.set_ylim(60, 95)
+ax.set_yticks(range(60, 96, 5))
+ax.tick_params(axis='y', labelsize=16)
+ax.yaxis.grid(True, linestyle='--', alpha=0.55, color='gray')
+ax.set_axisbelow(True)
+ax.legend(loc='upper center', bbox_to_anchor=(0.5, 1.15),
+          ncol=2, frameon=False, fontsize=16)
+ax.spines['top'].set_visible(False)
+ax.spines['right'].set_visible(False)
+
+plt.tight_layout()
+plt.show()
+```
+
+---
+
+## GT B.S. Physics: Graduate School Acceptance
+
+Most Georgia Tech B.S. Physics majors who intend to further their education are accepted into at least one graduate school by graduation.
+
+::: {style="font-size: 0.55em; text-align: left; color: #555; margin-top: 2px;"}
+[@oae_gt]
+:::
+
+```{python}
+#| echo: false
+#| fig-align: center
+import matplotlib
+import matplotlib.pyplot as plt
+import numpy as np
+
+matplotlib.rcParams.update({'font.family': 'sans-serif'})
+
+years    = ['2020–21', '2021–22', '2022–23', '2023–24', '2024–25']
+x        = np.arange(len(years))
+width    = 0.3
+
+further  = [68.4, 60.6, 50.0, 65.2, 62.1]
+accepted = [42.1, 51.5, 39.3, 56.5, 58.6]
+
+fig, ax = plt.subplots(figsize=(12, 4.5))
+
+ax.bar(x - width/2, further,  width, label='Furthering education',        color='#2e7d32', edgecolor='black', linewidth=0.5)
+ax.bar(x + width/2, accepted, width, label='Accepted to graduate program', color='#00acc1', edgecolor='black', linewidth=0.5)
+
+ax.set_xlabel('Academic Year', fontsize=18)
+ax.set_ylabel('Percent of B.S. respondents (%)', fontsize=18)
+ax.set_xticks(x)
+ax.set_xticklabels(years, fontsize=16)
+ax.set_ylim(0, 80)
+ax.set_yticks(range(0, 81, 10))
+ax.tick_params(axis='y', labelsize=16)
+ax.yaxis.grid(True, linestyle='--', alpha=0.55, color='gray')
+ax.set_axisbelow(True)
+ax.legend(loc='upper center', bbox_to_anchor=(0.5, 1.15),
+          ncol=2, frameon=False, fontsize=16)
+ax.spines['top'].set_visible(False)
+ax.spines['right'].set_visible(False)
+
+plt.tight_layout()
+plt.show()
+```
+
+---
+
+## GT B.S. Physics: Graduate Destinations
+
+Georgia Tech B.S. Physics majors are accepted to a wide range of highly ranked institutions for graduate study.
+
+::: {style="font-size: 0.55em; text-align: left; color: #555; margin-top: 2px;"}
+[@irp_gt2026] — NSC data, B.S. Physics alumni graduating AY 2021–2025.
+:::
+
+
+```{python}
+#| echo: false
+#| fig-align: center
+import matplotlib
+import matplotlib.pyplot as plt
+
+matplotlib.rcParams.update({'font.family': 'sans-serif'})
+
+labels = [
+    'Georgia Tech', 'CU Boulder', 'Caltech', 'Johns Hopkins U.',
+    'Purdue U.', 'Harvard U.', 'MIT', 'U. of Maryland',
+    'UT Austin', 'All other institutions'
+]
+sizes  = [35.7, 3.9, 3.2, 3.2, 3.2, 2.6, 2.6, 2.6, 2.6, 40.3]
+colors = [
+    '#5588BB', '#D97000', '#2e7d32', '#CC3333', '#9955CC',
+    '#00ACC1', '#009999', '#996633', '#8C8C8C', '#BBBBBB'
+]
+
+fig, ax = plt.subplots(figsize=(12, 5))
+
+wedges, _ = ax.pie(
+    sizes,
+    colors=colors,
+    startangle=90,
+    counterclock=False,
+    wedgeprops={'edgecolor': 'white', 'linewidth': 1.5}
+)
+
+legend_labels = [f'{l} — {s:.1f}%' for l, s in zip(labels, sizes)]
+ax.legend(
+    wedges, legend_labels,
+    loc='center left',
+    bbox_to_anchor=(1.02, 0.5),
+    fontsize=16,
+    frameon=False
+)
+
+plt.tight_layout()
+plt.show()
+```
+
+---
+
+## Part II: September Career Fair Events
+
+Career Center events:
+
+- Sept. 8: GT Career Center: In-Person Resume Reviews
+- Sept. 9: Supply Chain Day Career Fair
+- Sept. 9: GT Career Center: Virtual Resume Reviews
+- Sept. 10: GT Career Center: Virtual Resume Reviews
+- Sept. 14: **Fall 2026 All Majors Career Fair**
+- Sept. 15: **Fall 2026 All Majors Career Fair**
+- Sept. 17: Fall 2026 College of Computing Career Fair 
+- Sept. 21: Fall 2026 IISE Career Fair 
 
 ---
 
@@ -126,34 +265,29 @@ Dates: **September 14–15, 2026**
 
 The **Fall 2026 All Majors Career Fair** is September 14–15 at Georgia Tech.
 
-Your **résumé is due September 11** — before the fair begins.
+- [Georgia Tech Career Fair](https://careerfair.gatech.edu/)
+- [Georgia Tech Interviewing Resources](https://career.gatech.edu/interviewing/)
 
-This is not a practice run. Recruiters and employers from dozens of companies will be there. Physics, engineering, data science, and research roles are all represented.
+Your **résumé is due September 11** before the fair begins.
 
 ::: {.highlight-box}
-**The goal of today's lecture:** you leave knowing what goes on a résumé and how to start writing one.
+**The goal of today's lecture:** covering what goes on a résumé and how to start writing one if you haven't done so already.
 :::
 
 ---
 
-## What Happens at a Career Fair
+## Part III: Résumés
 
-- You approach a company table with your résumé in hand.
-- You introduce yourself in 30–60 seconds (an "elevator pitch").
-- You have a brief conversation about your background and interest.
-- They take your résumé — or tell you where to apply online.
+A résumé is typically organized into six sections:
 
-You do not need to have everything figured out. You need to be **prepared, professional, and specific** about what you are looking for.
+1. **Contact information**
+2. **Education**
+3. **Experience**
+4. **Skills**
+5. **Projects and leadership**
+6. Awards and honors *(optional)*
 
-::: notes
-Reassure students that career fairs are not as intimidating as they seem. Preparation is the key differentiator. A student who walks up with a polished résumé and can articulate their interests will stand out.
-:::
-
----
-
-## Part II: Résumés
-
-What they are, what goes in them, and how to write them well.
+Not every résumé looks the same. The order and emphasis depend on your background and the opportunity.
 
 ---
 
@@ -166,24 +300,7 @@ What they are, what goes in them, and how to write them well.
 | **Used for** | Jobs, internships, most undergrad opportunities | Grad fellowships, faculty positions, postdocs |
 | **Customization** | Tailored to each application | Updated over time |
 
-For most of you, right now: **résumé**.
-
-A CV will come later — often during graduate school, as publications, talks, and grants accumulate.
-
----
-
-## The Six Main Sections
-
-A résumé is typically organized into six sections:
-
-1. **Contact information**
-2. **Education**
-3. **Experience**
-4. **Skills**
-5. **Projects and leadership**
-6. Awards and honors *(optional)*
-
-Not every résumé looks the same. The order and emphasis depend on your background and the opportunity.
+For most of you a **résumé** is your concern. A CV will come later during graduate school, as publications, talks, and grants accumulate.
 
 ---
 
@@ -211,7 +328,7 @@ Mention that GT email is appropriate for now but a permanent personal email is u
   - Expected graduation: May 2027 (or your actual date)
   - GPA: include if ≥ 3.0 — judgement call
 - Relevant coursework (optional, useful if experience is thin)
-- Academic honors: Dean's List, PURA, scholarships
+- Academic honors: Dean's List, scholarships, etc.
 
 List your most recent degree first. If you attended another institution, include it.
 
@@ -230,15 +347,17 @@ For each entry:
 - Location (city, state) — or "Remote"
 - **2–4 bullet points describing what you did and what it produced**
 
+Research experience counts strongly for physics students: faculty advisors, national labs, REUs.
+
 ::: notes
-Research experience counts strongly for physics students — faculty advisors, national labs, REUs. Emphasize that even a one-semester research role is worth including if it involved real technical work.
+Emphasize that even a one-semester research role is worth including if it involved real technical work.
 :::
 
 ---
 
 ## Writing Strong Bullets
 
-The most common mistake: **describing duties instead of accomplishments.**
+The most common mistake: describing duties instead of accomplishments.
 
 | Weak | Strong |
 |---|---|
@@ -263,8 +382,6 @@ Built · Designed · Developed · Implemented · Programmed · Automated · Opti
 **Communication and Collaboration**
 Presented · Wrote · Documented · Led · Collaborated · Mentored · Coordinated
 
-Avoid: *assisted with*, *helped*, *was responsible for*, *worked on*
-
 ---
 
 ## Skills
@@ -272,10 +389,10 @@ Avoid: *assisted with*, *helped*, *was responsible for*, *worked on*
 List technical skills — the specific tools and languages you actually know.
 
 **Programming and Software**
-Python, MATLAB, C/C++, Julia, Mathematica, LaTeX, Git, Linux/bash
+Python, MATLAB, C/C++, Julia, Mathematica, LaTeX, Git, Linux/bash, etc.
 
 **Laboratory and Instrumentation**
-(List specific instruments, techniques, or equipment relevant to your work)
+List specific instruments, techniques, or equipment relevant to your work
 
 **Other**
 Data analysis, scientific writing, numerical methods
@@ -288,7 +405,7 @@ Do not list generic software (Word, PowerPoint) unless the role specifically req
 
 ## Projects and Leadership
 
-Valuable if work or research experience is limited — and worth including even if it is not.
+Valuable if work or research experience is limited and generally worth including.
 
 **Technical projects**
 
@@ -313,25 +430,13 @@ Keep it clean and professional.
 - Adequate white space — do not cram everything in
 - Consistent alignment of dates and section headers
 - No photos, no graphics, no colored text (with rare exceptions)
-- **Always submit as a PDF** — never a Word document unless specifically requested
+- Typos and grammar errors are disqualifying. Proofread. Then proofread again.
+
+[Georgia Tech Career Center — Résumé Guidance](https://career.gatech.edu/resumes/)
 
 ::: notes
-The GT Career Center has résumé templates on their website. Encourage students to use one if they are starting from scratch. The formatting rules exist because recruiters scan résumés in seconds.
+Encourage students to use one if they are starting from scratch. The formatting rules exist because recruiters scan résumés in seconds.
 :::
-
----
-
-## What Not to Do
-
-Common mistakes to avoid:
-
-- **Vague bullets:** "Assisted with research" — what research? what did you do?
-- **Passive constructions:** "Was responsible for..." — use an active verb instead
-- **Inconsistent formatting:** mixed date styles, misaligned margins, two fonts that clash
-- **Wrong file format:** emailing a `.docx` when PDF was requested
-- **One-size-fits-all:** not tailoring the résumé for the specific opportunity
-
-Typos and grammar errors are disqualifying. Proofread. Then proofread again.
 
 ---
 
@@ -341,28 +446,8 @@ Typos and grammar errors are disqualifying. Proofread. Then proofread again.
 1. **Start your résumé draft** — or revisit the one you have.
 2. **Bring it to class next Friday (September 4)** — we will workshop drafts in class.
 3. **Résumé is due: September 11 at 11:59 PM ET** — submitted as PDF to Canvas.
-4. **Career Fair: September 14–15** — plan to attend.
+4. **Career Fair: September 14–15** — Attendance counts as possible External Participation credit.
 :::
-
-The GT Career Center offers drop-in résumé reviews. Use them before September 11.
-
----
-
-## Helpful Resources
-
-**Résumé and Career Preparation**
-
-- [Georgia Tech Career Center — Résumé Guidance](https://career.gatech.edu/resumes/)
-- [Georgia Tech Career Fair](https://careerfair.gatech.edu/)
-- [Georgia Tech Interviewing Resources](https://career.gatech.edu/interviewing/)
-
-**Course Materials (Canvas)**
-
-- *Résumé vs. Academic CV* — supplemental guide
-- *Technical and Professional Writing* — supplemental guide
-- *How to Format an AI Usage Statement*
-
-**Office Hours:** By appointment — email [ajsteinmetz@gatech.edu](mailto:ajsteinmetz@gatech.edu) to schedule.
 
 ---
 
