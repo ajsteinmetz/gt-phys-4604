@@ -1,0 +1,137 @@
+---
+title: "Peer Feedback"
+subtitle: "PHYS 4604: Professional Development"
+---
+
+## Why Peer Feedback Often Fails
+
+:::: {.columns}
+::: {.column width="55%"}
+The typical experience of peer feedback goes something like this: you trade papers with a classmate, quickly skim each other's work, write "good introduction" and circle a few typos, and call it done. Nothing changes. Nobody learned anything.
+
+That version of peer review fails because the feedback is vague, generic, and not connected to what the document actually needs to do [@roberts2016]. The goal here is feedback that the author can act on, from a reader who has thought seriously about the document.
+
+:::
+::: {.column width="45%"}
+![["Star Ratings"](https://xkcd.com/1098/) by Randall Munroe ([xkcd](https://xkcd.com)), licensed under [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/).](https://imgs.xkcd.com/comics/star_ratings.png){fig-align="center" width="80%"}
+:::
+::::
+
+::: {.callout-important}
+Peer feedback is a professional skill. In research, your labmates, collaborators, co-authors, and dissertation committee will all read and critique your work before it reaches a journal or grant panel.
+:::
+
+## Benefits of Peer Review
+
+Before you begin, it helps to recognize what peer review is actually good for:
+
+- You see how other students interpreted the same assignment and solved the same problems.
+- You receive feedback from someone with no authority to grade you. The stakes are lower and the conversation can be more honest.
+- You have a chance to ask questions and get them answered before final submission.
+- You practice the workforce skill of giving and receiving effective criticism, which every professional environment requires.
+
+## Prepare Before You Read
+
+Most of what separates useful feedback from useless feedback is preparation. Before you read a single word of the document you are reviewing, work through the four understandings below.
+
+### Understand Your Position
+
+**As a peer:** You are at the same level as the author. You have no authority to demand changes. You are there to offer suggestions and recommendations, not edicts. The author decides what to do with your feedback.
+
+**As a reader:** You may feel unqualified to evaluate another person's writing, but you already evaluate movies, restaurants, and sports teams without being an expert in any of them. You do this because you know when something works for you as an audience member. You know when you are confused, bored, persuaded, or engaged. That is exactly the qualification you need here.
+
+### Understand the Document
+
+Every document is meant to communicate something for a specific purpose within a set of expected boundaries:
+
+- **Requirements:** What are the absolute requirements? Did the document meet them?
+- **Audience:** Who is this document written for?
+- **Purpose:** What is the document trying to accomplish?
+- **Subject:** What is the document about? Does the author stay on that subject?
+
+::: {.callout-note}
+A résumé here could go to an actual employer. A personal statement could go to an actual graduate program. Evaluate the document against the real-world audience it is intended to reach.
+:::
+
+## Providing Feedback
+
+### Make Positive Comments (with "Because")
+
+It matters that the author hears what is working. Praise that is specific helps the author know which choices to keep and repeat.
+
+The key: **use the word *because* in every positive comment.**
+
+| Weak | Strong |
+|---|---|
+| "Good introduction." | "The opening is effective *because* it immediately names the specific lab technique you want to apply, which tells the reader what kind of candidate you are before they read a single bullet point." |
+| "I liked the research section." | "The research motivation is compelling *because* you connect the problem directly to an open question in the field, not just a general area of interest." |
+
+"I liked it" without a *because* tells the author nothing they can use. "I liked it *because*..." tells them what to protect during revision.
+
+### Give Constructive Criticism
+
+Constructive criticism does not just identify what is wrong -- it gives the author a direction for how to make it better. Focus your criticism in three layers:
+
+1. **Requirements first.** Did the document meet the stated requirements? If something is missing, point it out directly. Those are points the author will lose if you do not flag them.
+
+2. **Meaning second.** Is it clear what the document is saying? Are claims supported with evidence? Are there places where you wanted more, or where you still had unanswered questions? These are the comments that matter most for revision.
+
+3. **Speed bumps last.** A *speed bump* is anything that stops your reading: a sentence that confused you, a transition that did not land, a word choice that felt off, a section that seemed to lose focus. Pay attention to what your brain does as you read. It will usually signal when something needs revision. You do not need to be certain a speed bump is a real problem -- point it out and let the author decide.
+
+::: {.callout-tip}
+You do not have to be right. Your job is to report what you experienced as a reader. The author decides whether to act on your observation. "This sentence slowed me down -- I am not sure why" is useful feedback even if you cannot diagnose the exact cause.
+:::
+
+## How to Structure Your Written Response
+
+A clear structure makes your feedback easier to use.
+
+1. **Opening summary.** One or two sentences on your overall impression. What is working? What is the most important thing to address?
+2. **Major comments.** Two to four substantive observations about content, structure, audience fit, or meaning. Identify a specific location in the document for each comment, explain the issue, and suggest a direction for improvement.
+3. **Minor comments.** Smaller issues: phrasing, formatting, word choice, typos. Worth noting, but should not dominate your response.
+4. **Closing.** What is the document's strongest aspect? What single revision would most improve it?
+
+Spend the most time on the major comments. A review that is mostly a list of typos is not helpful -- the author can proofread their own work. What they need is your perspective on whether the document is doing its job.
+
+## Common Mistakes in Peer Review
+
+| Mistake | Why It Fails | Better Approach |
+|---|---|---|
+| "This looks great!" | Offers nothing the author can act on | Identify something specific that works *and* something that could be stronger |
+| "This is confusing." | Does not say where or why | Quote the specific passage and explain what confused you |
+| "I would have done it differently..." | Imposes your approach | Ask whether the author's choice serves their purpose, then offer an alternative as a suggestion |
+| Fixing only surface errors | Misses content and structure, which matter more | Address meaning and organization first, then surface polish |
+| Softening every criticism | Author cannot tell what actually needs work | State problems clearly while keeping the tone professional |
+
+## Receiving Feedback
+
+You will also receive peer feedback on your own documents. How you receive it matters.
+
+- **Listen without immediately defending.** You do not need to agree with every comment, but understand what the reviewer is responding to before you decide whether to act on it.
+- **Ask clarifying questions** if you do not understand what a comment is pointing to.
+- **Separate the diagnosis from the solution.** A reviewer may correctly identify a problem but suggest a fix that does not fit your document. Take the diagnosis seriously even if you choose a different approach.
+- **You are not obligated to make every suggested change**, but you should be able to explain to yourself why you are not making it.
+
+::: {.callout-note}
+## Feedback is information, not instruction
+A reviewer's job is to tell you how the document is landing on a reader. What you do with that information is your decision.
+:::
+
+## A Note on Tone
+
+Professional feedback should be direct but not unkind. You can be honest without being dismissive, and specific without being harsh. The standard to aim for is the kind of feedback a thoughtful colleague or mentor would give: someone who respects your time enough to tell you what is actually wrong, and respects you enough to believe you can fix it.
+
+Sharing your writing makes you feel vulnerable. Feedback that is honest *and* encouraging -- that points to real problems while making clear the author is capable of solving them -- is one of the most useful things you can offer a peer.
+
+## References
+
+::: {#refs}
+:::
+
+---
+
+::: {.callout-note}
+## License
+
+The peer review framework presented in this page is adapted from Jason Roberts, "Making a Peer Review More Than a Waste of Time," in *Open English @ SLCC* [@roberts2016]. *Open English @ SLCC* Copyright © 2016 by SLCC English Department is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/), except where otherwise noted.
+:::

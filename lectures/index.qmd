@@ -1,7 +1,9 @@
 ---
 title: "Lectures"
-subtitle: "PHYS 4604: Professional Development · Fall 2026"
+subtitle: "PHYS 4604: Professional Development"
 ---
+
+**Fall 2026**
 
 | # | Date | Topic | Slides |
 |---|---|---|---|

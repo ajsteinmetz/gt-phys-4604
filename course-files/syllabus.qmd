@@ -1,7 +1,9 @@
 ---
-title: "PHYS 4604: Professional Development"
-subtitle: "Fall 2026 | CRN #94323 | 1 credit hour"
+title: "Syllabus"
+subtitle: "PHYS 4604: Professional Development"
 ---
+
+**Fall 2026 | CRN #94323 | 1 credit hour**
 
 **Fridays, 4:00–4:50 PM • Howey Physics L3 • Weekly in-person attendance required**
 
