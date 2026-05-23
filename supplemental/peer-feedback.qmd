@@ -6,15 +6,19 @@ subtitle: "PHYS 4604: Professional Development"
 ## Why Peer Feedback Often Fails
 
 :::: {.columns}
-::: {.column width="65%"}
+::: {.column width="70%" style="padding-right: 2em;"}
 The typical experience of peer feedback goes something like this: you trade papers with a classmate, quickly skim each other's work, write "good introduction" and circle a few typos, and call it done. Nothing changes. Nobody learned anything.
 
 That version of peer review fails because the feedback is vague, generic, and not connected to what the document actually needs to do [@roberts2016]. The goal here is feedback that the author can act on, from a reader who has thought seriously about the document.
 
 :::
+::: {.column width="30%"}
+![](https://imgs.xkcd.com/comics/star_ratings.png){fig-align="center" width="100%"}
 
-::: {.column width="35%"}
-![["Star Ratings"](https://xkcd.com/1098/) by Randall Munroe ([xkcd](https://xkcd.com)), licensed under [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/).](https://imgs.xkcd.com/comics/star_ratings.png){fig-align="center" width="80%"}
+::: {style="text-align: center; color: #555;"}
+[xkcd #1098 "Qualifications"](https://xkcd.com/1098/) · [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/)
+:::
+
 :::
 ::::
 
@@ -151,5 +155,5 @@ Sharing your writing may make you feel vulnerable, which is completely normal. F
 
 ::: {.callout-note}
 ## License
-The peer review framework presented in this page is adapted from Jason Roberts, "Making a Peer Review More Than a Waste of Time," in *Open English @ SLCC* [@roberts2016]. *Open English @ SLCC* Copyright © 2016 by SLCC English Department. Licensed under [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+The peer review framework presented in this page is adapted from Jason Roberts, "Making a Peer Review More Than a Waste of Time," in *Open English @ SLCC* [@roberts2016]. *Open English @ SLCC* Copyright © 2016 by SLCC English Department · [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 :::

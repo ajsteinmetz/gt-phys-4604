@@ -17,7 +17,7 @@ format:
 ## Your Instructor
 
 :::: {.columns}
-::: {.column width="40%"}
+::: {.column width="60%"}
 **Dr. Andrew J. Steinmetz**
 
 School of Physics · Georgia Institute of Technology
@@ -25,11 +25,16 @@ School of Physics · Georgia Institute of Technology
 | | |
 |---|---|
 | **Email** | [ajsteinmetz@gatech.edu](mailto:ajsteinmetz@gatech.edu) |
-| **Office hours** | [By appointment](https://outlook.office.com/bookwithme/user/118287044b844adb8cb5cfaadd54546f@gatech.edu?anonymous&ismsaljsauthenabled&ep=plink) |
+| **Office hours** | [By appointment (link)](https://outlook.office.com/bookwithme/user/118287044b844adb8cb5cfaadd54546f@gatech.edu?anonymous&ismsaljsauthenabled&ep=plink) |
 | **Office** | Howey W204 |
 :::
-::: {.column width="60%"}
+::: {.column width="40%"}
 ![](figs/qr-code.jpg){fig-align="center" width="75%"}
+
+::: {.cite-note}
+[https://www.linkedin.com/in/ajsteinmetz/](https://www.linkedin.com/in/ajsteinmetz/)
+:::
+
 :::
 ::::
 
@@ -38,14 +43,27 @@ School of Physics · Georgia Institute of Technology
 
 ## Welcome to PHYS 4604
 
-This course is built around a simple idea: **professional development happens by doing it.**
+:::: {.columns}
+::: {.column width="70%"}
+Over the semester, we will produce five real documents you can use immediately in job applications, graduate school applications, fellowship applications, and career fairs. 
 
-Over the semester, we will produce five real documents you can use immediately -- in job applications, graduate school applications, fellowship applications, and career fairs.
+E.g. this is stuff you'll need to get good at anyway, might as well practice it now!
 
 ### Course websites:
 
 - [https://canvas.gatech.edu/](https://canvas.gatech.edu/)
 - [https://ajsteinmetz.github.io/gt-phys-4604/](https://ajsteinmetz.github.io/gt-phys-4604/)
+:::
+
+::: {.column width="30%"}
+![](https://imgs.xkcd.com/comics/qualifications_2x.png){fig-align="center" width="100%"}
+
+::: {.cite-note}
+[xkcd #2756 "Qualifications"](https://xkcd.com/2756/) · [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/)
+:::
+
+:::
+::::
 
 ---
 
@@ -59,6 +77,11 @@ Over the semester, we will produce five real documents you can use immediately -
 | Personal statement or cover letter | November 20 | 15% |
 | External participation | December 4 | 4% |
 | Attendance and participation | Weekly | 52% |
+
+::: {.callout-note}
+The dates have been intentionally chosen to front-load the majority of the work during the first two-thirds of the semester.
+:::
+
 
 ---
 
@@ -77,31 +100,37 @@ Over the semester, we will produce five real documents you can use immediately -
 
 Nationally, about half of B.S. Physics majors are employed 1-year post-graduation; the rest mostly go to graduate school.
 
-::: {style="font-size: 0.6em; text-align: left; color: #555; margin-top: 4px;"}
+![](figs/fig1_bachelors-status.png){fig-align="center" width="80%"}
+
+::: {.cite-note style="margin-top: -0.5em;"}
 [@mulvey2025]
 :::
-
-![](figs/fig1_bachelors-status.png){fig-align="center" width="80%"}
 
 ---
 
 ## B.S. Physics: Employment Outcomes
 
-::: {style="font-size: 0.6em; text-align: left; color: #555; margin-top: 4px;"}
+:::: {.columns}
+::: {.column width="50%"}
+![](figs/fig2a_bachelors-employment.png){fig-align="center" width="100%"}
+
+::: {.cite-note style="margin-top: -0.5em;"}
 [@mulvey2025]
 :::
 
-![](figs/fig2_bachelors-employment.png){fig-align="center" width="75%"}
+
+:::
+::: {.column width="50%"}
+![](figs/fig2b_bachelors-employment.png){fig-align="center" width="100%"}
+
+:::
+::::
 
 ---
 
-## GT B.S. Physics: Starting Salaries
+## GaTech B.S. Physics: Starting Salaries
 
 Reported initial median salaries range from $74,000 to $86,500 and are competitive or in excess of national trends reported by NACE.
-
-::: {style="font-size: 0.55em; text-align: left; color: #555; margin-top: 2px;"}
-[@nace_winter; @nace_summer; @oae_gt]
-:::
 
 ```{python}
 #| echo: false
@@ -142,15 +171,15 @@ plt.tight_layout()
 plt.show()
 ```
 
+::: {.cite-note style="margin-top: -0.5em;"}
+[@nace_winter; @nace_summer; @oae_gt]
+:::
+
 ---
 
-## GT B.S. Physics: Graduate School Acceptance
+## GaTech B.S. Physics: Graduate Acceptance
 
 Most Georgia Tech B.S. Physics majors who intend to further their education are accepted into at least one graduate school by graduation.
-
-::: {style="font-size: 0.55em; text-align: left; color: #555; margin-top: 2px;"}
-[@oae_gt]
-:::
 
 ```{python}
 #| echo: false
@@ -191,16 +220,15 @@ plt.tight_layout()
 plt.show()
 ```
 
----
-
-## GT B.S. Physics: Graduate Destinations
-
-Georgia Tech B.S. Physics majors are accepted to a wide range of highly ranked institutions for graduate study.
-
-::: {style="font-size: 0.55em; text-align: left; color: #555; margin-top: 2px;"}
-[@irp_gt2026] — NSC data, B.S. Physics alumni graduating AY 2021–2025.
+::: {.cite-note style="margin-top: -0.5em;"}
+[@oae_gt]
 :::
 
+---
+
+## GaTech B.S. Physics: Graduate Destinations
+
+Georgia Tech B.S. Physics majors are accepted to a wide range of highly ranked institutions for graduate study.
 
 ```{python}
 #| echo: false
@@ -221,7 +249,7 @@ colors = [
     '#00ACC1', '#009999', '#996633', '#8C8C8C', '#BBBBBB'
 ]
 
-fig, ax = plt.subplots(figsize=(12, 5))
+fig, ax = plt.subplots(figsize=(12, 4.5))
 
 wedges, _ = ax.pie(
     sizes,
@@ -243,6 +271,10 @@ ax.legend(
 plt.tight_layout()
 plt.show()
 ```
+
+::: {.cite-note style="margin-top: -0.5em;"}
+[@irp_gt2026]
+:::
 
 ---
 

@@ -105,15 +105,23 @@
   font-size: 0.95em;
 }
 
-/* Remove default browser margin on figure elements */
-.reveal figure {
-  margin: 0;
+/* Tighten gap between figure and following caption/citation */
+.reveal .quarto-figure {
+  margin-bottom: 4px;
 }
 
-/* Remove Quarto's cell wrapper margins so figures sit flush with slide text */
-.reveal .cell {
-  margin: 0;
+/* Inline citation/attribution note */
+.reveal .cite-note {
+  font-size: 0.5em;
+  color: #555;
+  text-align: left;
 }
-.reveal .cell-output-display {
-  margin: 0;
+
+/* Footnotes: small text pinned to slide bottom */
+.reveal .footnote {
+  font-size: 0.5em;
+  position: absolute;
+  bottom: 1em;
+  color: #555;
 }
+
