@@ -33,30 +33,38 @@ Before you begin, it helps to recognize what peer review is actually good for [@
 
 ## Prepare Before You Read
 
-Most of what separates useful feedback from useless feedback is preparation. Students who receive explicit instruction in how to peer review are significantly more likely to find peer review valuable and feel confident giving it [@brammer2007]. Before you read a single word of the document you are reviewing, work through the four understandings below.
+Most of what separates useful feedback from useless feedback is preparation. Taking time to understand how to perform peer review will make your feedback more valuable and give you confidence in giving it [@brammer2007].
 
 ### Understand Your Position
 
-**As a peer:** You are at the same level as the author. You have no authority to demand changes. You are there to offer suggestions and recommendations, not edicts. The author decides what to do with your feedback.
+**As a peer.** You are at the same level as the author. You have no authority to demand changes. You are there to offer suggestions and recommendations, not edicts. The author decides what to do with your feedback.
 
-**As a reader:** You may feel unqualified to evaluate another person's writing, but you already evaluate movies, restaurants, and sports teams without being an expert in any of them. You do this because you know when something works for you as an audience member. You know when you are confused, bored, persuaded, or engaged. That is exactly the qualification you need here.
+**As a reader.** You may feel unqualified to evaluate another person's writing, but you already evaluate movies, restaurants, and sports teams without being an expert in any of them. You do this because you know when something works for you as an audience member. You know when you are confused, bored, persuaded, or engaged. That is exactly the qualification you need here.
 
 ### Understand the Document
 
 Every document is meant to communicate something for a specific purpose within a set of expected boundaries:
 
 - **Requirements.** What are the absolute requirements? Did the document meet them? Consult the specific requirements of the assignment.
-- **Purpose.** What is the document trying to accomplish? Getting a job? Demonstrating a valid research program? 
+- **Purpose.** What is the document trying to accomplish? Getting a job? Demonstrating a valid research program?
 - **Audience.** Who is this document written for? A recruiter? A graduate admissions committee?
-- **Focus.** As [Billy Shakes](https://en.wikiquote.org/wiki/Hamlet) put it *"Brevity is the soul of wit."* Are there extraneous or irrelevant arguments or content?
+- **Subject.** Does the document stay on topic? Are there sections, arguments, or details that do not serve the document's stated purpose?
 
 ::: {.callout-note}
 A résumé here could go to an actual employer. A personal statement could go to an actual graduate program. Evaluate the document against the real-world audience it is intended to reach.
 :::
 
+### Understand the Author
+
+The better you understand who the author is, the more useful your feedback will be.
+
+- **Goals.** What is the author trying to achieve with this document? A résumé aimed at research roles should be evaluated differently than one aimed at industry.
+- **Voice.** Does the document sound like the person who wrote it? If the tone shifts abruptly or something feels borrowed, that is worth noting.
+- **What they need.** Some authors need high-level structural direction; others need confirmation they are on the right track. Calibrate your feedback to what will actually help.
+
 ## Providing Feedback
 
-All feedback ultimately boils down to the following logical construction: *"My reaction was X, because of Y."* This structure is how all your major feedback, both positive and negative, should be delivered.
+All feedback ultimately boils down to the following logical construction: *"My reaction is X, because of Y."* This structure is how all your major feedback, both positive and negative, should be delivered.
 
 ::: {.callout-tip}
 The word "because" (or equivalent language) is an excellent way to link your reaction to a document and the reason for your reaction.
@@ -83,11 +91,11 @@ While we should always strive towards constructive criticism, it is inherently m
 
 Constructive criticism gives the author a direction for how to make their work better. Focus your criticism in three layers:
 
-1. **Requirements first.** Did the document meet the stated requirements? If something is missing, point it out directly. Those are points the author will lose (or an immediate job rejection) if you do not flag them.
+1. **Requirements.** Did the document meet the stated requirements? If something is missing, point it out directly. Those are points the author will lose (or an immediate job rejection) if you do not flag them.
 
-2. **Meaning second.** Is it clear what the document is saying? Are claims supported with evidence? Are there places where you wanted more, or where you still had unanswered questions? These are the comments that matter most for revision.
+2. **Meaning.** Is it clear what the document is saying? Are claims supported with evidence? Are there places where you wanted more, or where you still had unanswered questions? These are the comments that matter most for revision.
 
-3. **Speed bumps last.** A *speed bump* is anything that stops your reading: a sentence that confused you, a transition that did not land, a word choice that felt off, a section that seemed to lose focus. Pay attention to what your brain does as you read. It will usually signal when something needs revision.
+3. **Speed bumps.** A *speed bump* is anything that stops your reading: a sentence that confused you, a transition that did not land, a word choice that felt off, a section that seemed to lose focus. Pay attention to what your brain does as you read. It will usually signal when something needs revision.
 
 ::: {.callout-tip}
 You do not have to be right. Your job is to report what you experienced as a reader. The author decides whether to act on your observation.
@@ -121,7 +129,7 @@ You will also receive peer feedback on your own documents. How you receive it ma
 - **Listen without immediately defending.** You do not need to agree with every comment, but understand what the reviewer is responding to before you decide whether to act on it.
 - **Ask clarifying questions** if you do not understand what a comment is pointing to.
 - **Separate the diagnosis from the solution.** A reviewer may correctly identify a problem but suggest a fix that does not fit your document. Take the diagnosis seriously even if you choose a different approach.
-- **You are not obligated to make every suggested change**, but you should be able to explain to yourself why you are not making it.
+- **You are not obligated to make every suggested change,** but you should be able to explain to yourself why you are not making it.
 
 ::: {.callout-note}
 ## Feedback is information, not instruction
@@ -130,11 +138,18 @@ A reviewer's job is to tell you how the document is landing on a reader. What yo
 
 ## A Note on Tone
 
-Professional feedback should be direct but not unkind. You can be honest without being dismissive, and specific without being harsh. The standard to aim for is the kind of feedback a thoughtful colleague or mentor would give: someone who respects your time enough to tell you what is actually wrong, and respects you enough to believe you can fix it.
+Professional feedback should be direct but not unkind. You can be honest without being dismissive, and specific without being harsh. The standard to aim for is the kind of feedback a thoughtful colleague or mentor would give.
 
-Sharing your writing makes you feel vulnerable. Feedback that is honest *and* encouraging -- that points to real problems while making clear the author is capable of solving them -- is one of the most useful things you can offer a peer.
+Sharing your writing may make you feel vulnerable, which is completely normal. Feedback that is honest and encouraging is one of the most useful things you can offer a peer.
 
 ## References
 
 ::: {#refs}
+:::
+
+---
+
+::: {.callout-note}
+## License
+The peer review framework presented in this page is adapted from Jason Roberts, "Making a Peer Review More Than a Waste of Time," in *Open English @ SLCC* [@roberts2016]. *Open English @ SLCC* Copyright © 2016 by SLCC English Department. Licensed under [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 :::

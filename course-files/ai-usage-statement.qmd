@@ -15,9 +15,7 @@ AI use is *entirely optional*. You are never required use generative AI in this 
 
 Overuse of such tools is discouraged as there is growing evidence that reliance on AI can decrease one's expertise and skills:
 
-> "The ADR of standard colonoscopy decreased significantly from 28.4% (226 of 795) before to 22.4% (145 of 648) after exposure to AI, corresponding with an absolute difference of -6.0% (95% CI -10.5 to -1.6; p=0.0089). [...] Continuous exposure to AI might reduce the ADR of standard non-AI assisted colonoscopy, suggesting a negative effect on endoscopist behaviour."
-
-**Reference:** Budzyń K, et. al. Endoscopist deskilling risk after exposure to artificial intelligence in colonoscopy: a multicentre, observational study. *Lancet Gastroenterol Hepatol*. 2025 Oct;10(10):896-903. doi: [10.1016/S2468-1253(25)00133-5](https://doi.org/10.1016/s2468-1253(25)00133-5). PMID: 40816301.
+> "The ADR of standard colonoscopy decreased significantly from 28.4% (226 of 795) before to 22.4% (145 of 648) after exposure to AI, corresponding with an absolute difference of -6.0% (95% CI -10.5 to -1.6; p=0.0089). [...] Continuous exposure to AI might reduce the ADR of standard non-AI assisted colonoscopy, suggesting a negative effect on endoscopist behaviour." [@budzynetal2025]
 
 ::: {.callout-important}
 AI should never be used to generate a whole assignment from scratch. The final submission must reflect your own thinking, judgment, and revisions.
@@ -99,3 +97,8 @@ Ask the instructor before using generative AI for a course assignment.
 The AI Usage Statement is not intended to discourage legitimate use of useful tools. Its purpose is to make the writing process transparent and to ensure that submitted work remains your own.
 
 Failure to follow the course AI policy, including using generative AI when it is not permitted or failing to disclose its use, may be considered a violation of Georgia Tech's academic integrity policies.
+
+## References
+
+::: {#refs}
+:::
