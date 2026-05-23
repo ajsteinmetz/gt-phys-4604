@@ -24,6 +24,7 @@ website:
         menu:
           - supplemental/resume-cv.qmd
           - supplemental/technical-writing.qmd
+          - supplemental/peer-feedback.qmd
       - text: "Lectures"
         href: lectures/index.qmd
 
