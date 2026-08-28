@@ -53,6 +53,7 @@ E.g. this is stuff you'll need to get good at anyway, might as well practice it 
 
 - [https://canvas.gatech.edu/](https://canvas.gatech.edu/)
 - [https://ajsteinmetz.github.io/gt-phys-4604/](https://ajsteinmetz.github.io/gt-phys-4604/)
+- [https://edstem.org/](https://edstem.org/)
 :::
 
 ::: {.column width="30%"}
@@ -334,8 +335,8 @@ Not every résumé looks the same. The order and emphasis depend on your backgro
 
 For most of you a **résumé** is your concern. A CV will come later during graduate school, as publications, talks, and grants accumulate.
 
-::: {.callout-note}
-See [this supplemental](https://ajsteinmetz.github.io/gt-phys-4604/supplemental/resume-cv.html) for more detail.
+::: {.highlight-box}
+See **[this supplemental](https://ajsteinmetz.github.io/gt-phys-4604/supplemental/resume-cv.html)** for more detail.
 :::
 
 ---
