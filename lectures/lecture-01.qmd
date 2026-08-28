@@ -293,7 +293,7 @@ Career Center events (see [GT Campus Calendar](https://calendar.gatech.edu/)):
 
 ---
 
-## The Career Fair Is Seventeen Days Away
+## The Career Fair Is About 2 Weeks Away
 
 The **Fall 2026 All Majors Career Fair** is September 14–15 at Georgia Tech.
 
@@ -334,18 +334,26 @@ Not every résumé looks the same. The order and emphasis depend on your backgro
 
 For most of you a **résumé** is your concern. A CV will come later during graduate school, as publications, talks, and grants accumulate.
 
+::: {.callout-note}
+See [this supplemental](https://ajsteinmetz.github.io/gt-phys-4604/supplemental/resume-cv.html) for more detail.
+:::
+
 ---
 
 ## Contact Information
 
 Make this easy to find — usually at the top of the page.
 
-- Full name (prominent — consider a slightly larger font)
+- Full name (prominent and consider a slightly larger font)
 - Professional email address (GT email is fine)
 - Phone number
-- LinkedIn profile URL
-- GitHub or portfolio URL (if you have one worth sharing)
-- City and state — no full street address needed
+- LinkedIn profile URL (optional)
+- GitHub or portfolio URL (optional)
+- City and state; no full street address needed
+
+::: {.highlight_box}
+How to [customize your LinkedIn URL.](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url)
+:::
 
 ::: notes
 Mention that GT email is appropriate for now but a permanent personal email is useful long-term. LinkedIn URL should be customized (linkedin.com/in/yourname) rather than the default random string.
@@ -358,7 +366,7 @@ Mention that GT email is appropriate for now but a permanent personal email is u
 - **Georgia Institute of Technology**
   - B.S. Physics / Astrophysics / Applied Physics (or joint degree)
   - Expected graduation: May 2027 (or your actual date)
-  - GPA: include if ≥ 3.0 — judgement call
+  - GPA: include if ≥ 3.0 (judgement call)
 - Relevant coursework (optional, useful if experience is thin)
 - Academic honors: Dean's List, scholarships, etc.
 
@@ -375,8 +383,8 @@ Include: **work, research, internships, co-ops, teaching assistantships**
 For each entry:
 
 - Organization name and your role or title
-- Dates — month and year (e.g., May 2025 – Aug. 2025)
-- Location (city, state) — or "Remote"
+- Dates; month and year (e.g., May 2025 – Aug. 2025)
+- Location (city, state) or "Remote"
 - **2–4 bullet points describing what you did and what it produced**
 
 Research experience counts strongly for physics students: faculty advisors, national labs, REUs.
@@ -401,24 +409,9 @@ Lead with a **strong action verb**. Quantify where you can.
 
 ---
 
-## Strong Action Verbs
-
-Use these to open your bullet points:
-
-**Research and Analysis**
-Analyzed · Modeled · Simulated · Measured · Characterized · Derived · Validated
-
-**Development and Implementation**
-Built · Designed · Developed · Implemented · Programmed · Automated · Optimized
-
-**Communication and Collaboration**
-Presented · Wrote · Documented · Led · Collaborated · Mentored · Coordinated
-
----
-
 ## Skills
 
-List technical skills — the specific tools and languages you actually know.
+List technical skills and the specific tools and languages you actually know.
 
 **Programming and Software**
 Python, MATLAB, C/C++, Julia, Mathematica, LaTeX, Git, Linux/bash, etc.
@@ -437,7 +430,7 @@ Do not list generic software (Word, PowerPoint) unless the role specifically req
 
 ## Projects and Leadership
 
-Valuable if work or research experience is limited and generally worth including.
+Valuable if work or research is limited and generally worth including.
 
 **Technical projects**
 
@@ -449,7 +442,7 @@ Valuable if work or research experience is limited and generally worth including
 - Club officers, SPS (Society of Physics Students), outreach programs
 - Teaching or peer tutoring roles
 
-Describe these the same way you describe experience: action verb, specific contribution, result if possible.
+Describe these the same way you describe other experience.
 
 ---
 
@@ -457,12 +450,12 @@ Describe these the same way you describe experience: action verb, specific contr
 
 Keep it clean and professional.
 
-- **One page** for most undergraduates (two pages with substantial experience)
-- Consistent fonts — one or two at most; no smaller than 10 pt for body text
-- Adequate white space — do not cram everything in
+- **One--two pages** for most undergraduates
+- Consistent fonts: one or two at most; no smaller than 10 pt for body text
+- Adequate white space: do not cram everything in
 - Consistent alignment of dates and section headers
-- No photos, no graphics, no colored text (with rare exceptions)
-- Typos and grammar errors are disqualifying. Proofread. Then proofread again.
+- No photos, no graphics, no colored text
+- Typos and grammar errors are disqualifying. Proofread!
 
 [Georgia Tech Career Center — Résumé Guidance](https://career.gatech.edu/resumes/)
 
@@ -475,10 +468,10 @@ Encourage students to use one if they are starting from scratch. The formatting 
 ## Upcoming Schedule
 
 ::: {.nonincremental}
-1. **Start your résumé draft** — or revisit the one you have.
-2. **Bring it to class next Friday (September 4)** — we will workshop drafts in class.
-3. **Résumé is due: September 11 at 11:59 PM ET** — submitted as PDF to Canvas.
-4. **Career Fair: September 14–15** — Attendance counts as possible External Participation credit.
+1. **Start your résumé draft** or revisit the one you have.
+2. **Bring it to class next Friday (September 4)**, we will workshop drafts in class.
+3. **Résumé is due: September 11 at 11:59 PM ET** to Canvas as PDF.
+4. **Career Fair: September 14–15**, counts as External Participation credit.
 :::
 
 ---
