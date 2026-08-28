@@ -280,7 +280,7 @@ plt.show()
 
 ## Part II: September Career Fair Events
 
-Career Center events:
+Career Center events (see [GT Campus Calendar](https://calendar.gatech.edu/)):
 
 - Sept. 8: GT Career Center: In-Person Resume Reviews
 - Sept. 9: Supply Chain Day Career Fair
