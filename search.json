@@ -669,21 +669,21 @@
     "href": "lectures/lecture-01.html#contact-information",
     "title": "Course Overview & Résumés",
     "section": "Contact Information",
-    "text": "Contact Information\nMake this easy to find — usually at the top of the page.\n\nFull name (prominent — consider a slightly larger font)\nProfessional email address (GT email is fine)\nPhone number\nLinkedIn profile URL\nGitHub or portfolio URL (if you have one worth sharing)\nCity and state — no full street address needed\n\n\nMention that GT email is appropriate for now but a permanent personal email is useful long-term. LinkedIn URL should be customized (linkedin.com/in/yourname) rather than the default random string."
+    "text": "Contact Information\nMake this easy to find — usually at the top of the page.\n\nFull name (prominent and consider a slightly larger font)\nProfessional email address (GT email is fine)\nPhone number\nLinkedIn profile URL (optional)\nGitHub or portfolio URL (optional)\nCity and state; no full street address needed\n\n\nHow to customize your LinkedIn URL.\n\n\nMention that GT email is appropriate for now but a permanent personal email is useful long-term. LinkedIn URL should be customized (linkedin.com/in/yourname) rather than the default random string."
   },
   {
     "objectID": "lectures/lecture-01.html#education",
     "href": "lectures/lecture-01.html#education",
     "title": "Course Overview & Résumés",
     "section": "Education",
-    "text": "Education\n\nGeorgia Institute of Technology\n\nB.S. Physics / Astrophysics / Applied Physics (or joint degree)\nExpected graduation: May 2027 (or your actual date)\nGPA: include if ≥ 3.0 — judgement call\n\nRelevant coursework (optional, useful if experience is thin)\nAcademic honors: Dean’s List, scholarships, etc.\n\nList your most recent degree first. If you attended another institution, include it."
+    "text": "Education\n\nGeorgia Institute of Technology\n\nB.S. Physics / Astrophysics / Applied Physics (or joint degree)\nExpected graduation: May 2027 (or your actual date)\nGPA: include if ≥ 3.0 (judgement call)\n\nRelevant coursework (optional, useful if experience is thin)\nAcademic honors: Dean’s List, scholarships, etc.\n\nList your most recent degree first. If you attended another institution, include it."
   },
   {
     "objectID": "lectures/lecture-01.html#experience",
     "href": "lectures/lecture-01.html#experience",
     "title": "Course Overview & Résumés",
     "section": "Experience",
-    "text": "Experience\nThe most important section for most employers.\nInclude: work, research, internships, co-ops, teaching assistantships\nFor each entry:\n\nOrganization name and your role or title\nDates — month and year (e.g., May 2025 – Aug. 2025)\nLocation (city, state) — or “Remote”\n2–4 bullet points describing what you did and what it produced\n\nResearch experience counts strongly for physics students: faculty advisors, national labs, REUs.\n\nEmphasize that even a one-semester research role is worth including if it involved real technical work."
+    "text": "Experience\nThe most important section for most employers.\nInclude: work, research, internships, co-ops, teaching assistantships\nFor each entry:\n\nOrganization name and your role or title\nDates; month and year (e.g., May 2025 – Aug. 2025)\nLocation (city, state) or “Remote”\n2–4 bullet points describing what you did and what it produced\n\nResearch experience counts strongly for physics students: faculty advisors, national labs, REUs.\n\nEmphasize that even a one-semester research role is worth including if it involved real technical work."
   },
   {
     "objectID": "lectures/lecture-01.html#writing-strong-bullets",
@@ -693,39 +693,32 @@
     "text": "Writing Strong Bullets\nThe most common mistake: describing duties instead of accomplishments.\n\n\n\n\n\n\n\nWeak\nStrong\n\n\n\n\nHelped with research in the lab\nAnalyzed detector calibration data in Python; results incorporated into weekly group reports\n\n\nResponsible for data analysis\nDeveloped signal-processing pipeline in MATLAB, reducing analysis time by 40%\n\n\nWorked on simulations\nImplemented Monte Carlo simulation of particle trajectories in C++; validated against published results\n\n\n\nLead with a strong action verb. Quantify where you can."
   },
   {
-    "objectID": "lectures/lecture-01.html#strong-action-verbs",
-    "href": "lectures/lecture-01.html#strong-action-verbs",
-    "title": "Course Overview & Résumés",
-    "section": "Strong Action Verbs",
-    "text": "Strong Action Verbs\nUse these to open your bullet points:\nResearch and Analysis Analyzed · Modeled · Simulated · Measured · Characterized · Derived · Validated\nDevelopment and Implementation Built · Designed · Developed · Implemented · Programmed · Automated · Optimized\nCommunication and Collaboration Presented · Wrote · Documented · Led · Collaborated · Mentored · Coordinated"
-  },
-  {
     "objectID": "lectures/lecture-01.html#skills",
     "href": "lectures/lecture-01.html#skills",
     "title": "Course Overview & Résumés",
     "section": "Skills",
-    "text": "Skills\nList technical skills — the specific tools and languages you actually know.\nProgramming and Software Python, MATLAB, C/C++, Julia, Mathematica, LaTeX, Git, Linux/bash, etc.\nLaboratory and Instrumentation List specific instruments, techniques, or equipment relevant to your work\nOther Data analysis, scientific writing, numerical methods\n\nDo not list generic software (Word, PowerPoint) unless the role specifically requires it."
+    "text": "Skills\nList technical skills and the specific tools and languages you actually know.\nProgramming and Software Python, MATLAB, C/C++, Julia, Mathematica, LaTeX, Git, Linux/bash, etc.\nLaboratory and Instrumentation List specific instruments, techniques, or equipment relevant to your work\nOther Data analysis, scientific writing, numerical methods\n\nDo not list generic software (Word, PowerPoint) unless the role specifically requires it."
   },
   {
     "objectID": "lectures/lecture-01.html#projects-and-leadership",
     "href": "lectures/lecture-01.html#projects-and-leadership",
     "title": "Course Overview & Résumés",
     "section": "Projects and Leadership",
-    "text": "Projects and Leadership\nValuable if work or research experience is limited and generally worth including.\nTechnical projects\n\nComputational or experimental class projects with real results\nIndependent projects, open-source contributions\n\nLeadership and service\n\nClub officers, SPS (Society of Physics Students), outreach programs\nTeaching or peer tutoring roles\n\nDescribe these the same way you describe experience: action verb, specific contribution, result if possible."
+    "text": "Projects and Leadership\nValuable if work or research is limited and generally worth including.\nTechnical projects\n\nComputational or experimental class projects with real results\nIndependent projects, open-source contributions\n\nLeadership and service\n\nClub officers, SPS (Society of Physics Students), outreach programs\nTeaching or peer tutoring roles\n\nDescribe these the same way you describe other experience."
   },
   {
     "objectID": "lectures/lecture-01.html#formatting",
     "href": "lectures/lecture-01.html#formatting",
     "title": "Course Overview & Résumés",
     "section": "Formatting",
-    "text": "Formatting\nKeep it clean and professional.\n\nOne page for most undergraduates (two pages with substantial experience)\nConsistent fonts — one or two at most; no smaller than 10 pt for body text\nAdequate white space — do not cram everything in\nConsistent alignment of dates and section headers\nNo photos, no graphics, no colored text (with rare exceptions)\nTypos and grammar errors are disqualifying. Proofread. Then proofread again.\n\nGeorgia Tech Career Center — Résumé Guidance\n\nEncourage students to use one if they are starting from scratch. The formatting rules exist because recruiters scan résumés in seconds."
+    "text": "Formatting\nKeep it clean and professional.\n\nOne–two pages for most undergraduates\nConsistent fonts: one or two at most; no smaller than 10 pt for body text\nAdequate white space: do not cram everything in\nConsistent alignment of dates and section headers\nNo photos, no graphics, no colored text\nTypos and grammar errors are disqualifying. Proofread!\n\nGeorgia Tech Career Center — Résumé Guidance\n\nEncourage students to use one if they are starting from scratch. The formatting rules exist because recruiters scan résumés in seconds."
   },
   {
     "objectID": "lectures/lecture-01.html#upcoming-schedule",
     "href": "lectures/lecture-01.html#upcoming-schedule",
     "title": "Course Overview & Résumés",
     "section": "Upcoming Schedule",
-    "text": "Upcoming Schedule\n\nStart your résumé draft — or revisit the one you have.\nBring it to class next Friday (September 4) — we will workshop drafts in class.\nRésumé is due: September 11 at 11:59 PM ET — submitted as PDF to Canvas.\nCareer Fair: September 14–15 — Attendance counts as possible External Participation credit."
+    "text": "Upcoming Schedule\n\nStart your résumé draft or revisit the one you have.\nBring it to class next Friday (September 4), we will workshop drafts in class.\nRésumé is due: September 11 at 11:59 PM ET to Canvas as PDF.\nCareer Fair: September 14–15, counts as External Participation credit."
   },
   {
     "objectID": "lectures/lecture-01.html#references",
