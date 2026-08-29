@@ -45,21 +45,23 @@ The course meets every Friday of the semester except holidays, from **August 28 
 
 | Date | Tentative Topic / Focus | Major Due Dates |
 |---|---|---|
-| Aug. 28 | Course introduction; résumés and CVs | — |
-| Sept. 4 | Résumé / CV review and revision workshop | — |
+| Aug. 28 | Course introduction; résumés and CVs | - |
+| Sept. 4 | Résumé / CV review and revision workshop | - |
 | Sept. 11 | Career paths with a physics, astrophysics, or applied physics degree | **Résumé due** |
-| Sept. 14-15 | **Fall 2026 All Majors Career Fair** | — |
-| Sept. 18 | Professional networking and online presence | — |
-| Sept. 25 | LinkedIn, GitHub, personal websites, and professional identity | — |
-| Oct. 2 | Graduate school pathways and selecting programs | **Online professional presence due** |
-| Oct. 9 | Research proposals and NSF GRFP-style writing | — |
-| Oct. 16 | Research proposal workshop | — |
-| Oct. 23 | Guest lecture | **Research proposal due** |
-| Oct. 30 | Personal statements and cover letters | — |
-| Nov. | **NSF GRFP Deadlines for 2027** | — |
-| Nov. 6 | Industry applications and interviews | — |
-| Nov. 13 | Peer review and revision of application materials | — |
-| Nov. 20 | Graduate school and job application strategy | **Personal statement or cover letter due** |
+| Sept. 14–15 | **Fall 2026 All Majors Career Fair** | - |
+| Sept. 18 | Professional networking and online presence | - |
+| Sept. 25 | Guest lecture; NSF GRFP overview | **Online professional presence due** |
+| Oct. 2 | Research proposals and NSF GRFP-style writing | - |
+| Oct. 9 | Research proposal review and revision workshop | **Research proposal due** |
+| Oct. 16 | Graduate school pathways; selecting programs/advisors | **NSF GRFP reference letters due by 8:00 p.m. ET** |
+| Oct. 19 | **NSF GRFP application deadline - Life Sciences** | **Due by 8:00 p.m. ET** |
+| Oct. 20 | **NSF GRFP application deadline - Computer & Information Science and Engineering; Materials Research; Psychology; Social Sciences** | **Due by 8:00 p.m. ET** |
+| Oct. 22 | **NSF GRFP application deadline - Engineering** | **Due by 8:00 p.m. ET** |
+| Oct. 23 | Graduate school application materials | **NSF GRFP application deadline - Physics & Astronomy; Chemistry; Geosciences; Mathematical Sciences - 8:00 p.m. ET** |
+| Oct. 30 | Graduate application workshop | - |
+| Nov. 6 | Guest lecture | - |
+| Nov. 13 | Industry interviews; cover-letters | - |
+| Nov. 20 | Interview practice; cover-letter workshop | **Personal statement or cover letter due** |
 | Dec. 4 | Course wrap-up and professional development reflection | **External participation due** |
 
 ## Assignments and Grading

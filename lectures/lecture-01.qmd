@@ -353,7 +353,7 @@ Make this easy to find — usually at the top of the page.
 - City and state; no full street address needed
 
 ::: {.highlight_box}
-How to [customize your LinkedIn URL.](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url)
+How to **[customize your LinkedIn URL.](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url)**
 :::
 
 ::: notes
