@@ -8,3 +8,4 @@ subtitle: "PHYS 4604: Professional Development"
 | # | Date | Topic | Slides |
 |---|---|---|---|
 | 1 | August 28 | Course Overview & Résumés | [Open slides](lecture-01.qmd){target="_blank"} |
+| 2 | September 4 | Résumé Peer Review Workshop | [Open slides](lecture-02.qmd){target="_blank"} |
