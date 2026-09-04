@@ -49,17 +49,16 @@ format:
 
 ## CareerBuzz
 
-Georgia Tech's official platform for job and internship postings, career fair registration, and on-campus interviews.
+Georgia Tech's official platform for job and internship postings, and on-campus interviews.
 
 - Browse job and internship postings targeted at GT students
-- Register for the Fall 2026 All Majors Career Fair
 - Schedule on-campus interviews with recruiting employers
 - Sign up for GT Career Center workshops and events
 
 **[https://career.gatech.edu/careerbuzz/](https://career.gatech.edu/careerbuzz/)**
 
 ::: {.highlight-box}
-**Spotlight Postings** are a curated feed of vetted, high-quality opportunities — a good place to start if endless scrolling isn't your thing.
+**Spotlight Postings** are a curated feed of vetted, high-quality opportunities.
 
 **[https://career.gatech.edu/spotlight-postings/](https://career.gatech.edu/spotlight-postings/)**
 :::
