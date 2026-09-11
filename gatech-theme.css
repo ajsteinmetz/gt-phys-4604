@@ -7,6 +7,8 @@
   --gatech-cream: #f9f6e5;
   --gatech-text: #1f1f1f;
   --gatech-border: #D6DBD4;
+  --gatech-link: #0057B8;
+  --gatech-link-hover: #C45000;
 }
 
 body {
@@ -160,7 +162,24 @@ tbody td {
 
 /* ── Links ───────────────────────────────────────────────────────── */
 a, a:visited {
-  color: var(--gatech-navy);
+  color: var(--gatech-link);
+}
+
+a:hover {
+  color: var(--gatech-link-hover);
+}
+
+/* Underline body-content links only — navbar and dropdowns keep their own styling */
+main a:not(.nav-link):not(.navbar-brand):not(.dropdown-item):not(.quarto-btn-toggle) {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+/* Links on navy backgrounds (table headers) */
+thead a,
+thead a:visited {
+  color: var(--gatech-gold-bright);
 }
 
 /* ── Lists ───────────────────────────────────────────────────────── */

@@ -6,6 +6,8 @@
   --gt-gold-bright: #EAAA00;
   --gt-cream: #f9f6e5;
   --gt-border: #D6DBD4;
+  --gt-link: #0057B8;
+  --gt-link-hover: #C45000;
 }
 
 /* Title slide */
@@ -91,7 +93,21 @@
 /* Links */
 .reveal a,
 .reveal a:visited {
-  color: var(--gt-navy);
+  color: var(--gt-link);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+.reveal a:hover {
+  color: var(--gt-link-hover);
+}
+
+/* Links on navy backgrounds (table headers, section slides) */
+.reveal table thead a,
+.reveal table thead a:visited,
+.reveal section.section-slide a,
+.reveal section.section-slide a:visited {
+  color: var(--gt-gold-bright);
 }
 
 /* Slide number */
