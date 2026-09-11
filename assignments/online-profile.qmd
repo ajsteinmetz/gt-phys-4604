@@ -18,7 +18,7 @@ You may also include links to supplementary professional materials such as a per
 
 Submit a single PDF to Canvas that documents your online professional presence. Your submission should include:
 
-1. A PDF copy of your LinkedIn profile, saved using LinkedIn's profile export feature.
+1. A PDF copy of your LinkedIn (or equivalent) profile, saved using LinkedIn's profile export feature.
 2. Optional supplementary URLs to professional websites, portfolios, GitHub, or similar materials that you would like to share. These links are encouraged but are not worth extra points.
 
 ## How to Save Your LinkedIn Profile as a PDF
@@ -59,6 +59,11 @@ Examples include:
 - A design, writing, or project portfolio.
 - An ORCID profile or other research-facing professional profile.
 - Another professional platform directly relevant to your career direction.
+
+::: {.callout-tip}
+## Alternatives to LinkedIn
+If you do not wish to create or maintain a LinkedIn profile, you may instead use the supplementary material described above as an alternative submission for credit.
+:::
 
 ## Submission Checklist
 
