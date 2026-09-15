@@ -1,0 +1,353 @@
+---
+title: "Writing a Lab Report"
+subtitle: "PHYS 4321/4322 · Advanced Lab"
+author: "Andrew J. Steinmetz"
+format:
+  revealjs:
+    theme: [default, gatech-revealjs.css]
+    slide-number: c/t
+    transition: none
+    code-overflow: wrap
+    footer: "PHYS 4321/4322 · Georgia Institute of Technology"
+    width: 1200
+    height: 750
+    auto-stretch: false
+---
+
+## Who You Are Writing For
+
+Your report is a standalone technical document, not a worksheet attached to the lab manual.
+
+:::: {.columns}
+::: {.column width="50%"}
+**Your reader**
+
+- Has your physics training
+- Has **not** read the manual
+- Cannot see your apparatus
+:::
+::: {.column width="50%"}
+**Your job**
+
+- Explain the physics
+- Explain *why* each step was done
+- Be detailed enough to be reproduced and trusted
+:::
+::::
+
+::: {.highlight-box}
+Content matters more than length. **You are the expert here.**
+:::
+
+---
+
+## Anatomy of a Report
+
+:::: {.columns}
+::: {.column width="45%"}
+::: {style="font-size: 0.78em;"}
+| Section |
+|---|
+| Title, authors, affiliation, date |
+| **Abstract** |
+| Introduction |
+| Theory |
+| Experimental methods |
+| Data and analysis |
+| Discussion |
+| Conclusion |
+| References |
+| Appendices |
+:::
+:::
+::: {.column width="55%"}
+### The abstract
+
+Lets a reader decide whether to read the rest.
+
+1. The **topic** of the experiment
+2. The **technique(s)** used
+3. The **result**, with its uncertainty
+
+::: {.highlight-box}
+Write it **last**, and plan enough time to write the report at all.
+:::
+:::
+::::
+
+---
+
+## Introduction and Theory
+
+:::: {.columns}
+::: {.column width="50%"}
+### Introduction
+
+- Motivate the scientific question
+- Give the historical context
+- Enough physics that the motivation lands
+- Mention a modern use of the same physics
+:::
+::: {.column width="50%"}
+### Theory
+
+- Set up the problem, **define terms**
+- Main steps and approximations, not every line of algebra
+- Long derivations go in an **Appendix**
+- **Number your equations**
+:::
+::::
+
+::: {.highlight-box}
+This is where the reader sees your background work and can themselves be brought up to speed.
+:::
+
+---
+
+## Experimental Methods
+
+:::: {.columns}
+::: {.column width="50%"}
+### Do
+
+- Explain how the apparatus works
+- Include a schematic with every critical part labeled
+- Simple functional boxes
+- Reference the figure early
+:::
+::: {.column width="50%"}
+### Don't
+
+- Draw every knob and cable
+- Write an instruction manual
+- Recite a parts list
+- Say "we used the setup in the manual"
+:::
+::::
+
+::: {.highlight-box}
+A diagram that helps you perform the experiment usually does not help a reader *understand* it. This likely requires you to draft your own diagram.
+:::
+
+---
+
+## Figures, Tables, and Data
+
+:::: {.columns}
+::: {.column width="50%"}
+### Every figure and table
+
+- Numbered sequentially, figures and tables counted separately
+- A caption defining symbols and stating conditions
+- **Referenced in the text**, and ideally discussed
+- Column headings descriptive, units in the heading
+:::
+::: {.column width="50%"}
+### Every plot
+
+- Axis labels **with units**
+- Even divisions at round values: 0.5, 1.0, 1.5, etc.
+- SI prefixes, not long decimals: 0.5 mA, not 0.0005 A
+- Data as **symbols**, fit as a **line**, same axes
+- Error bars on every point
+:::
+::::
+
+---
+
+## Uncertainties and Results
+
+:::: {.columns}
+::: {.column width="50%"}
+- **Every** measured value gets an uncertainty, and so does every value you take from elsewhere
+- So does every derived quantity: $h$, $e/m$, wavelength $\lambda$, etc.
+:::
+::: {.column width="50%"}
+- Explain how you determined it. A sample calculation in the Appendix may be appropriate.
+- Compare to accepted value: does your data fit, or why not?
+- Percent error is rarely helpful
+:::
+::::
+
+::: {style="font-size: 0.85em;"}
+**Write this:**$\quad G = (6.674\,30 \pm 0.000\,15) \times 10^{-11}\ \mathrm{N\,m^2/kg^2}$
+
+**Not this:**$\quad G = 6.674\,30 \times 10^{-11}\ \mathrm{N\,m^2/kg^2} \pm 1.5 \times 10^{-15}\ \mathrm{N\,m^2/kg^2}$
+:::
+
+::: {.highlight-box}
+**Round the uncertainty first** to one significant figure, two at most. Then round the value so that it stops at the same decimal place.
+:::
+
+---
+
+## Where Uncertainty Comes From
+
+:::: {.columns}
+::: {.column width="50%"}
+### Statistical (random)
+
+- Measurement-to-measurement scatter
+- $s$ is the scatter of **individual** measurements
+- $\sigma_{\bar{x}} = s/\sqrt{N}$ is the uncertainty of the **mean** — this is what you report
+- Shrinks as you take more data
+:::
+::: {.column width="50%"}
+### Systematic (instrumental)
+
+- Calibration, zero offset, instrument accuracy, temperature
+- Analog: half the smallest division. Digital: one unit of the last digit, or the manufacturer spec
+- **More data does not help**
+:::
+::::
+
+::: {.highlight-box}
+Taking 10,000 readings with a miscalibrated voltmeter does not fix the calibration.
+:::
+
+---
+
+## Propagating Uncertainty
+
+For $f = f(x_1, x_2, \ldots)$ with **independent** uncertainties:
+
+::: {style="font-size: 0.75em;"}
+$$\sigma_f^2 = \sum_i \left(\frac{\partial f}{\partial x_i}\right)^{2} \sigma_i^2$$
+:::
+
+::: {style="font-size: 0.8em;"}
+| If | Then | |
+|---|---|---|
+| $f = x \pm y$ | $\sigma_f = \sqrt{\sigma_x^2 + \sigma_y^2}$ | **Absolute** uncertainties add in quadrature |
+| $f = xy$ or $x/y$ | $(\sigma_f/f)^2 = (\sigma_x/x)^2 + (\sigma_y/y)^2$ | **Fractional** uncertainties add in quadrature |
+| $f = x^n$ | $\sigma_f/\lvert f \rvert = \lvert n \rvert\, \sigma_x/\lvert x \rvert$ | A power scales the fractional uncertainty |
+
+: {tbl-colwidths="[17,41,42]"}
+:::
+
+::: {.highlight-box}
+Statistical and systematic terms combine the same way: $\sigma_\mathrm{total}^{2} = \sigma_{\bar{x}}^{2} + \sigma_\mathrm{inst}^{2} + \cdots$, reported as $x_\mathrm{best} \pm \sigma_\mathrm{total}$ with units.
+:::
+
+---
+
+## Discussion and Conclusion
+
+:::: {.columns}
+::: {.column width="50%"}
+### Discussion
+
+- Do your results agree with the accepted value?
+- If not, **why** — with a calculation or a reference, not a shrug
+- Name the dominant source of error
+:::
+::: {.column width="50%"}
+### Conclusion
+
+- Short summary of what you did and found
+- **Repeat the results with their uncertainties**, digits, and units
+- What the experiment opens up
+:::
+::::
+
+::: {.highlight-box}
+Inspect each term in the propagation of error separately. The largest one is what "suggestions for improvement" should target.
+:::
+
+---
+
+## Style and Typesetting
+
+*Suggestion:* Use LaTeX in **Overleaf**, available through Georgia Tech, with the APS **RevTeX** template.
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {style="font-size: 0.85em;"}
+| Write this | Not this |
+|---|---|
+| $c$ | c |
+| $c = 2.998 \times 10^8\ \mathrm{m/s}$ | $c = 2.998 \times 10^8\, m/s$ |
+| $m\lambda = d \sin\theta$ | $m\lambda = d sin \theta$ |
+| $2.3 \times 10^5$ | 2.3e5 |
+| $B^2$, $B_2$ | B^2, B_2 |
+:::
+:::
+::: {.column width="50%"}
+- Real superscripts and subscripts using LaTeX e.g. `x^{2}_{i}` for $x^{2}_{i}$
+- Number your sections so you can point back to them
+- **Proofread.** Careless writing counts against you
+:::
+::::
+
+The point of style and typesetting is to *look nice*. A nice looking document is easy to read and conveys information without much visual friction.
+
+---
+
+## Citations
+
+:::: {.columns}
+::: {.column width="46%"}
+### Cite it
+
+- Anything from anywhere including **the lab manual**
+- What another person told you
+- Numbered in citation order [1]
+- **Peer-reviewed** or academic sources, not Wikipedia
+:::
+::: {.column width="54%"}
+### Let BibTeX do it
+
+::: {style="font-size: 0.8em;"}
+```bibtex
+@article{LIGOScientific:2016aoc,
+    author = "Abbott, B. P. and others",
+    collaboration = "LIGO Scientific, Virgo",
+    title = "{Observation of Gravitational Waves from a Binary Black Hole Merger}",
+    eprint = "1602.03837",
+    archivePrefix = "arXiv",
+    primaryClass = "gr-qc",
+    reportNumber = "LIGO-P150914",
+    doi = "10.1103/PhysRevLett.116.061102",
+    journal = "Phys. Rev. Lett.",
+    volume = "116",
+    number = "6",
+    pages = "061102",
+    year = "2016"
+}
+```
+:::
+:::
+::::
+
+::: {style="font-size: 0.8em;"}
+Cite it with `\cite{LIGOScientific:2016aoc}`. Journal pages, INSPIRE-HEP, Google Scholar, and NASA ADS export these for you. Otherwise, you may need to write your own BibTeX/references.
+:::
+
+::: {.cite-note style="border-top: 1px solid #ccc; padding-top: 8px; margin-top: 12px;"}
+[1] B. P. Abbott, et al. Phys. Rev. Lett. **116**, no.6, 061102 (2016). doi:[10.1103/PhysRevLett.116.061102](https://doi.org/10.1103/PhysRevLett.116.061102) [arXiv:1602.03837 [gr-qc]](https://arxiv.org/abs/1602.03837)
+:::
+
+---
+
+## Academic Integrity
+
+:::: {.columns}
+::: {.column width="50%"}
+### Two ways to plagiarize
+
+**Literal** — copying a sentence and swapping a few words. Cosmetic edits do not save you.
+
+**Intelligent** — restating someone's idea as your own. Rewriting removes the copying, not the need to cite.
+:::
+::: {.column width="50%"}
+### Where it happens
+
+- The Introduction, most often — it is the hardest section to write
+- Quote directly, or write it in your own words; either way, cite it
+- A paragraph stitched from quotes is not an original contribution
+:::
+::::
+
+::: {.highlight-box}
+Do not work from previous years' reports. **In doubt? Ask.**
+:::
