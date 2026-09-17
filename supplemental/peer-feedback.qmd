@@ -6,7 +6,7 @@ subtitle: "PHYS 4604: Professional Development"
 ## Why Peer Feedback Often Fails
 
 :::: {.columns}
-::: {.column width="70%" style="padding-right: 2em;"}
+::: {.column style="width: 70%; padding-right: 2em;"}
 The typical experience of peer feedback goes something like this: you trade papers with a classmate, quickly skim each other's work, write "good introduction" and circle a few typos, and call it done. Nothing changes. Nobody learned anything.
 
 That version of peer review fails because the feedback is vague, generic, and not connected to what the document actually needs to do [@roberts2016]. The goal here is feedback that the author can act on, from a reader who has thought seriously about the document.
