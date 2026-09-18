@@ -1,0 +1,93 @@
+\documentclass[11pt]{article}
+
+\usepackage[margin=0.9in]{geometry}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage[table]{xcolor}
+\usepackage{microtype}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+
+\setlength{\headheight}{14pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.35em}
+
+\definecolor{GTGold}{HTML}{B3A369}
+\definecolor{GTNavy}{HTML}{003057}
+\definecolor{GTLightGold}{HTML}{F9F6E5} % Diploma
+\definecolor{GTGray}{HTML}{54585A}      % Gray Matter
+\definecolor{GTLightGray}{HTML}{D6DBD4} % Pi Mile
+
+\titleformat{\section}
+  {\large\bfseries\color{GTNavy}}
+  {}{0pt}{}
+\titlespacing*{\section}{0pt}{1.0em}{0.3em}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textcolor{black}{PHYS 4604}}
+\fancyhead[R]{\textcolor{black}{Professional Development}}
+\fancyfoot[L]{\textcolor{black}{Georgia Institute of Technology}}
+\renewcommand{\headrulewidth}{0.2pt}
+\renewcommand{\footrulewidth}{0.2pt}
+
+% Fill-in field: bold label followed by a rule running to the end of the box.
+\newcommand{\field}[1]{\textbf{#1}~\hrulefill{}}
+
+% Two side-by-side fill-in fields, half the text width each.
+\newcommand{\fieldrow}[2]{%
+  \noindent\parbox[t]{0.48\textwidth}{\field{#1}}\hfill
+  \parbox[t]{0.48\textwidth}{\field{#2}}%
+}
+
+% Ruled writing space: #1 lines, spaced for handwriting.
+\newcounter{linecount}
+\newcommand{\lines}[1]{%
+  \par\vspace{0.35em}%
+  \setcounter{linecount}{0}%
+  \loop\ifnum\value{linecount}<#1\relax
+    \vspace{0.33in}%
+    \noindent\textcolor{GTLightGray}{\rule{\textwidth}{0.4pt}}\par
+    \stepcounter{linecount}%
+  \repeat
+}
+
+% Prompt heading plus its italic cue line.
+\newcommand{\prompt}[2]{%
+  \vspace{0.55em}%
+  {\bfseries\color{GTNavy}#1}\par
+  \vspace{0.15em}%
+  {\small\itshape\color{GTGray}#2}\par
+}
+
+\begin{document}
+
+\noindent\textcolor{GTGold}{\rule{\textwidth}{4pt}}
+\vspace{-0.2em}
+
+\begingroup
+\setlength{\fboxsep}{12pt}
+\noindent\colorbox{GTLightGold}{%
+\parbox{\dimexpr\textwidth-2\fboxsep\relax}{%
+    {\LARGE\bfseries\textcolor{GTNavy}{Networking Reflection Worksheet}}
+}}
+\endgroup
+
+\vspace{0.9em}
+
+\fieldrow{Name}{Date}
+
+\vspace{0.6em}
+\noindent\textcolor{GTGold}{\rule{\textwidth}{1pt}}
+
+\prompt{1.\quad Describe a networking experience you have had in the past and how it benefited you.}
+{In 2--3 sentences. This could be a conversation with a professor, a research mentor, an alum, a recruiter, or a peer at a conference, career fair, or club
+event.}
+\lines{5}
+
+\prompt{2.\quad What kinds of networking experiences will you actively pursue in your final semesters at Georgia Tech?}
+{Be specific: name events, organizations, people, or settings, and what you hope
+to get out of each.}
+\lines{5}
+
+\end{document}
