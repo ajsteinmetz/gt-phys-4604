@@ -84,6 +84,11 @@
   border-radius: 2px;
 }
 
+/* Gold trim marking the intended slide frame (width x height from the YAML). Content that spills past this line is overflowing the slide — useful for spot-checking a deck. Comment out the rule to remove the trim. `outline` is used rather than `border` so it adds no layout box. */
+.reveal .slides {
+  outline: 2px solid var(--gt-cream);
+}
+
 /* Footer */
 .reveal .footer {
   color: #555;

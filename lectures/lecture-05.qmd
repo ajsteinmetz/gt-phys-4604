@@ -1,0 +1,303 @@
+---
+title: "NSF GRFP Overview"
+subtitle: "PHYS 4604 · Lecture 5"
+author: "Andrew J. Steinmetz"
+date: "September 25, 2026"
+format:
+  revealjs:
+    theme: [default, gatech-revealjs.css]
+    slide-number: c/t
+    transition: none
+    footer: "PHYS 4604 · Fall 2026 · Georgia Institute of Technology"
+    width: 1200
+    height: 750
+    auto-stretch: false
+---
+
+## Upcoming
+
+| What | When | Points |
+|---|---|---|
+| [Online professional presence](../assignments/online-profile.qmd) | **Tonight**, Sept. 25, 11:59 PM ET | 4% |
+| [Research proposal, GRFP style](../assignments/research-proposal.qmd) | Oct. 9, 11:59 PM ET | 15% |
+| **NSF GRFP reference letters** | Oct. 16, 8:00 PM ET | -- |
+| **NSF GRFP deadline** -- Physics & Astronomy | Oct. 23, 8:00 PM ET | -- |
+
+::: {.highlight-box}
+**The goal of today's lecture:** understand what the NSF Graduate Research Fellowship is, whether you are eligible, and what the application actually asks you to write because the [research proposal](../assignments/research-proposal.qmd) due Oct. 9 is the GRFP's research plan in miniature.
+:::
+
+---
+
+## Aside: Reaching Out to Someone You Don't Know
+
+> I actually used the exact technique discussed today to email a professor and ask if she had some time to help me understand how to start doing research. She invited me to come to campus to talk, and by the end of the meeting she'd offered me a position.
+
+Cold emails with small "asks" can be successful.
+
+> I was in San Francisco and went to a networking power night. I spoke to a quiet older gentleman next to me and he ended up being a GT physics alum! He was actively hiring physicists for his company. We kept in contact and he has since tried to hire me.
+
+You never know where a random conversation will lead.
+
+---
+
+## Aside: The Network You Already Have
+
+> I reached out to a person running a start-up that I knew from playing frisbee with him, and he gave me an internship that has turned into a full-time job after graduation.
+
+Nobody at that frisbee game was "networking." And yet...
+
+> I met a graduating member of SPS through their Discord channel. He got me in contact with his research mentor, as he was looking for someone to take over his project. I now do research with their group.
+
+Your peers are also part of your network, just like your professors, friends, family, coworkers, etc.
+
+---
+
+## Aside: What the Four Have in Common
+
+
+| | Where it started | What was asked for | What came back |
+|---|---|---|---|
+| 1 | A cold email | 30 minutes of advice | A research position |
+| 2 | Standing next to someone | Conversation | A standing job offer |
+| 3 | A frisbee game | An internship | A full-time job |
+| 4 | A club Discord | An introduction | An inherited research project |
+
+<div style="margin-bottom: 2em;"></div>
+
+::: {style="text-align: center;"}
+"Networking" is just corpo-talk for "being a social human being".
+
+Be social!
+:::
+
+---
+
+## Part I: What the GRFP Is
+
+:::: {.columns}
+::: {.column width="55%"}
+| | |
+|---|---|
+| **Annual stipend** | $37,000 |
+| **Cost-of-education allowance** | $16,000 to the institution |
+| **Years of support** | 3, used within a 5-year period |
+| **Total value** | ~$159,000 |
+| **Awards anticipated this cycle** | 1,500 |
+:::
+::: {.column width="45%"}
+The fellowship follows **you**, not a project or an advisor.
+
+That independence is the real value: you can change advisor, change institution, or change topic and keep the funding.
+:::
+::::
+
+::: {.cite-note}
+Solicitation NSF 26-526, published August 25, 2026 · [@nsf_grfp_solicitation]
+:::
+
+---
+
+## How Competitive Is It?
+
+:::: {.columns}
+::: {.column width="52%"}
+| Competition | Awards |
+|---|---|
+| 2025 | 1,000, then 500 more added later |
+| 2026 | ~2,500 offers -- an all-time high |
+| **2027 (this one)** | **1,500 anticipated** |
+
+Last spring's competition drew **nearly 14,000 applicants** for those ~2,500 offers.
+:::
+::: {.column width="48%"}
+The drop tracks the FY 2027 presidential budget request. Final numbers still depend on congressional appropriations.
+
+::: {.highlight-box}
+Award counts have swung by a factor of two in three years. **Do not calibrate on last year's rate.**
+:::
+:::
+::::
+
+::: {.highlight-box}
+Apply anyway: it is the same writing you need for graduate school. An honorable mention is a line on your CV, and the research plan becomes your statement of purpose.
+:::
+
+::: {.cite-note}
+Applicant and 2026 offer counts: [@nsf_grfp_2026awards]. Award history and FY 2027 outlook: [@aip_grfp_fyi2026]. Anticipated 1,500 awards: [@nsf_grfp_solicitation].
+:::
+
+---
+
+## Are You Eligible?
+
+You are likely eligible if you are a **senior applying to start graduate school next fall**.
+
+- U.S. citizen, national, or permanent resident at the time of submission
+- Intending to enroll full-time in a **research-based (thesis) master's or doctoral** program in an NSF-supported field
+- Have **never accepted** an NSF Graduate Research Fellowship
+- Have completed **less than one academic year** in a graduate degree program
+
+::: {.highlight-box}
+**Seniors have no limit on applications** before enrolling in a graduate program. Once you are a graduate student, you may apply **only once** -- and second-year graduate students are not eligible at all. Applying now does not use up that attempt.
+:::
+
+::: {.cite-note}
+[@nsf_grfp_eligibility; @nsf_grfp_solicitation]
+:::
+
+---
+
+## Part II: The Application {.section-slide background-color="#003057"}
+
+---
+
+## What You Actually Submit
+
+| Component | Length | What it is |
+|---|---|---|
+| **Personal, Relevant Background and Future Goals** | 3 pages | Who you are, how you got here, where you're going |
+| **Graduate Research Plan** | 2 pages | A specific research question and how you'd attack it |
+| **Reference letters** | 3 letters | Due **Oct. 16**, one week before your deadline |
+| Transcripts | -- | From every institution attended |
+
+: {tbl-colwidths="[38,14,48]"}
+
+::: {.highlight-box}
+The [research proposal](../assignments/research-proposal.qmd) due **Oct. 9** is the Graduate Research Plan. If you are applying this year, write the real one.
+:::
+
+::: {.cite-note}
+[@nsf_grfp_solicitation]
+:::
+
+---
+
+## Letters Are Your Top Priority Right Now
+
+Everything else on the application is under your control. **The letters are not.**
+
+:::: {.columns}
+::: {.column width="50%"}
+- Letters are due **Oct. 16, 8:00 PM ET** -- a hard NSF deadline, one week *before* yours
+- That is **three weeks from today**
+- Faculty write many of these every fall, and they all come due the same week
+:::
+::: {.column width="50%"}
+- You must name **three** writers
+- You may designate **up to five**
+- NSF uses the **top three of your preference** that arrive
+:::
+::::
+
+::: {.highlight-box}
+**Ask five people, not three.** A writer who goes silent in mid-October cannot be replaced at that point. Designating extras is free insurance and NSF is built to allow it.
+:::
+
+::: {.cite-note}
+[@nsf_grfp_solicitation]
+:::
+
+---
+
+## How to Ask -- This Week
+
+:::: {.columns}
+::: {.column width="46%"}
+**The ask itself**
+
+> "Are you able to write me a **strong** letter of recommendation for the NSF GRFP? Letters are due October 16."
+
+Give them room to say no. A lukewarm letter is worse than a different writer.
+:::
+::: {.column width="54%"}
+**Send a packet with the ask**
+
+- Your résumé or CV
+- Your draft research plan and personal statement
+- The deadline and the NSF submission link
+- **Specifically** what you did with them: course, project, semester, result
+
+Then send one reminder a week out, and thank them afterward.
+:::
+::::
+
+::: {.highlight-box}
+The professor you email this weekend about their research is a person who could write a letter next year. **That is how the aside at the start of class connects to this.**
+:::
+
+---
+
+## The Two Review Criteria
+
+Every reviewer scores you on exactly two things. Both documents are read against both criteria.
+
+:::: {.columns}
+::: {.column width="50%"}
+### Intellectual Merit
+
+The potential to **advance knowledge**.
+
+- Is the question worth asking?
+- Is the approach sound and feasible?
+- Do you have the preparation to do it?
+:::
+::: {.column width="50%"}
+### Broader Impacts
+
+The potential to **benefit society**.
+
+- Outreach, teaching, mentoring
+- Broadening participation in STEM
+- Applications beyond your subfield
+:::
+::::
+
+::: {.highlight-box}
+**Broader Impacts is where most physics applications lose.** It is not a paragraph you append at the end -- write it into both documents, with specific activities you have actually done or will do.
+:::
+
+::: {.cite-note}
+[@nsf_grfp_solicitation]
+:::
+
+---
+
+## Your Deadlines
+
+| What | When |
+|---|---|
+| [Research proposal](../assignments/research-proposal.qmd) -- GRFP research plan | Oct. 9, 11:59 PM ET |
+| **Reference letters** submitted by your writers | Oct. 16, 8:00 PM ET |
+| **Application -- Physics & Astronomy** | Oct. 23, 8:00 PM ET |
+
+::: {.highlight-box}
+All NSF times are **8:00 p.m. ET**, not 11:59. The portal closes on schedule and there is no late submission.
+:::
+
+::: {.cite-note}
+Deadlines are 8:00 p.m. ET as specified in the solicitation · [@nsf_grfp_solicitation]
+:::
+
+---
+
+## Before You Leave Today
+
+::: {.highlight-box}
+**Pick one person.** Not a category -- a person, with a name.
+:::
+
+1. Identify a faculty member whose research you could write a GRFP plan around.
+2. Write down the one specific paper or project of theirs you have actually read.
+3. Email them this weekend asking for 20 minutes.
+
+One of your classmates did exactly that last week and had a position by the end of the meeting.
+
+- [Online professional presence](../assignments/online-profile.qmd) is due **tonight at 11:59 PM ET**.
+
+---
+
+## References {.scrollable}
+
+::: {#refs style="font-size: 0.7em;"}
+:::
