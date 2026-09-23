@@ -9,7 +9,7 @@ This course is designed to help you produce materials that can be used immediate
 
 ::: {.callout-tip}
 ## Recommendation
-*The Elements of Style* by W. Strunk Jr. and E. B. White (often referred to as [*Strunk & White*](https://en.wikipedia.org/wiki/The_Elements_of_Style)) is a popular and concise (~50–100 pages depending on the edition) book about how to write well in English. To quote Stephen King: *"There is little or no detectable bullshit in that book."* While not specifically about technical writing, much of its wisdom is broadly applicable.
+*The Elements of Style* by W. Strunk Jr. and E. B. White (often referred to as [*Strunk & White*](https://en.wikipedia.org/wiki/The_Elements_of_Style)) is a popular and concise (~50&ndash;100 pages depending on the edition) book about how to write well in English. To quote Stephen King: *"There is little or no detectable bullshit in that book."* While not specifically about technical writing, much of its wisdom is broadly applicable.
 :::
 
 Strong technical and professional writing is:
@@ -34,7 +34,7 @@ Before writing, identify two things:
 
 | Document | Likely Reader | Primary Purpose |
 |---|---|---|
-| **Résumé** | Employer, recruiter, hiring manager, research supervisor | Show that your background fits a specific role. |
+| **Resume** | Employer, recruiter, hiring manager, research supervisor | Show that your background fits a specific role. |
 | **Online professional profile** | Employers, alumni, collaborators, graduate programs, professional contacts | Present a concise and credible professional identity. |
 | **Research proposal** | Fellowship reviewers, faculty, research mentors | Persuade the reader that a research question is important, feasible, and worth supporting. |
 | **Personal statement** | Graduate admissions committee, faculty group, research supervisor | Explain your preparation, goals, and fit for a specific academic opportunity. |
@@ -42,7 +42,7 @@ Before writing, identify two things:
 
 A document that is technically polished but not shaped toward its actual audience will usually be less effective than a slightly simpler document that is highly specific and well targeted.
 
-An example mismatch would be a B.S. Physics student applying to a data analysis, engineering, or technical role who writes a résumé like a graduate-school application, emphasizing abstract intellectual interests and course topics while underemphasizing concrete skills, projects, software and instrumentation, teamwork, and deliverables.
+An example mismatch would be a B.S. Physics student applying to a data analysis, engineering, or technical role who writes a resume like a graduate-school application, emphasizing abstract intellectual interests and course topics while underemphasizing concrete skills, projects, software and instrumentation, teamwork, and deliverables.
 
 ## Writing Style: Clear, Specific, and Direct
 
@@ -58,7 +58,7 @@ Technical and professional writing should favor clarity over vagueness, needless
 
 ### Use Strong Verbs
 
-Especially in résumés and cover letters, strong verbs help the reader understand what you did. Examples include analyzed, designed, developed, implemented, measured, modeled, presented, programmed, tested, and wrote.
+Especially in resumes and cover letters, strong verbs help the reader understand what you did. Examples include analyzed, designed, developed, implemented, measured, modeled, presented, programmed, tested, and wrote.
 
 ### Avoid Empty Intensifiers
 

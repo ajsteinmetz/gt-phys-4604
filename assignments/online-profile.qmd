@@ -1,6 +1,6 @@
 ---
-title: "Assignment 2 · Online Profile"
-subtitle: "Due: September 25 by 11:59 PM ET · 4% of course grade"
+title: "Assignment 2 &middot; Online Profile"
+subtitle: "Due: September 25 by 11:59 PM ET &middot; 4% of course grade"
 ---
 
 ## Purpose

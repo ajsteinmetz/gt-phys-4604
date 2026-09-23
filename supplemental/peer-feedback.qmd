@@ -16,7 +16,7 @@ That version of peer review fails because the feedback is vague, generic, and no
 ![](https://imgs.xkcd.com/comics/star_ratings.png){fig-align="center" width="100%"}
 
 ::: {style="text-align: center; color: #555;"}
-[xkcd #1098 "Qualifications"](https://xkcd.com/1098/) · [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/)
+[xkcd #1098 "Qualifications"](https://xkcd.com/1098/) &middot; [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/)
 :::
 
 :::
@@ -55,14 +55,14 @@ Every document is meant to communicate something for a specific purpose within a
 - **Subject.** Does the document stay on topic? Are there sections, arguments, or details that do not serve the document's stated purpose?
 
 ::: {.callout-note}
-A résumé here could go to an actual employer. A personal statement could go to an actual graduate program. Evaluate the document against the real-world audience it is intended to reach.
+A resume here could go to an actual employer. A personal statement could go to an actual graduate program. Evaluate the document against the real-world audience it is intended to reach.
 :::
 
 ### Understand the Author
 
 The better you understand who the author is, the more useful your feedback will be.
 
-- **Goals.** What is the author trying to achieve with this document? A résumé aimed at research roles should be evaluated differently than one aimed at industry.
+- **Goals.** What is the author trying to achieve with this document? A resume aimed at research roles should be evaluated differently than one aimed at industry.
 - **Voice.** Does the document sound like the person who wrote it? If the tone shifts abruptly or something feels borrowed, that is worth noting.
 - **What they need.** Some authors need high-level structural direction; others need confirmation they are on the right track. Calibrate your feedback to what will actually help.
 
@@ -155,5 +155,5 @@ Sharing your writing may make you feel vulnerable, which is completely normal. F
 
 ::: {.callout-note}
 ## License
-The peer review framework presented in this page is adapted from Jason Roberts, "Making a Peer Review More Than a Waste of Time," in *Open English @ SLCC* [@roberts2016]. *Open English @ SLCC* Copyright © 2016 by SLCC English Department · [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+The peer review framework presented in this page is adapted from Jason Roberts, "Making a Peer Review More Than a Waste of Time," in *Open English @ SLCC* [@roberts2016]. *Open English @ SLCC* Copyright &copy; 2016 by SLCC English Department &middot; [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 :::

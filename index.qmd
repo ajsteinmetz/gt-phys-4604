@@ -5,13 +5,13 @@ subtitle: "PHYS 4604: Professional Development"
 
 **Fall 2026 | CRN #94323 | 1 credit hour**
 
-**Fridays, 4:00–4:50 PM • Howey Physics L3 • Weekly in-person attendance required**
+**Fridays, 4:00&ndash;4:50 PM &bull; Howey Physics L3 &bull; Weekly in-person attendance required**
 
 ## Welcome
 
 Welcome to **PHYS 4604: Professional Development**. This course is designed to help you prepare for life after your undergraduate degree, whether you are planning to apply to graduate school, pursue industry positions, develop a professional network, or explore multiple possible career paths.
 
-By the end of the semester, you should have several tangible professional materials that you can use immediately, including a résumé or CV, an online professional profile, a research proposal in the style of the NSF Graduate Research Fellowship Program, and either a graduate school personal statement or job cover letter.
+By the end of the semester, you should have several tangible professional materials that you can use immediately, including a resume or CV, an online professional profile, a research proposal in the style of the NSF Graduate Research Fellowship Program, and either a graduate school personal statement or job cover letter.
 
 ::: {.callout-note}
 Review the [full syllabus on Canvas](https://gatech.instructure.com/courses/559356/pages/phys-4604-syllabus-fall-2026) as the home page is a truncated version (with the exception of the Course Schedule which will remain updated here if anything changes during the semester).
@@ -25,7 +25,7 @@ There are no formal prerequisites, but the course is typically taken in the fina
 
 ### Learning Outcomes
 
-- Write a résumé or CV.
+- Write a resume or CV.
 - Identify career opportunities, practice networking, and apply to industry jobs.
 - Choose and apply to graduate M.S. or Ph.D. programs.
 - Write a research proposal in the style of the NSF GRFP.
@@ -45,10 +45,10 @@ The course meets every Friday of the semester except holidays, from **August 28 
 
 | Date | Tentative Topic / Focus | Major Due Dates |
 |---|---|---|
-| Aug. 28 | Course introduction; résumés and CVs | - |
-| Sept. 4 | Résumé / CV review and revision workshop | - |
-| Sept. 11 | Career paths with a physics, astrophysics, or applied physics degree | **Résumé due** |
-| Sept. 14–15 | **Fall 2026 All Majors Career Fair** | - |
+| Aug. 28 | Course introduction; resumes and CVs | - |
+| Sept. 4 | Resume / CV review and revision workshop | - |
+| Sept. 11 | Career paths with a physics, astrophysics, or applied physics degree | **Resume due** |
+| Sept. 14&ndash;15 | **Fall 2026 All Majors Career Fair** | - |
 | Sept. 18 | Professional networking and online presence | - |
 | Sept. 25 | Guest lecture; NSF GRFP overview | **Online professional presence due** |
 | Oct. 2 | Research proposals and NSF GRFP-style writing | - |
@@ -68,7 +68,7 @@ There are no exams in this course. Your grade is based primarily on attendance a
 | Assignment | Due Date | Weight |
 |---|---|---|
 | Attendance / participation | Weekly | 52% |
-| Résumé | September 11 | 10% |
+| Resume | September 11 | 10% |
 | Online professional presence | September 25 | 4% |
 | Research proposal, GRFP style | October 9 | 15% |
 | Personal statement or cover letter | November 20 | 15% |
@@ -77,7 +77,7 @@ There are no exams in this course. Your grade is based primarily on attendance a
 ### Assignment Descriptions
 
 - **Attendance / participation:** Attendance is mandatory. Participation will be scored through sign-in sheets and hand-submitted in-class activities. One missed class is dropped from the attendance grade.
-- **[Résumé](https://gatech.instructure.com/courses/559356/assignments/2471170):** Prepare or revise a professional résumé suitable for job, internship, research, or graduate school applications.
+- **[Resume](https://gatech.instructure.com/courses/559356/assignments/2471170):** Prepare or revise a professional resume suitable for job, internship, research, or graduate school applications.
 - **[Online professional presence](https://gatech.instructure.com/courses/559356/assignments/2471172):** Set up a complete LinkedIn profile, improve a pre-existing LinkedIn profile, or document appropriate professional use of LinkedIn. GitHub pages, personal websites, or other professional portfolios are also encouraged.
 - **[Research proposal](https://gatech.instructure.com/courses/559356/assignments/2475460):** Write a two-page research proposal with references in the style of the NSF Graduate Research Fellowship Program. This assignment should be completed in LaTeX.
 - **[Personal statement or cover letter](https://gatech.instructure.com/courses/559356/assignments/2475462):** Write a graduate school personal statement or a job application cover letter, depending on your professional goals.
@@ -90,7 +90,7 @@ There are no exams in this course. Your grade is based primarily on attendance a
 ::: {.column width="50%"}
 **Career Preparation**
 
-- [Georgia Tech résumé resources](https://career.gatech.edu/resumes/)
+- [Georgia Tech resume resources](https://career.gatech.edu/resumes/)
 - [Interviewing resources](https://career.gatech.edu/interviewing/)
 - [Co-ops and internships](https://career.gatech.edu/apply-for-co-ops-and-internships/)
 - [Georgia Tech Career Fair](https://careerfair.gatech.edu/)
@@ -133,7 +133,7 @@ Review the [full syllabus on Canvas](https://gatech.instructure.com/courses/5593
 
 ## Copyright
 
-© 2026 Andrew J. Steinmetz. Course materials are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt this material for any purpose, provided you give appropriate credit to the original author and indicate if changes were made.
+&copy; 2026 Andrew J. Steinmetz. Course materials are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt this material for any purpose, provided you give appropriate credit to the original author and indicate if changes were made.
 
 ### AI Disclosure
 

@@ -1,6 +1,6 @@
 ---
 title: "Writing a Lab Report"
-subtitle: "PHYS 4321/4322 · Advanced Lab"
+subtitle: "PHYS 4321/4322 &middot; Advanced Lab"
 author: "Andrew J. Steinmetz"
 format:
   revealjs:
@@ -8,7 +8,7 @@ format:
     slide-number: c/t
     transition: none
     code-overflow: wrap
-    footer: "PHYS 4321/4322 · Georgia Institute of Technology"
+    footer: "PHYS 4321/4322 &middot; Georgia Institute of Technology"
     width: 1200
     height: 750
     auto-stretch: false
@@ -189,7 +189,7 @@ A diagram that helps you perform the experiment usually does not help a reader *
 
 - Measurement-to-measurement scatter
 - $s$ is the scatter of **individual** measurements
-- $\sigma_{\bar{x}} = s/\sqrt{N}$ is the uncertainty of the **mean** — this is what you report
+- $\sigma_{\bar{x}} = s/\sqrt{N}$ is the uncertainty of the **mean** &mdash; this is what you report
 - Shrinks as you take more data
 :::
 ::: {.column width="50%"}
@@ -238,7 +238,7 @@ Statistical and systematic terms combine the same way: $\sigma_\mathrm{total}^{2
 ### Discussion
 
 - Do your results agree with the accepted value?
-- If not, **why** — with a calculation or a reference, not a shrug
+- If not, **why** &mdash; with a calculation or a reference, not a shrug
 - Name the dominant source of error
 :::
 ::: {.column width="50%"}
@@ -335,14 +335,14 @@ Cite it with `\cite{LIGOScientific:2016aoc}`. Journal pages, INSPIRE-HEP, Google
 ::: {.column width="50%"}
 ### Two ways to plagiarize
 
-**Literal** — copying a sentence and swapping a few words. Cosmetic edits do not save you.
+**Literal** &mdash; copying a sentence and swapping a few words. Cosmetic edits do not save you.
 
-**Intelligent** — restating someone's idea as your own. Rewriting removes the copying, not the need to cite.
+**Intelligent** &mdash; restating someone's idea as your own. Rewriting removes the copying, not the need to cite.
 :::
 ::: {.column width="50%"}
 ### Where it happens
 
-- The Introduction, most often — it is the hardest section to write
+- The Introduction, most often &mdash; it is the hardest section to write
 - Quote directly, or write it in your own words; either way, cite it
 - A paragraph stitched from quotes is not an original contribution
 :::

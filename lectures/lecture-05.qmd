@@ -1,6 +1,6 @@
 ---
 title: "NSF GRFP Overview"
-subtitle: "PHYS 4604 · Lecture 5"
+subtitle: "PHYS 4604 &middot; Lecture 5"
 author: "Andrew J. Steinmetz"
 date: "September 25, 2026"
 format:
@@ -8,7 +8,7 @@ format:
     theme: [default, gatech-revealjs.css]
     slide-number: c/t
     transition: none
-    footer: "PHYS 4604 · Fall 2026 · Georgia Institute of Technology"
+    footer: "PHYS 4604 &middot; Fall 2026 &middot; Georgia Institute of Technology"
     width: 1200
     height: 750
     auto-stretch: false
@@ -93,7 +93,7 @@ That independence is the real value: you can change advisor, change institution,
 ::::
 
 ::: {.cite-note}
-Solicitation NSF 26-526, published August 25, 2026 · [@nsf_grfp_solicitation]
+Solicitation NSF 26-526, published August 25, 2026 &middot; [@nsf_grfp_solicitation]
 :::
 
 ---
@@ -213,7 +213,7 @@ Give them room to say no. A lukewarm letter is worse than a different writer.
 ::: {.column width="54%"}
 **Send a packet with the ask**
 
-- Your résumé or CV
+- Your resume or CV
 - Your draft research plan and personal statement
 - The deadline and the NSF submission link
 - **Specifically** what you did with them: course, project, semester, result
@@ -276,7 +276,7 @@ All NSF times are **8:00 p.m. ET**, not 11:59. The portal closes on schedule and
 :::
 
 ::: {.cite-note}
-Deadlines are 8:00 p.m. ET as specified in the solicitation · [@nsf_grfp_solicitation]
+Deadlines are 8:00 p.m. ET as specified in the solicitation &middot; [@nsf_grfp_solicitation]
 :::
 
 ---

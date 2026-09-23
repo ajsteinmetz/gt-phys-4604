@@ -1,6 +1,6 @@
 ---
 title: "Career Paths with a Physics Degree"
-subtitle: "PHYS 4604 · Lecture 3"
+subtitle: "PHYS 4604 &middot; Lecture 3"
 author: "Andrew J. Steinmetz"
 date: "September 11, 2026"
 format:
@@ -8,7 +8,7 @@ format:
     theme: [default, gatech-revealjs.css]
     slide-number: c/t
     transition: none
-    footer: "PHYS 4604 · Fall 2026 · Georgia Institute of Technology"
+    footer: "PHYS 4604 &middot; Fall 2026 &middot; Georgia Institute of Technology"
     width: 1200
     height: 750
     auto-stretch: false
@@ -18,8 +18,8 @@ format:
 
 | What | When | Points |
 |---|---|---|
-| [Résumé](../assignments/resume.qmd) — PDF to Canvas | **Tonight**, Sept. 11, 11:59 PM ET | 100 (10%) |
-| **Fall 2026 All Majors Career Fair** | Sept. 14–15 | External participation |
+| [Resume](../assignments/resume.qmd) &mdash; PDF to Canvas | **Tonight**, Sept. 11, 11:59 PM ET | 100 (10%) |
+| **Fall 2026 All Majors Career Fair** | Sept. 14&ndash;15 | External participation |
 | [Online professional presence](../assignments/online-profile.qmd) | Sept. 25 | 4% |
 | [Research proposal, GRFP style](../assignments/research-proposal.qmd) | Oct. 9 | 15% |
 
@@ -71,7 +71,7 @@ plt.show()
 ```
 
 ::: {.cite-note style="margin-top: -0.5em;"}
-Classes of 2022–23 and 2023–24 · [@aip_bs_sectors2026]
+Classes of 2022&ndash;23 and 2023&ndash;24 &middot; [@aip_bs_sectors2026]
 :::
 
 ---
@@ -94,11 +94,11 @@ Only **3%** of employed physics bachelors said they work in physics or astronomy
 ::::
 
 ::: {.highlight-box}
-Your competition is engineering and CS majors. Sell your problem-solving and modeling toolkit **on your résumé**.
+Your competition is engineering and CS majors. Sell your problem-solving and modeling toolkit **on your resume**.
 :::
 
 ::: {.cite-note}
-Classes of 2017 and 2018 · [@mulvey_porter2021]
+Classes of 2017 and 2018 &middot; [@mulvey_porter2021]
 :::
 
 ---
@@ -122,7 +122,7 @@ As discussed last week, at the career fair (or CareerBuzz), search for these tit
 :::
 
 ::: {.cite-note}
-Classes of 2021 and 2022 · [@aip_bs_titles2024]
+Classes of 2021 and 2022 &middot; [@aip_bs_titles2024]
 :::
 
 ---
@@ -172,7 +172,7 @@ Same pattern as physics bachelors: grad school or industry, with industry paying
 ::::
 
 ::: {.cite-note}
-Classes of 2021–22 through 2023–24 · [@aip_astro_bs]
+Classes of 2021&ndash;22 through 2023&ndash;24 &middot; [@aip_astro_bs]
 :::
 
 ---
@@ -190,7 +190,7 @@ Same core training. Your electives, research, and projects give direction.
 : {tbl-colwidths="[20,45,35]"}
 
 ::: {.highlight-box}
-**These are tendencies, not rules.** Employers hire on skills and experience, so your résumé matters more than the name on your diploma.
+**These are tendencies, not rules.** Employers hire on skills and experience, so your resume matters more than the name on your diploma.
 :::
 
 ---
@@ -203,7 +203,7 @@ Same core training. Your electives, research, and projects give direction.
 |---|---|
 | **Median pay (May 2025)** | $166,880 |
 | **Jobs (2025)** | 25,600 |
-| **Projected growth, 2025–35** | 7% |
+| **Projected growth, 2025&ndash;35** | 7% |
 | **Openings per year** | ~1,500 |
 | **Typical entry education** | Doctoral degree |
 :::
@@ -241,7 +241,7 @@ BLS medians cover all experience levels*; they are not starting salaries.
 :::
 
 ::: {.cite-note}
-Median pay as of May 2025; projected growth 2025–35. [@bls_software; @bls_aerospace; @bls_datasci; @bls_hsteachers; @bls_physicists]
+Median pay as of May 2025; projected growth 2025&ndash;35. [@bls_software; @bls_aerospace; @bls_datasci; @bls_hsteachers; @bls_physicists]
 :::
 
 ---
@@ -287,7 +287,7 @@ plt.show()
 ```
 
 ::: {.cite-note style="margin-top: -0.5em;"}
-Classes of 2020–21 and 2021–22; U.S.-educated PhDs who remained in the U.S. (n = 1,680) · [@aip_phd2024]
+Classes of 2020&ndash;21 and 2021&ndash;22; U.S.-educated PhDs who remained in the U.S. (n = 1,680) &middot; [@aip_phd2024]
 :::
 
 ---
@@ -318,7 +318,7 @@ Most permanent PhD jobs are in **industry**, not faculty positions.
 :::
 
 ::: {.cite-note}
-Classes of 2020–21 and 2021–22 · [@aip_phd2024]
+Classes of 2020&ndash;21 and 2021&ndash;22 &middot; [@aip_phd2024]
 :::
 
 ---
@@ -329,7 +329,7 @@ Classes of 2020–21 and 2021–22 · [@aip_phd2024]
 ::: {.column width="60%"}
 **PhDs in potentially permanent positions**
 
-| % who felt… | Acad. | Private | Gov't |
+| % who felt&hellip; | Acad. | Private | Gov't |
 |---|---|---|---|
 | PhD is appropriate background | 90 | 86 | 82 |
 | Professionally challenging | 73 | 83 | 89 |
@@ -353,7 +353,7 @@ There's about 2000/yr new PhDs and about 600/yr faculty positions.
 ::::
 
 ::: {.cite-note}
-Classes of 2020–21 and 2021–22 · [@aip_phd2024]
+Classes of 2020&ndash;21 and 2021&ndash;22 &middot; [@aip_phd2024]
 :::
 
 ---

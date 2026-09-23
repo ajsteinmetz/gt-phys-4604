@@ -1,6 +1,6 @@
 ---
-title: "Course Overview & Résumés"
-subtitle: "PHYS 4604 · Lecture 1"
+title: "Course Overview & Resumes"
+subtitle: "PHYS 4604 &middot; Lecture 1"
 author: "Andrew J. Steinmetz"
 date: "August 28, 2026"
 format:
@@ -8,7 +8,7 @@ format:
     theme: [default, gatech-revealjs.css]
     slide-number: c/t
     transition: none
-    footer: "PHYS 4604 · Fall 2026 · Georgia Institute of Technology"
+    footer: "PHYS 4604 &middot; Fall 2026 &middot; Georgia Institute of Technology"
     width: 1200
     height: 750
     auto-stretch: false
@@ -20,7 +20,7 @@ format:
 ::: {.column width="60%"}
 **Dr. Andrew J. Steinmetz**
 
-School of Physics · Georgia Institute of Technology
+School of Physics &middot; Georgia Institute of Technology
 
 | | |
 |---|---|
@@ -60,7 +60,7 @@ E.g. this is stuff you'll need to get good at anyway, might as well practice it 
 ![](https://imgs.xkcd.com/comics/qualifications_2x.png){fig-align="center" width="100%"}
 
 ::: {.cite-note}
-[xkcd #2756 "Qualifications"](https://xkcd.com/2756/) · [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/)
+[xkcd #2756 "Qualifications"](https://xkcd.com/2756/) &middot; [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/)
 :::
 
 :::
@@ -72,7 +72,7 @@ E.g. this is stuff you'll need to get good at anyway, might as well practice it 
 
 | Assignment | Due Date | Weight |
 |---|---|---|
-| Résumé | September 11 | 10% |
+| Resume | September 11 | 10% |
 | Online professional presence (LinkedIn) | September 25 | 4% |
 | Research proposal, GRFP style | October 9 | 15% |
 | Personal statement or cover letter | November 20 | 15% |
@@ -86,7 +86,7 @@ The dates have been intentionally chosen to front-load the majority of the work 
 
 ---
 
-## Course Policies — The Short Version
+## Course Policies &mdash; The Short Version
 
 - **Attendance is mandatory.** One missed class is dropped from your attendance grade.
 - **No textbook.** Materials are provided through Canvas/course website.
@@ -142,7 +142,7 @@ import numpy as np
 
 matplotlib.rcParams.update({'font.family': 'sans-serif'})
 
-years  = ['2020–21', '2021–22', '2022–23', '2023–24', '2024–25']
+years  = ['2020\u201321', '2021\u201322', '2022\u201323', '2023\u201324', '2024\u201325']
 x      = np.arange(len(years))
 width  = 0.25
 
@@ -191,7 +191,7 @@ import numpy as np
 
 matplotlib.rcParams.update({'font.family': 'sans-serif'})
 
-years    = ['2020–21', '2021–22', '2022–23', '2023–24', '2024–25']
+years    = ['2020\u201321', '2021\u201322', '2022\u201323', '2023\u201324', '2024\u201325']
 x        = np.arange(len(years))
 width    = 0.3
 
@@ -260,7 +260,7 @@ wedges, _ = ax.pie(
     wedgeprops={'edgecolor': 'white', 'linewidth': 1.5}
 )
 
-legend_labels = [f'{l} — {s:.1f}%' for l, s in zip(labels, sizes)]
+legend_labels = [f'{l} \u2014 {s:.1f}%' for l, s in zip(labels, sizes)]
 ax.legend(
     wedges, legend_labels,
     loc='center left',
@@ -296,22 +296,22 @@ Career Center events (see [GT Campus Calendar](https://calendar.gatech.edu/)):
 
 ## The Career Fair Is About 2 Weeks Away
 
-The **Fall 2026 All Majors Career Fair** is September 14–15 at Georgia Tech.
+The **Fall 2026 All Majors Career Fair** is September 14&ndash;15 at Georgia Tech.
 
 - [Georgia Tech Career Fair](https://careerfair.gatech.edu/)
 - [Georgia Tech Interviewing Resources](https://career.gatech.edu/interviewing/)
 
-Your **résumé is due September 11** before the fair begins.
+Your **resume is due September 11** before the fair begins.
 
 ::: {.highlight-box}
-**The goal of today's lecture:** covering what goes on a résumé and how to start writing one if you haven't done so already.
+**The goal of today's lecture:** covering what goes on a resume and how to start writing one if you haven't done so already.
 :::
 
 ---
 
-## Part III: Résumés
+## Part III: Resumes
 
-A résumé is typically organized into six sections:
+A resume is typically organized into six sections:
 
 1. **Contact information**
 2. **Education**
@@ -320,20 +320,20 @@ A résumé is typically organized into six sections:
 5. **Projects and leadership**
 6. Awards and honors *(optional)*
 
-Not every résumé looks the same. The order and emphasis depend on your background and the opportunity.
+Not every resume looks the same. The order and emphasis depend on your background and the opportunity.
 
 ---
 
-## Résumé vs. Academic CV
+## Resume vs. Academic CV
 
-| | Résumé | Academic CV |
+| | Resume | Academic CV |
 |---|---|---|
-| **Length** | 1–2 pages | No limit; grows over time |
+| **Length** | 1&ndash;2 pages | No limit; grows over time |
 | **Purpose** | Fit for a specific role | Full academic and professional record |
 | **Used for** | Jobs, internships, most undergrad opportunities | Grad fellowships, faculty positions, postdocs |
 | **Customization** | Tailored to each application | Updated over time |
 
-For most of you a **résumé** is your concern. A CV will come later during graduate school, as publications, talks, and grants accumulate.
+For most of you a **resume** is your concern. A CV will come later during graduate school, as publications, talks, and grants accumulate.
 
 ::: {.highlight-box}
 See **[this supplemental](https://ajsteinmetz.github.io/gt-phys-4604/supplemental/resume-cv.html)** for more detail.
@@ -343,7 +343,7 @@ See **[this supplemental](https://ajsteinmetz.github.io/gt-phys-4604/supplementa
 
 ## Contact Information
 
-Make this easy to find — usually at the top of the page.
+Make this easy to find &mdash; usually at the top of the page.
 
 - Full name (prominent and consider a slightly larger font)
 - Professional email address (GT email is fine)
@@ -367,7 +367,7 @@ Mention that GT email is appropriate for now but a permanent personal email is u
 - **Georgia Institute of Technology**
   - B.S. Physics / Astrophysics / Applied Physics (or joint degree)
   - Expected graduation: May 2027 (or your actual date)
-  - GPA: include if ≥ 3.0 (judgement call)
+  - GPA: include if &ge; 3.0 (judgement call)
 - Relevant coursework (optional, useful if experience is thin)
 - Academic honors: Dean's List, scholarships, etc.
 
@@ -384,9 +384,9 @@ Include: **work, research, internships, co-ops, teaching assistantships**
 For each entry:
 
 - Organization name and your role or title
-- Dates; month and year (e.g., May 2025 – Aug. 2025)
+- Dates; month and year (e.g., May 2025 &ndash; Aug. 2025)
 - Location (city, state) or "Remote"
-- **2–4 bullet points describing what you did and what it produced**
+- **2&ndash;4 bullet points describing what you did and what it produced**
 
 Research experience counts strongly for physics students: faculty advisors, national labs, REUs.
 
@@ -458,10 +458,10 @@ Keep it clean and professional.
 - No photos, no graphics, no colored text
 - Typos and grammar errors are disqualifying. Proofread!
 
-[Georgia Tech Career Center — Résumé Guidance](https://career.gatech.edu/resumes/)
+[Georgia Tech Career Center &mdash; Resume Guidance](https://career.gatech.edu/resumes/)
 
 ::: notes
-Encourage students to use one if they are starting from scratch. The formatting rules exist because recruiters scan résumés in seconds.
+Encourage students to use one if they are starting from scratch. The formatting rules exist because recruiters scan resumes in seconds.
 :::
 
 ---
@@ -469,10 +469,10 @@ Encourage students to use one if they are starting from scratch. The formatting 
 ## Upcoming Schedule
 
 ::: {.nonincremental}
-1. **Start your résumé draft** or revisit the one you have.
+1. **Start your resume draft** or revisit the one you have.
 2. **Bring it to class next Friday (September 4)**, we will workshop drafts in class.
-3. **Résumé is due: September 11 at 11:59 PM ET** to Canvas as PDF.
-4. **Career Fair: September 14–15**, counts as External Participation credit.
+3. **Resume is due: September 11 at 11:59 PM ET** to Canvas as PDF.
+4. **Career Fair: September 14&ndash;15**, counts as External Participation credit.
 :::
 
 ---

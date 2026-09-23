@@ -1,6 +1,6 @@
 ---
-title: "Assignment 5 · External Participation"
-subtitle: "Due: December 4 by 11:59 PM ET · 4% of course grade"
+title: "Assignment 5 &middot; External Participation"
+subtitle: "Due: December 4 by 11:59 PM ET &middot; 4% of course grade"
 ---
 
 ## Purpose
@@ -33,7 +33,7 @@ Submit a PDF to Canvas containing documentation of your participation. Your subm
 
 1. Your name and the title of the event or activity.
 2. The date on which the activity occurred.
-3. A brief 1–2 paragraph description of the activity and how it relates to your professional development.
+3. A brief 1&ndash;2 paragraph description of the activity and how it relates to your professional development.
 4. Written or photographic documentation showing that you participated.
 
 ## Acceptable Documentation

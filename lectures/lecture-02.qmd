@@ -1,6 +1,6 @@
 ---
-title: "Résumé Peer Review Workshop"
-subtitle: "PHYS 4604 · Lecture 2"
+title: "Resume Peer Review Workshop"
+subtitle: "PHYS 4604 &middot; Lecture 2"
 author: "Andrew J. Steinmetz"
 date: "September 4, 2026"
 format:
@@ -8,7 +8,7 @@ format:
     theme: [default, gatech-revealjs.css]
     slide-number: c/t
     transition: none
-    footer: "PHYS 4604 · Fall 2026 · Georgia Institute of Technology"
+    footer: "PHYS 4604 &middot; Fall 2026 &middot; Georgia Institute of Technology"
     width: 1200
     height: 750
     auto-stretch: false
@@ -18,10 +18,10 @@ format:
 
 | What | When | Points |
 |---|---|---|
-| [Résumé](../assignments/resume.qmd) — PDF to Canvas | Sept. 11, 11:59 PM ET | 100 (10%) |
-| GT Career Center résumé reviews | Sept. 8 in person · Sept. 9–10 virtual | — |
-| Career paths with a physics degree | Sept. 11 | — |
-| **Fall 2026 All Majors Career Fair** | Sept. 14–15 | — |
+| [Resume](../assignments/resume.qmd) &mdash; PDF to Canvas | Sept. 11, 11:59 PM ET | 100 (10%) |
+| GT Career Center resume reviews | Sept. 8 in person &middot; Sept. 9&ndash;10 virtual | &mdash; |
+| Career paths with a physics degree | Sept. 11 | &mdash; |
+| **Fall 2026 All Majors Career Fair** | Sept. 14&ndash;15 | &mdash; |
 | [Online professional presence](../assignments/online-profile.qmd) | Sept. 25 | 4% |
 
 ::: {.highlight-box}
@@ -67,12 +67,12 @@ Georgia Tech's official platform for job and internship postings, and on-campus 
 
 ## Fall 2026 All Majors Career Fair
 
-**September 14–15** · Georgia Tech
+**September 14&ndash;15** &middot; Georgia Tech
 
 A little prep beforehand is what makes it worth attending.
 
 - Research which employers are attending and prioritize a short list: check the employer list and schedule on **Career Fair Plus**
-- Bring several printed copies of your résumé
+- Bring several printed copies of your resume
 - Prepare a short self-introduction (your "elevator pitch")
 - Dress professionally
 
@@ -106,7 +106,7 @@ Write **bullet points**, not a script. Practice saying it out loud until it soun
 ## After the Fair
 
 - **Note names, titles, and any contact info** from every conversation. Even without an email, a name and title is enough to find someone on LinkedIn.
-- **Send a short thank-you within 24–48 hours.** Reference something specific you discussed; keep it brief.
+- **Send a short thank-you within 24&ndash;48 hours.** Reference something specific you discussed; keep it brief.
 - **It's fine to send a LinkedIn connection request** to someone you spoke with directly.
 - **Still apply online.** A good conversation at the fair is marketing and networking, not a substitute for the formal application.
 

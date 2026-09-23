@@ -5,7 +5,7 @@ subtitle: "PHYS 4604: Professional Development"
 
 **Fall 2026 | CRN #94323 | 1 credit hour**
 
-**Fridays, 4:00–4:50 PM • Howey Physics L3 • Weekly in-person attendance required**
+**Fridays, 4:00&ndash;4:50 PM &bull; Howey Physics L3 &bull; Weekly in-person attendance required**
 
 ## Course Description
 
@@ -23,12 +23,12 @@ There are no formal prerequisites, but the course is typically taken in the fina
 
 You will learn how to:
 
-- Write a résumé or CV.
+- Write a resume or CV.
 - Identify career opportunities, practice networking, and apply to industry jobs.
 - Choose and apply to graduate M.S. or Ph.D. programs.
 - Write a research proposal in the style of the NSF GRFP.
 
-[Georgia Tech résumé resources](https://career.gatech.edu/resumes/)
+[Georgia Tech resume resources](https://career.gatech.edu/resumes/)
 
 [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
@@ -54,7 +54,7 @@ There are no exams in this course. Your grade is based primarily on attendance a
 | Assignment | Due Date | Weight |
 |---|---|---|
 | Attendance / participation | Weekly | 52% |
-| Résumé | September 11 | 10% |
+| Resume | September 11 | 10% |
 | Online professional presence | September 25 | 4% |
 | Research proposal, GRFP style | October 9 | 15% |
 | Personal statement or cover letter | November 20 | 15% |
@@ -63,7 +63,7 @@ There are no exams in this course. Your grade is based primarily on attendance a
 ### Assignment Descriptions
 
 - **Attendance / participation:** Attendance is mandatory. Participation will be scored through sign-in sheets and hand-submitted in-class activities. One missed class is dropped from the attendance grade.
-- **Résumé:** Prepare or revise a professional résumé suitable for job, internship, research, or graduate school applications.
+- **Resume:** Prepare or revise a professional resume suitable for job, internship, research, or graduate school applications.
 - **Online professional presence:** Set up a complete LinkedIn profile if you did not have one yet, improve a pre-existing LinkedIn profile, or document appropriate professional use of LinkedIn. GitHub pages, personal websites, or other professional portfolios are also encouraged.
 - **Research proposal:** Write a two-page research proposal with references in the style of the NSF Graduate Research Fellowship Program. This assignment should be completed in LaTeX.
 - **Personal statement or cover letter:** Write a graduate school personal statement or a job application cover letter, depending on your professional goals.
@@ -75,13 +75,13 @@ Your final grade will be assigned as a letter grade according to the following s
 
 | Letter Grade | Percentage |
 |---|---|
-| A | 90–100% |
-| B | 80–89% |
-| C | 70–79% |
-| D | 60–69% |
-| F | 0–59% |
+| A | 90&ndash;100% |
+| B | 80&ndash;89% |
+| C | 70&ndash;79% |
+| D | 60&ndash;69% |
+| F | 0&ndash;59% |
 
-Final numeric grades are rounded to the nearest whole percent. For example, 83.76% becomes 84%. This course is not otherwise curved. At Georgia Tech, grades are awarded on a scale of A–F with no plus/minus grades permitted.
+Final numeric grades are rounded to the nearest whole percent. For example, 83.76% becomes 84%. This course is not otherwise curved. At Georgia Tech, grades are awarded on a scale of A&ndash;F with no plus/minus grades permitted.
 
 [Georgia Tech grading system](http://registrar.gatech.edu/info/grading-system)
 
@@ -89,7 +89,7 @@ Final numeric grades are rounded to the nearest whole percent. For example, 83.7
 
 ### Attendance
 
-Attendance is mandatory; however, one missed class will be dropped from your grade. You must attend 13 of the 14 scheduled class sessions to receive a full attendance score of 13 × 4% = 52%.
+Attendance is mandatory; however, one missed class will be dropped from your grade. You must attend 13 of the 14 scheduled class sessions to receive a full attendance score of 13 &times; 4% = 52%.
 
 If you will miss a class for any reason, please let me know as soon as possible via email.
 
