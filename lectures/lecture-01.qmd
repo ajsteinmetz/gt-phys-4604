@@ -14,7 +14,7 @@ format:
     auto-stretch: false
 ---
 
-## Your Instructor
+## Your instructor
 
 :::: {.columns}
 ::: {.column width="60%"}
@@ -68,7 +68,7 @@ E.g. this is stuff you'll need to get good at anyway, might as well practice it 
 
 ---
 
-## What You Will Produce This Semester
+## What you will produce this semester
 
 | Assignment | Due Date | Weight |
 |---|---|---|
@@ -86,7 +86,7 @@ The dates have been intentionally chosen to front-load the majority of the work 
 
 ---
 
-## Course Policies &mdash; The Short Version
+## Course policies &mdash; the short version
 
 - **Attendance is mandatory.** One missed class is dropped from your attendance grade.
 - **No textbook.** Materials are provided through Canvas/course website.
@@ -109,7 +109,7 @@ Nationally, about half of B.S. Physics majors are employed 1-year post-graduatio
 
 ---
 
-## B.S. Physics: Employment Outcomes
+## B.S. Physics: employment outcomes
 
 :::: {.columns}
 ::: {.column width="50%"}
@@ -129,7 +129,7 @@ Nationally, about half of B.S. Physics majors are employed 1-year post-graduatio
 
 ---
 
-## GaTech B.S. Physics: Starting Salaries
+## GaTech B.S. Physics: starting salaries
 
 Reported initial median salaries range from $74,000 to $86,500 and are competitive or in excess of national trends reported by NACE.
 
@@ -178,7 +178,7 @@ plt.show()
 
 ---
 
-## GaTech B.S. Physics: Graduate Acceptance
+## GaTech B.S. Physics: graduate acceptance
 
 Most Georgia Tech B.S. Physics majors who intend to further their education are accepted into at least one graduate school by graduation.
 
@@ -227,7 +227,7 @@ plt.show()
 
 ---
 
-## GaTech B.S. Physics: Graduate Destinations
+## GaTech B.S. Physics: graduate destinations
 
 Georgia Tech B.S. Physics majors are accepted to a wide range of highly ranked institutions for graduate study.
 
@@ -279,7 +279,7 @@ plt.show()
 
 ---
 
-## Part II: September Career Fair Events
+## Part II: September career fair events
 
 Career Center events (see [GT Campus Calendar](https://calendar.gatech.edu/)):
 
@@ -294,7 +294,7 @@ Career Center events (see [GT Campus Calendar](https://calendar.gatech.edu/)):
 
 ---
 
-## The Career Fair Is About 2 Weeks Away
+## The career fair is about 2 weeks away
 
 The **Fall 2026 All Majors Career Fair** is September 14&ndash;15 at Georgia Tech.
 
@@ -324,7 +324,7 @@ Not every resume looks the same. The order and emphasis depend on your backgroun
 
 ---
 
-## Resume vs. Academic CV
+## Resume vs. academic CV
 
 | | Resume | Academic CV |
 |---|---|---|
@@ -341,7 +341,7 @@ See **[this supplemental](https://ajsteinmetz.github.io/gt-phys-4604/supplementa
 
 ---
 
-## Contact Information
+## Contact information
 
 Make this easy to find &mdash; usually at the top of the page.
 
@@ -352,7 +352,7 @@ Make this easy to find &mdash; usually at the top of the page.
 - GitHub or portfolio URL (optional)
 - City and state; no full street address needed
 
-::: {.highlight_box}
+::: {.highlight-box}
 How to **[customize your LinkedIn URL.](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url)**
 :::
 
@@ -396,7 +396,7 @@ Emphasize that even a one-semester research role is worth including if it involv
 
 ---
 
-## Writing Strong Bullets
+## Writing strong bullets
 
 The most common mistake: describing duties instead of accomplishments.
 
@@ -429,7 +429,7 @@ Do not list generic software (Word, PowerPoint) unless the role specifically req
 
 ---
 
-## Projects and Leadership
+## Projects and leadership
 
 Valuable if work or research is limited and generally worth including.
 
@@ -451,7 +451,7 @@ Describe these the same way you describe other experience.
 
 Keep it clean and professional.
 
-- **One--two pages** for most undergraduates
+- **One&ndash;two pages** for most undergraduates
 - Consistent fonts: one or two at most; no smaller than 10 pt for body text
 - Adequate white space: do not cram everything in
 - Consistent alignment of dates and section headers
@@ -466,7 +466,7 @@ Encourage students to use one if they are starting from scratch. The formatting 
 
 ---
 
-## Upcoming Schedule
+## Upcoming schedule
 
 ::: {.nonincremental}
 1. **Start your resume draft** or revisit the one you have.

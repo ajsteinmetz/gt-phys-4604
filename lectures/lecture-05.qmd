@@ -20,8 +20,8 @@ format:
 |---|---|---|
 | [Online professional presence](../assignments/online-profile.qmd) | **Tonight**, Sept. 25, 11:59 PM ET | 4% |
 | [Research proposal, GRFP style](../assignments/research-proposal.qmd) | Oct. 9, 11:59 PM ET | 15% |
-| **NSF GRFP reference letters** | Oct. 16, 8:00 PM ET | -- |
-| **NSF GRFP deadline** -- Physics & Astronomy | Oct. 23, 8:00 PM ET | -- |
+| **NSF GRFP reference letters** | Oct. 16, 8:00 PM ET | &ndash; |
+| **NSF GRFP deadline** &ndash; Physics & Astronomy | Oct. 23, 8:00 PM ET | &ndash; |
 
 ::: {.highlight-box}
 **The goal of today's lecture:** understand what the NSF Graduate Research Fellowship is, whether you are eligible, and what the application actually asks you to write because the [research proposal](../assignments/research-proposal.qmd) due Oct. 9 is the GRFP's research plan in miniature.
@@ -29,7 +29,7 @@ format:
 
 ---
 
-## Aside: Reaching Out to Someone You Don't Know
+## Aside: Reaching out to someone you don't know
 
 > I actually used the exact technique discussed today to email a professor and ask if she had some time to help me understand how to start doing research. She invited me to come to campus to talk, and by the end of the meeting she'd offered me a position.
 
@@ -41,7 +41,7 @@ You never know where a random conversation will lead.
 
 ---
 
-## Aside: The Network You Already Have
+## Aside: The network you already have
 
 > I reached out to a person running a start-up that I knew from playing frisbee with him, and he gave me an internship that has turned into a full-time job after graduation.
 
@@ -53,7 +53,7 @@ Your peers are also part of your network, just like your professors, friends, fa
 
 ---
 
-## Aside: What the Four Have in Common
+## Aside: What the four have in common
 
 
 | | Where it started | What was asked for | What came back |
@@ -73,7 +73,7 @@ Be social!
 
 ---
 
-## Part I: What the GRFP Is
+## Part I: What the GRFP is
 
 :::: {.columns}
 ::: {.column width="55%"}
@@ -98,14 +98,14 @@ Solicitation NSF 26-526, published August 25, 2026 &middot; [@nsf_grfp_solicitat
 
 ---
 
-## How Competitive Is It?
+## How competitive is it?
 
 :::: {.columns}
 ::: {.column width="52%"}
 | Competition | Awards |
 |---|---|
 | 2025 | 1,000, then 500 more added later |
-| 2026 | ~2,500 offers -- an all-time high |
+| 2026 | ~2,500 offers &ndash; an all-time high |
 | **2027 (this one)** | **1,500 anticipated** |
 
 Last spring's competition drew **nearly 14,000 applicants** for those ~2,500 offers.
@@ -129,7 +129,7 @@ Applicant and 2026 offer counts: [@nsf_grfp_2026awards]. Award history and FY 20
 
 ---
 
-## Are You Eligible?
+## Are you eligible?
 
 You are likely eligible if you are a **senior applying to start graduate school next fall**.
 
@@ -139,7 +139,7 @@ You are likely eligible if you are a **senior applying to start graduate school 
 - Have completed **less than one academic year** in a graduate degree program
 
 ::: {.highlight-box}
-**Seniors have no limit on applications** before enrolling in a graduate program. Once you are a graduate student, you may apply **only once** -- and second-year graduate students are not eligible at all. Applying now does not use up that attempt.
+**Seniors have no limit on applications** before enrolling in a graduate program. Once you are a graduate student, you may apply **only once** &ndash; and second-year graduate students are not eligible at all. Applying now does not use up that attempt.
 :::
 
 ::: {.cite-note}
@@ -148,18 +148,18 @@ You are likely eligible if you are a **senior applying to start graduate school 
 
 ---
 
-## Part II: The Application {.section-slide background-color="#003057"}
+## Part II: The application {.section-slide background-color="#003057"}
 
 ---
 
-## What You Actually Submit
+## What you actually submit
 
 | Component | Length | What it is |
 |---|---|---|
 | **Personal, Relevant Background and Future Goals** | 3 pages | Who you are, how you got here, where you're going |
 | **Graduate Research Plan** | 2 pages | A specific research question and how you'd attack it |
 | **Reference letters** | 3 letters | Due **Oct. 16**, one week before your deadline |
-| Transcripts | -- | From every institution attended |
+| Transcripts | &ndash; | From every institution attended |
 
 : {tbl-colwidths="[38,14,48]"}
 
@@ -173,13 +173,13 @@ The [research proposal](../assignments/research-proposal.qmd) due **Oct. 9** is 
 
 ---
 
-## Letters Are Your Top Priority Right Now
+## Letters are your top priority right now
 
 Everything else on the application is under your control. **The letters are not.**
 
 :::: {.columns}
 ::: {.column width="50%"}
-- Letters are due **Oct. 16, 8:00 PM ET** -- a hard NSF deadline, one week *before* yours
+- Letters are due **Oct. 16, 8:00 PM ET** &ndash; a hard NSF deadline, one week *before* yours
 - That is **three weeks from today**
 - Faculty write many of these every fall, and they all come due the same week
 :::
@@ -200,7 +200,7 @@ Everything else on the application is under your control. **The letters are not.
 
 ---
 
-## How to Ask -- This Week
+## How to ask &ndash; this week
 
 :::: {.columns}
 ::: {.column width="46%"}
@@ -228,7 +228,7 @@ The professor you email this weekend about their research is a person who could 
 
 ---
 
-## The Two Review Criteria
+## The two review criteria
 
 Every reviewer scores you on exactly two things. Both documents are read against both criteria.
 
@@ -254,7 +254,7 @@ The potential to **benefit society**.
 ::::
 
 ::: {.highlight-box}
-**Broader Impacts is where most physics applications lose.** It is not a paragraph you append at the end -- write it into both documents, with specific activities you have actually done or will do.
+**Broader Impacts is where most physics applications lose.** It is not a paragraph you append at the end &ndash; write it into both documents, with specific activities you have actually done or will do.
 :::
 
 ::: {.cite-note}
@@ -263,13 +263,13 @@ The potential to **benefit society**.
 
 ---
 
-## Your Deadlines
+## Your deadlines
 
 | What | When |
 |---|---|
-| [Research proposal](../assignments/research-proposal.qmd) -- GRFP research plan | Oct. 9, 11:59 PM ET |
+| [Research proposal](../assignments/research-proposal.qmd) &ndash; GRFP research plan | Oct. 9, 11:59 PM ET |
 | **Reference letters** submitted by your writers | Oct. 16, 8:00 PM ET |
-| **Application -- Physics & Astronomy** | Oct. 23, 8:00 PM ET |
+| **Application &ndash; Physics & Astronomy** | Oct. 23, 8:00 PM ET |
 
 ::: {.highlight-box}
 All NSF times are **8:00 p.m. ET**, not 11:59. The portal closes on schedule and there is no late submission.
@@ -281,10 +281,10 @@ Deadlines are 8:00 p.m. ET as specified in the solicitation &middot; [@nsf_grfp_
 
 ---
 
-## Before You Leave Today
+## Before you leave today
 
 ::: {.highlight-box}
-**Pick one person.** Not a category -- a person, with a name.
+**Pick one person.** Not a category &ndash; a person, with a name.
 :::
 
 1. Identify a faculty member whose research you could write a GRFP plan around.

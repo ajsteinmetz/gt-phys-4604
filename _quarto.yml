@@ -11,8 +11,8 @@ website:
     left:
       - text: "Course Files"
         menu:
-          - course-files\syllabus.qmd
-          - course-files\ai-usage-statement.qmd
+          - course-files/syllabus.qmd
+          - course-files/ai-usage-statement.qmd
       - text: "Assignments"
         menu:
           - assignments/resume.qmd

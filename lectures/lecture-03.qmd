@@ -29,7 +29,7 @@ format:
 
 ---
 
-## Part I: Physics Bachelors Entering the Workforce
+## Part I: Physics bachelors entering the workforce
 
 More than half of new physics bachelors who take a job start in the private sector.
 
@@ -76,7 +76,7 @@ Classes of 2022&ndash;23 and 2023&ndash;24 &middot; [@aip_bs_sectors2026]
 
 ---
 
-## What Do Private-Sector Physics Bachelors Do?
+## What do private-sector physics bachelors do?
 
 :::: {.columns}
 ::: {.column width="50%"}
@@ -103,7 +103,7 @@ Classes of 2017 and 2018 &middot; [@mulvey_porter2021]
 
 ---
 
-## Common Job Titles for New Physics Bachelors
+## Common job titles for new physics bachelors
 
 ::: {style="font-size: 0.9em;"}
 | Category | Job titles reported by new physics bachelors |
@@ -127,7 +127,7 @@ Classes of 2021 and 2022 &middot; [@aip_bs_titles2024]
 
 ---
 
-## Starting Salaries for Physics Bachelors
+## Starting salaries for physics bachelors
 
 :::: {.columns}
 ::: {.column width="45%"}
@@ -147,7 +147,7 @@ Full-time, U.S.-educated graduates, classes of 2021 and 2022. [@aip_bs_salaries2
 
 ---
 
-## Astronomy & Astrophysics Bachelors
+## Astronomy & astrophysics bachelors
 
 :::: {.columns}
 ::: {.column width="50%"}
@@ -195,7 +195,7 @@ Same core training. Your electives, research, and projects give direction.
 
 ---
 
-## Part II: "Physicist" as a Job Title
+## Part II: "Physicist" as a job title
 
 :::: {.columns}
 ::: {.column width="55%"}
@@ -222,7 +222,7 @@ Same core training. Your electives, research, and projects give direction.
 
 ---
 
-## Where Physics Skills Get Hired
+## Where physics skills get hired
 
 | Occupation | Median pay | Entry education | Growth | Openings/yr[^openings] |
 |---|---|---|---|---|
@@ -246,7 +246,7 @@ Median pay as of May 2025; projected growth 2025&ndash;35. [@bls_software; @bls_
 
 ---
 
-## Part III: The Graduate School Path
+## Part III: The graduate school path
 
 One year after the degree, new physics PhDs split roughly evenly between **postdocs** and **potentially permanent** positions.
 
@@ -292,7 +292,7 @@ Classes of 2020&ndash;21 and 2021&ndash;22; U.S.-educated PhDs who remained in t
 
 ---
 
-## Where Do New Physics PhDs Work?
+## Where do new physics PhDs work?
 
 :::: {.columns}
 ::: {.column width="50%"}
@@ -323,7 +323,7 @@ Classes of 2020&ndash;21 and 2021&ndash;22 &middot; [@aip_phd2024]
 
 ---
 
-## Is the PhD "Worth It"?
+## Is the PhD "worth it"?
 
 :::: {.columns}
 ::: {.column width="60%"}
@@ -358,7 +358,7 @@ Classes of 2020&ndash;21 and 2021&ndash;22 &middot; [@aip_phd2024]
 
 ---
 
-## Part IV: How Industry Careers Progress
+## Part IV: How industry careers progress
 
 A physics bachelor usually starts in an **entry-level or junior** position and advances with experience. At the senior level, the path often splits in two:
 
@@ -384,7 +384,7 @@ A physics bachelor usually starts in an **entry-level or junior** position and a
 
 ---
 
-## Job Boards
+## Job boards
 
 :::: {.columns}
 ::: {.column width="50%"}

@@ -30,7 +30,7 @@ format:
 
 ---
 
-## Meanwhile, on Thursday Night
+## Meanwhile, on Thursday night
 
 :::: {.columns}
 ::: {.column width="44%"}
@@ -80,7 +80,7 @@ A little prep beforehand is what makes it worth attending.
 
 ---
 
-## Your Elevator Pitch
+## Your elevator pitch
 
 A recruiter conversation has two parts; don't front-load everything into a monologue (you're not Hamlet).
 
@@ -93,7 +93,7 @@ Write **bullet points**, not a script. Practice saying it out loud until it soun
 
 ---
 
-## Career Fair Etiquette
+## Career fair etiquette
 
 - **Dress for the most formal employer in the room.** If in doubt, business professional. GT's [Campus Closet](https://career.gatech.edu/campus-closet/) lends professional attire for free.
 - **Arrive early.** Recruiters talk to hundreds of students; you'll get a better conversation at 10 AM than at 3:45 PM.
@@ -103,7 +103,7 @@ Write **bullet points**, not a script. Practice saying it out loud until it soun
 
 ---
 
-## After the Fair
+## After the fair
 
 - **Note names, titles, and any contact info** from every conversation. Even without an email, a name and title is enough to find someone on LinkedIn.
 - **Send a short thank-you within 24&ndash;48 hours.** Reference something specific you discussed; keep it brief.
