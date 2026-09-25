@@ -11,4 +11,5 @@ subtitle: "PHYS 4604: Professional Development"
 | 2 | Sept. 4 | Resume Peer Review Workshop | [Open slides](lecture-02.qmd){target="_blank"} |
 | 3 | Sept. 11 | Career Paths with a Physics Degree | [Open slides](lecture-03.qmd){target="_blank"} |
 | 4 | Sept. 18 | Professional networking and online presence; guest speaker | &ndash; |
-| 5 | Sept. 25 | NSF GRFP Overview; guest speaker | &ndash; |
+| 5 | Sept. 25 | NSF GRFP Overview; guest speaker | [Open slides](lecture-05.qmd){target="_blank"} |
+| 6 | Oct. 2 | Research Proposals and GRFP-Style Writing | [Open slides](lecture-06.qmd){target="_blank"} |

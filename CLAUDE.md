@@ -1,6 +1,6 @@
 # Course Conventions
 
-Quarto website for a Georgia Tech physics course, instructor Andrew J. Steinmetz. Two sibling repos share one scaffold and one set of conventions: `gt-gt-1000` (GT 1000, First-Year Seminar) and `gt-phys-4604` (PHYS 4604, Professional Development). The shared conventions below are identical in both repos' `CLAUDE.md`; keep them in sync when either changes.
+Quarto website for a Georgia Tech course, instructor Andrew J. Steinmetz. All GT course repos share one scaffold and one set of conventions, and are named `gt-<school>-<course-number>`: `gt-gt-1000` (GT 1000, First-Year Seminar), `gt-phys-4321` (PHYS 4321/4322, Advanced Laboratory I/II), and `gt-phys-4604` (PHYS 4604, Professional Development). The shared conventions below are identical in every course repo's `CLAUDE.md`; keep them in sync when any one changes.
 
 ## Working in this repo
 
@@ -8,7 +8,7 @@ Quarto website for a Georgia Tech physics course, instructor Andrew J. Steinmetz
 - Preview with `quarto preview` (`.claude/launch.json` defines `quarto-preview` on port 4321 where present). Render a single file with `quarto render path/to/file.qmd`.
 - `freeze: auto` is on. Rendered output of Python cells is committed under `_freeze/`, so a render normally needs no Python. Editing a file with Python cells re-executes them (needs matplotlib and numpy).
 - Publishing is `quarto publish gh-pages`. Never edit the `gh-pages` branch, `_site/`, or `_freeze/` by hand.
-- Semester rollover: tag the repo (e.g. `fall-2026`), then update semester, CRN, meeting time, and dates in `index.qmd`, `course-files/syllabus.qmd`, and the LaTeX syllabus.
+- Semester rollover: tag the repo (e.g. `fall-2026`), then update semester, CRN, meeting time, and dates in the root `index.qmd`, `course-files/syllabus.qmd`, and the LaTeX syllabus.
 
 ## Characters and punctuation (ASCII-only source)
 
@@ -39,12 +39,12 @@ All `.qmd`, `.md`, and `.yml` source is ASCII-only. Write special characters as 
 - Grades: `10% of course grade`, points as plain numbers. Percent weights and points in pages must match the syllabus.
 - Submission filenames are given in code formatting: `` `Lastname-Firstname-Resume.pdf` ``, `` `Team-Name-Contract.pdf` ``. Work is submitted to Canvas as PDF.
 - Unfinished content: `TBD` in rendered text plus an HTML comment `<!-- TODO: ... -->` in the source explaining what is missing.
-- Keep facts consistent everywhere they appear. When a date moves, update the schedule in `index.qmd`, the assignment page (subtitle and body), the category/overview table, any lecture "Due dates" slide, and lecture speaker notes; then grep for the old date.
+- Keep facts consistent everywhere they appear. When a date moves, update the schedule in the root `index.qmd`, the assignment page (subtitle and body), the category/overview table, any lecture "Due dates" slide, and lecture speaker notes; then grep for the old date.
 
 ## Page structure (website pages)
 
 - Front matter is `title` + `subtitle` only.
-  - Course pages (index, syllabus, supplemental, lecture index): `subtitle: "<COURSE>: <Course Name>"`.
+  - Course pages (root `index.qmd`, syllabus, supplemental, `lectures/index.qmd`): `subtitle: "<COURSE>: <Course Name>"`.
   - Assignment pages: `subtitle: "Due: <Month D> by 11:59 PM ET &middot; <N>% of course grade"`.
 - Headings: `##` Title Case for page sections (numbered automatically by `number-sections: true`). Do not use `#` in the body.
 - Assignment page section order: **Purpose**, then any assignment-specific sections, **What to Submit**, **Expectations**, **Submission Checklist**, **Helpful Resources** (the last two may be swapped, but keep them at the end).
@@ -52,6 +52,7 @@ All `.qmd`, `.md`, and `.yml` source is ASCII-only. Write special characters as 
 - Callouts: `{.callout-note}` for info, `{.callout-tip}` for advice, `{.callout-important}` for rules and deadlines, `{.callout-warning}` sparingly. Two-column layouts use `:::: {.columns}` with `::: {.column width="50%"}`.
 - Links between pages are relative paths to the `.qmd` source (`../supplemental/resume-cv.qmd`), never to `.html`.
 - Citations use keys from `references.bib` (`[@key]`); the bibliography is project-wide.
+- Each directory's `index.qmd` is that directory's landing page. Always qualify which one you mean: the root `index.qmd`, `lectures/index.qmd`, `labs/index.qmd`.
 - New pages must be added to the navbar in `_quarto.yml` (and lectures to `lectures/index.qmd`).
 
 ## Lecture slides (RevealJS)
@@ -90,20 +91,20 @@ All `.qmd`, `.md`, and `.yml` source is ASCII-only. Write special characters as 
 
 ## Styling
 
-- Site theme `gatech-theme.css` and slide theme `lectures/gatech-revealjs.css` are **identical in both repos**. Change them in both.
+- Site theme `gatech-theme.css` and slide theme `lectures/gatech-revealjs.css` are **identical in every course repo**. Change them everywhere.
 - Colors come from the CSS variables (Georgia Tech navy `#003057`, gold `#B3A369`, bright gold `#EAAA00`, cream `#f9f6e5`). Prefer an existing class over inline `style=`; keep inline styles to small font-size or alignment tweaks.
 
 ## Directory structure
 
 ```
-index.qmd                 Welcome page; its Course Schedule is the live, authoritative schedule
+index.qmd                 Welcome page at the site root; its Course Schedule is the live, authoritative schedule
 _quarto.yml               Site config and navbar
-gatech-theme.css          Site theme (shared across both repos)
+gatech-theme.css          Site theme (shared across all course repos)
 references.bib            Project-wide bibliography
 course-files/             Syllabus (.qmd) and LaTeX sources (*-latex/ folders: printable syllabus, worksheets)
 assignments/              Assignment pages
 supplemental/             Reference guides (resume-cv, technical-writing, peer-feedback)
-lectures/                 index.qmd, lecture-NN.qmd, gatech-revealjs.css, figs/
+lectures/                 index.qmd (the lecture table, a separate page from the root one), lecture-NN.qmd, gatech-revealjs.css, figs/
 _site/, _freeze/, .quarto/  Build output (not edited by hand)
 ```
 

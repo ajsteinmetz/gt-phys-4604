@@ -1,0 +1,160 @@
+---
+title: "Research Proposals and GRFP-Style Writing"
+subtitle: "PHYS 4604 &middot; Lecture 6"
+author: "Andrew J. Steinmetz"
+date: "October 2, 2026"
+format:
+  revealjs:
+    theme: [default, gatech-revealjs.css]
+    slide-number: c/t
+    transition: none
+    footer: "PHYS 4604 &middot; Fall 2026 &middot; Georgia Institute of Technology"
+    width: 1200
+    height: 750
+    auto-stretch: false
+---
+
+## Upcoming
+
+| What | When | Points |
+|---|---|---|
+| [Research proposal, GRFP style](../assignments/research-proposal.qmd) | Oct. 9, 11:59 PM ET | 15% |
+| **NSF GRFP reference letters** | Oct. 16, 8:00 PM ET | &ndash; |
+| **NSF GRFP deadline** &ndash; Physics & Astronomy | Oct. 23, 8:00 PM ET | &ndash; |
+
+::: {.highlight-box}
+**The goal of today's lecture:** turn the [research proposal](../assignments/research-proposal.qmd) due Oct. 9 from a topic you like into two pages a reviewer can score.
+:::
+
+---
+
+## The two review criteria
+
+Every reviewer scores you on exactly two things. Both documents are read against both criteria.
+
+:::: {.columns}
+::: {.column width="50%"}
+### Intellectual Merit
+
+Potential to **advance knowledge**.
+
+- Is the question worth asking?
+- Is the approach sound and feasible?
+:::
+::: {.column width="50%"}
+### Broader Impacts
+
+Potential to **benefit society**.
+
+- Outreach, teaching, mentoring
+- Broadening participation in STEM
+- Applications beyond your subfield
+:::
+::::
+
+::: {.highlight-box}
+**Broader Impacts is where most physics applications fail.** It is not a paragraph you append at the end. Write it into both documents.
+:::
+
+::: {.cite-note}
+[@nsf_grfp_solicitation]
+:::
+
+---
+
+## Part I: What two pages have to do {.section-slide background-color="#003057"}
+
+---
+
+## A proposal is not a summary of a field
+
+TBD
+
+<!-- TODO: The core contrast - a literature review tells the reader what is known; a proposal names one open question and commits to attacking it. Two or three sentences plus a before/after example of a vague topic vs. a specific question. -->
+
+---
+
+## The structure that fits in two pages
+
+| Section | What it does |
+|---|---|
+| **Title** | Names the question, not the subfield |
+| **Motivation / Background** | Why this problem, why now |
+| **Research Question or Objective** | The one thing you commit to |
+| **Approach / Methods** | How you would actually do it |
+| **Intellectual Merit** | Required heading |
+| **Broader Impacts** | Required heading |
+| **References** | Do not count against the two pages |
+
+: {tbl-colwidths="[38,62]"}
+
+::: {.highlight-box}
+The **Intellectual Merit** and **Broader Impacts** headings are required by NSF. Use them literally.
+:::
+
+::: {.cite-note}
+[@nsf_grfp_solicitation]
+:::
+
+---
+
+## Where your two pages go
+
+TBD
+
+<!-- TODO: Rough page budget - how much space motivation vs. question vs. methods vs. the two criteria sections should get. Consider a two-column layout: budget on the left, the "if you run out of room, cut this first" rule on the right. -->
+
+---
+
+## Part II: Writing the two criteria {.section-slide background-color="#003057"}
+
+---
+
+## Writing Intellectual Merit
+
+TBD
+
+<!-- TODO: What a reviewer is looking for - an identified gap, a sound approach, a feasible scope for an early graduate student, and a clear statement of what success would teach the field. Pull the bullet list from assignments/research-proposal.qmd and tighten it to four items. -->
+
+---
+
+## Writing Broader Impacts
+
+TBD
+
+<!-- TODO: The part physics applications lose points on. Make the point that outreach you have actually done beats outreach you promise. Draw examples from the list in assignments/research-proposal.qmd: outreach, open tools and data, mentoring, applications to energy/health/infrastructure. -->
+
+---
+
+## Common failure modes
+
+TBD
+
+<!-- TODO: Four or five, each one line - topic instead of question; methods that could not fit in a PhD; Broader Impacts bolted on at the end; no references; jargon that only your research group would follow. -->
+
+---
+
+## Part III: Producing the document {.section-slide background-color="#003057"}
+
+---
+
+## LaTeX and formatting
+
+TBD
+
+<!-- TODO: The assignment requires LaTeX. Cover the formatting NSF actually enforces (margins, font size, page limit) and point at the Overleaf "Learn LaTeX in 30 minutes" link. Decide whether to provide a starter .tex template in course-files/. -->
+
+---
+
+## Before you leave today
+
+TBD
+
+<!-- TODO: The in-class activity. Likely: write your research question in one sentence and trade it with a neighbor, who has to say back what would be measured or calculated. Ties into the Oct. 9 workshop. -->
+
+---
+
+## References {.scrollable}
+
+::: {#refs style="font-size: 0.7em;"}
+:::

@@ -106,12 +106,11 @@ Solicitation NSF 26-526, published August 25, 2026 &middot; [@nsf_grfp_solicitat
 |---|---|
 | 2025 | 1,000, then 500 more added later |
 | 2026 | ~2,500 offers &ndash; an all-time high |
-| **2027 (this one)** | **1,500 anticipated** |
+| **2027** | **1,500 anticipated** |
 
-Last spring's competition drew **nearly 14,000 applicants** for those ~2,500 offers.
 :::
 ::: {.column width="48%"}
-The drop tracks the FY 2027 presidential budget request. Final numbers still depend on congressional appropriations.
+Last spring's drew **nearly 14,000 applicants** for those ~2,500 offers. Final numbers still depend on congressional appropriations.
 
 ::: {.highlight-box}
 Award counts have swung by a factor of two in three years. **Do not calibrate on last year's rate.**
@@ -120,11 +119,30 @@ Award counts have swung by a factor of two in three years. **Do not calibrate on
 ::::
 
 ::: {.highlight-box}
-Apply anyway: it is the same writing you need for graduate school. An honorable mention is a line on your CV, and the research plan becomes your statement of purpose.
+Apply anyway: it is the same writing you need for graduate school, and the research plan becomes your statement of purpose.
 :::
 
 ::: {.cite-note}
 Applicant and 2026 offer counts: [@nsf_grfp_2026awards]. Award history and FY 2027 outlook: [@aip_grfp_fyi2026]. Anticipated 1,500 awards: [@nsf_grfp_solicitation].
+:::
+
+---
+
+## A decade of awards and honorable mentions
+
+:::: {.columns}
+::: {.column width="68%"}
+![](figs/fig4_aip-grfp-history.jpg){fig-align="center" width="100%" fig-alt="Line chart of NSF GRFP awards and honorable mentions, 2017 to 2026. Awards hold near 2,050 from 2017 to 2021, rise to about 2,550 in 2023, fall to roughly 1,500 in 2025, and rebound to about 2,600 in 2026. Honorable mentions move opposite, dropping to about 825 in 2023, peaking near 2,650 in 2025, and falling to about 1,450 in 2026."}
+:::
+::: {.column width="32%"}
+::: {.highlight-box}
+Honorable mentions are unfunded, but recognized as high-quality proposals worthy of putting on your CV.
+:::
+:::
+::::
+
+::: {.cite-note}
+Figure from [@aip_grfp_fyi2026]
 :::
 
 ---
@@ -135,11 +153,10 @@ You are likely eligible if you are a **senior applying to start graduate school 
 
 - U.S. citizen, national, or permanent resident at the time of submission
 - Intending to enroll full-time in a **research-based (thesis) master's or doctoral** program in an NSF-supported field
-- Have **never accepted** an NSF Graduate Research Fellowship
-- Have completed **less than one academic year** in a graduate degree program
+- Have completed **less than one academic year** in a graduate program
 
 ::: {.highlight-box}
-**Seniors have no limit on applications** before enrolling in a graduate program. Once you are a graduate student, you may apply **only once** &ndash; and second-year graduate students are not eligible at all. Applying now does not use up that attempt.
+Once you are a graduate student, you may apply **only once** &ndash; and second-year graduate students are not eligible at all. Applying now does not use up that attempt.
 :::
 
 ::: {.cite-note}
@@ -148,17 +165,13 @@ You are likely eligible if you are a **senior applying to start graduate school 
 
 ---
 
-## Part II: The application {.section-slide background-color="#003057"}
-
----
-
-## What you actually submit
+## Part II: What you actually submit
 
 | Component | Length | What it is |
 |---|---|---|
-| **Personal, Relevant Background and Future Goals** | 3 pages | Who you are, how you got here, where you're going |
+| **Personal, Relevant Background and Future Goals** | 2-3 pages | Who you are, how you got here, where you're going |
 | **Graduate Research Plan** | 2 pages | A specific research question and how you'd attack it |
-| **Reference letters** | 3 letters | Due **Oct. 16**, one week before your deadline |
+| **Reference letters** | 3 letters | Due **Oct. 16, 8:00 PM ET**, one week before your deadline |
 | Transcripts | &ndash; | From every institution attended |
 
 : {tbl-colwidths="[38,14,48]"}
@@ -175,23 +188,22 @@ The [research proposal](../assignments/research-proposal.qmd) due **Oct. 9** is 
 
 ## Letters are your top priority right now
 
-Everything else on the application is under your control. **The letters are not.**
+Everything else is under your control. **The letters are not.**
 
 :::: {.columns}
 ::: {.column width="50%"}
-- Letters are due **Oct. 16, 8:00 PM ET** &ndash; a hard NSF deadline, one week *before* yours
-- That is **three weeks from today**
+- Letters are due **Oct. 16, 8:00 PM ET** one week *before* your app.
 - Faculty write many of these every fall, and they all come due the same week
 :::
 ::: {.column width="50%"}
 - You must name **three** writers
 - You may designate **up to five**
-- NSF uses the **top three of your preference** that arrive
+- NSF uses the top three of your preference that arrive
 :::
 ::::
 
 ::: {.highlight-box}
-**Ask five people, not three.** A writer who goes silent in mid-October cannot be replaced at that point. Designating extras is free insurance and NSF is built to allow it.
+Start asking your letter-writers **now**. Do not delay.
 :::
 
 ::: {.cite-note}
@@ -200,100 +212,29 @@ Everything else on the application is under your control. **The letters are not.
 
 ---
 
-## How to ask &ndash; this week
+## How to ask &ndash; this upcoming week
 
 :::: {.columns}
 ::: {.column width="46%"}
 **The ask itself**
 
-> "Are you able to write me a **strong** letter of recommendation for the NSF GRFP? Letters are due October 16."
+> Are you able to write me a strong letter of rec. for the NSF GRFP? Letters are due Oct. 16.
 
-Give them room to say no. A lukewarm letter is worse than a different writer.
+Give them room to say no; don't take it personally if they decline.
 :::
 ::: {.column width="54%"}
 **Send a packet with the ask**
 
 - Your resume or CV
-- Your draft research plan and personal statement
-- The deadline and the NSF submission link
-- **Specifically** what you did with them: course, project, semester, result
+- Your draft research plan (even if simple) and personal statement
+- *Specifically* what you did with them: course, project, semester, result
+
+:::
+::::
+
+Due to time, an incomplete "packet" is better than nothing.
 
 Then send one reminder a week out, and thank them afterward.
-:::
-::::
-
-::: {.highlight-box}
-The professor you email this weekend about their research is a person who could write a letter next year. **That is how the aside at the start of class connects to this.**
-:::
-
----
-
-## The two review criteria
-
-Every reviewer scores you on exactly two things. Both documents are read against both criteria.
-
-:::: {.columns}
-::: {.column width="50%"}
-### Intellectual Merit
-
-The potential to **advance knowledge**.
-
-- Is the question worth asking?
-- Is the approach sound and feasible?
-- Do you have the preparation to do it?
-:::
-::: {.column width="50%"}
-### Broader Impacts
-
-The potential to **benefit society**.
-
-- Outreach, teaching, mentoring
-- Broadening participation in STEM
-- Applications beyond your subfield
-:::
-::::
-
-::: {.highlight-box}
-**Broader Impacts is where most physics applications lose.** It is not a paragraph you append at the end &ndash; write it into both documents, with specific activities you have actually done or will do.
-:::
-
-::: {.cite-note}
-[@nsf_grfp_solicitation]
-:::
-
----
-
-## Your deadlines
-
-| What | When |
-|---|---|
-| [Research proposal](../assignments/research-proposal.qmd) &ndash; GRFP research plan | Oct. 9, 11:59 PM ET |
-| **Reference letters** submitted by your writers | Oct. 16, 8:00 PM ET |
-| **Application &ndash; Physics & Astronomy** | Oct. 23, 8:00 PM ET |
-
-::: {.highlight-box}
-All NSF times are **8:00 p.m. ET**, not 11:59. The portal closes on schedule and there is no late submission.
-:::
-
-::: {.cite-note}
-Deadlines are 8:00 p.m. ET as specified in the solicitation &middot; [@nsf_grfp_solicitation]
-:::
-
----
-
-## Before you leave today
-
-::: {.highlight-box}
-**Pick one person.** Not a category &ndash; a person, with a name.
-:::
-
-1. Identify a faculty member whose research you could write a GRFP plan around.
-2. Write down the one specific paper or project of theirs you have actually read.
-3. Email them this weekend asking for 20 minutes.
-
-One of your classmates did exactly that last week and had a position by the end of the meeting.
-
-- [Online professional presence](../assignments/online-profile.qmd) is due **tonight at 11:59 PM ET**.
 
 ---
 
