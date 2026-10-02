@@ -1,0 +1,77 @@
+% PHYS 4604 Research Proposal Template
+% Modeled on the NSF GRFP Graduate Research Plan Statement.
+%
+% NSF formatting rules (checked October 2, 2026; see
+% https://www.nsf.gov/funding/initiatives/grfp/how-to-apply):
+%   - 2 pages maximum, INCLUDING references and figures
+%   - 8.5 x 11 in. paper, PDF only
+%   - 1 in. margins with nothing in them (no header, footer, name, or page number)
+%   - Computer Modern or Times New Roman, 11 pt or larger
+%   - At least single spacing
+%   - Separate "Intellectual Merit" and "Broader Impacts" headings
+%
+% Do not shrink \linespread, use negative \vspace, or drop below 11 pt to fit.
+% Cut words instead.
+
+\documentclass[11pt,letterpaper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[compact]{titlesec}
+\usepackage[hidelinks]{hyperref}
+
+\titleformat*{\section}{\normalsize\bfseries}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+
+\pagestyle{empty} % NSF: no page numbers or other text in the margins
+
+\begin{document}
+
+\begin{center}
+{\large\bfseries Your Title Names the Question, Not the Subfield}
+\end{center}
+
+\section*{Motivation and Background}
+Why this problem, and why now? Start with why it matters, in words a physicist
+outside your subfield would follow. Then name the specific gap in what is known,
+and cite the work that shows it is a gap~\cite{example2024}. Keep this to about
+half a page; it is the first thing to cut if you run long.
+
+\section*{Research Question}
+\textbf{State your research question in one or two sentences, in bold, so a
+reviewer can find it in seconds.} Say what you would measure, calculate, or
+build, and what each possible answer would mean.
+
+\section*{Approach and Methods}
+How would you actually do it? Name the data, instrument, model, or calculation.
+Explain why this method can answer the question before explaining how it works.
+Show the scope is feasible for an early graduate student with a mentor. This
+section gets the most space, about three quarters of a page.
+
+% Optional: one figure, only if it replaces a paragraph.
+% \begin{figure}[h]
+%   \centering
+%   \includegraphics[width=0.6\textwidth]{figure.pdf}
+%   \caption{\small One sentence on what the reader should see.}
+% \end{figure}
+
+\section*{Intellectual Merit}
+What will the field learn if this works, and if it does not? Connect the result
+back to the gap you named above.
+
+\section*{Broader Impacts}
+Who benefits beyond your subfield, how many, and how would you know it worked?
+Build on outreach, teaching, mentoring, or open tools you have already done,
+rather than promising something new.
+
+{\small
+\begin{thebibliography}{9}
+\setlength{\itemsep}{0pt}
+\bibitem{example2024}
+A.~Author and B.~Author, ``Title of the paper,''
+\textit{Phys.\ Rev.\ Lett.} \textbf{132}, 000000 (2024).
+\end{thebibliography}
+}
+
+\end{document}

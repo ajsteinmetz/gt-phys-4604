@@ -186,7 +186,7 @@
     "href": "lectures/lecture-05.html#part-ii-what-you-actually-submit",
     "title": "NSF GRFP Overview",
     "section": "Part II: What you actually submit",
-    "text": "Part II: What you actually submit\n\n\n\n\n\n\n\n\nComponent\nLength\nWhat it is\n\n\n\n\nPersonal, Relevant Background and Future Goals\n2-3 pages\nWho you are, how you got here, where you’re going\n\n\nGraduate Research Plan\n2 pages\nA specific research question and how you’d attack it\n\n\nReference letters\n3 letters\nDue Oct. 16, 8:00 PM ET, one week before your deadline\n\n\nTranscripts\n–\nFrom every institution attended\n\n\n\n\nThe research proposal due Oct. 9 is the Graduate Research Plan. If you are applying this year, write the real one.\n\n\n(U.S. National Science Foundation 2026b)"
+    "text": "Part II: What you actually submit\n\n\n\n\n\n\n\n\nComponent\nLength\nWhat it is\n\n\n\n\nPersonal, Relevant Background and Future Goals\n3 pages max\nWho you are, how you got here, where you’re going\n\n\nGraduate Research Plan\n2 pages\nA specific research question and how you’d attack it\n\n\nReference letters\n3 letters\nDue Oct. 16, 8:00 PM ET, one week before your deadline\n\n\nTranscripts\n–\nFrom every institution attended\n\n\n\n\nThe research proposal due Oct. 9 is the Graduate Research Plan. If you are applying this year, write the real one.\n\n\n(U.S. National Science Foundation 2026b)"
   },
   {
     "objectID": "lectures/lecture-05.html#letters-are-your-top-priority-right-now",
@@ -494,7 +494,7 @@
     "href": "assignments/research-proposal.html#what-to-submit",
     "title": "Assignment 3 · Research Proposal",
     "section": "3 What to Submit",
-    "text": "3 What to Submit\nUpload to Canvas the following:\n\nYour completed two-page research proposal with references as a PDF formatted in LaTeX.\nAn AI Usage Statement, if generative AI was used during the drafting, revision, or formatting of the proposal."
+    "text": "3 What to Submit\nUpload to Canvas the following:\n\nYour completed research proposal as a PDF formatted in LaTeX, following the NSF formatting rules: two pages maximum including references, 1-inch margins with nothing in them (no page numbers), and 11 pt or larger Computer Modern or Times New Roman. The starter template already follows these rules.\nAn AI Usage Statement, if generative AI was used during the drafting, revision, or formatting of the proposal."
   },
   {
     "objectID": "assignments/research-proposal.html#proposal-structure",
@@ -529,14 +529,14 @@
     "href": "assignments/research-proposal.html#helpful-resources",
     "title": "Assignment 3 · Research Proposal",
     "section": "8 Helpful Resources",
-    "text": "8 Helpful Resources\n\nNSF Graduate Research Fellowship Program\nNSF GRFP Statement Requirements\nNSF GRFP Funding Opportunity Page\nLearn LaTeX in 30 minutes"
+    "text": "8 Helpful Resources\n\nNSF Graduate Research Fellowship Program\nNSF GRFP Statement Requirements\nNSF GRFP Funding Opportunity Page\nNSF GRFP Help: winning essays and curated advice\nAlex Lang: NSF Fellowship: a detailed guide and a table of successful essays\nClaire McKay Bowen: Advice on Applying for the NSF GRFP\nRachel White: Complete Guide to Graduate School Applications: a physics applicant’s GRFP statements and timeline\nMIT CommKit: NSF GRFP Research Proposal: annotated winning examples\nResearch proposal LaTeX template\nLearn LaTeX in 30 minutes"
   },
   {
     "objectID": "assignments/research-proposal.html#submission-checklist",
     "href": "assignments/research-proposal.html#submission-checklist",
     "title": "Assignment 3 · Research Proposal",
     "section": "9 Submission Checklist",
-    "text": "9 Submission Checklist\n\nI wrote a two-page research proposal with references.\nI included explicit attention to Intellectual Merit.\nI included explicit attention to Broader Impacts.\nI edited the proposal for clarity, professionalism, and near-submission quality.\nI included an AI Usage Statement, if needed."
+    "text": "9 Submission Checklist\n\nI wrote a research proposal of two pages or less, including references.\nI followed the NSF formatting rules: 1-inch margins, no page numbers, and 11 pt or larger font.\nI included explicit attention to Intellectual Merit.\nI included explicit attention to Broader Impacts.\nI edited the proposal for clarity, professionalism, and near-submission quality.\nI included an AI Usage Statement, if needed."
   },
   {
     "objectID": "assignments/online-profile.html",
@@ -1054,91 +1054,133 @@
     "href": "lectures/lecture-06.html#the-two-review-criteria",
     "title": "Research Proposals and GRFP-Style Writing",
     "section": "The two review criteria",
-    "text": "The two review criteria\nEvery reviewer scores you on exactly two things. Both documents are read against both criteria.\n\n\nIntellectual Merit\nPotential to advance knowledge.\n\nIs the question worth asking?\nIs the approach sound and feasible?\n\n\nBroader Impacts\nPotential to benefit society.\n\nOutreach, teaching, mentoring\nBroadening participation in STEM\nApplications beyond your subfield\n\n\n\nBroader Impacts is where most physics applications fail. It is not a paragraph you append at the end. Write it into both documents.\n\n\n(U.S. National Science Foundation 2026)"
-  },
-  {
-    "objectID": "lectures/lecture-06.html#part-i-what-two-pages-have-to-do",
-    "href": "lectures/lecture-06.html#part-i-what-two-pages-have-to-do",
-    "title": "Research Proposals and GRFP-Style Writing",
-    "section": "Part I: What two pages have to do",
-    "text": "Part I: What two pages have to do"
+    "text": "The two review criteria\nEvery reviewer scores you on exactly two things.\n\n\nIntellectual Merit\nPotential to advance knowledge.\n\nIs the question worth asking?\nIs the approach sound and feasible?\n\n\nBroader Impacts\nPotential to benefit society.\n\nOutreach, teaching, mentoring\nBroadening participation in STEM\nApplications beyond your subfield\n\n\n\nBroader Impacts is where most physics applications fail. It is not a paragraph you append at the end. Write it into both documents.\n\n\n(U.S. National Science Foundation 2026b)"
   },
   {
     "objectID": "lectures/lecture-06.html#a-proposal-is-not-a-summary-of-a-field",
     "href": "lectures/lecture-06.html#a-proposal-is-not-a-summary-of-a-field",
     "title": "Research Proposals and GRFP-Style Writing",
     "section": "A proposal is not a summary of a field",
-    "text": "A proposal is not a summary of a field\nTBD"
+    "text": "A proposal is not a summary of a field\nA literature review tells the reader what is known. A proposal names one open question and commits to attacking it.\n\n\nA topic\n\nI want to study dark matter using galaxy rotation curves.\n\nWhat would you actually doon a workday?\n\nA question\n\nCan archival rotation curves tell a cored halo from a cuspy one?\n\nNames the data, the sample, and the measurement.\n\n\nCan’t say what you’d measure/calculate? Then it’s a topic, not a question."
   },
   {
     "objectID": "lectures/lecture-06.html#the-structure-that-fits-in-two-pages",
     "href": "lectures/lecture-06.html#the-structure-that-fits-in-two-pages",
     "title": "Research Proposals and GRFP-Style Writing",
     "section": "The structure that fits in two pages",
-    "text": "The structure that fits in two pages\n\n\n\n\n\n\n\nSection\nWhat it does\n\n\n\n\nTitle\nNames the question, not the subfield\n\n\nMotivation / Background\nWhy this problem, why now\n\n\nResearch Question or Objective\nThe one thing you commit to\n\n\nApproach / Methods\nHow you would actually do it\n\n\nIntellectual Merit\nRequired heading\n\n\nBroader Impacts\nRequired heading\n\n\nReferences\nDo not count against the two pages\n\n\n\n\nThe Intellectual Merit and Broader Impacts headings are required by NSF. Use them literally.\n\n\n(U.S. National Science Foundation 2026)"
+    "text": "The structure that fits in two pages\n\n\n\n\n\n\n\n\nSection\nWhat it does\n\n\n\n\nTitle\nNames the question, not the subfield\n\n\nMotivation / Background\nWhy this problem, why now\n\n\nResearch Question or Objective\nThe one thing you commit to\n\n\nApproach / Methods\nHow you would actually do it\n\n\nIntellectual Merit\nRequired heading\n\n\nBroader Impacts\nRequired heading\n\n\nReferences\nCount against the two pages\n\n\n\n\n\nUse the exact headings Intellectual Merit and Broader Impacts, kept separate, in both statements.\n\n\n(U.S. National Science Foundation 2026a, 2026b)"
   },
   {
     "objectID": "lectures/lecture-06.html#where-your-two-pages-go",
     "href": "lectures/lecture-06.html#where-your-two-pages-go",
     "title": "Research Proposals and GRFP-Style Writing",
     "section": "Where your two pages go",
-    "text": "Where your two pages go\nTBD"
-  },
-  {
-    "objectID": "lectures/lecture-06.html#part-ii-writing-the-two-criteria",
-    "href": "lectures/lecture-06.html#part-ii-writing-the-two-criteria",
-    "title": "Research Proposals and GRFP-Style Writing",
-    "section": "Part II: Writing the two criteria",
-    "text": "Part II: Writing the two criteria"
+    "text": "Where your two pages go\n\n\n\n\n\nSection\nRough budget\n\n\n\n\nTitle and Motivation\n~1/2 page\n\n\nResearch Question\n2–3 sentences\n\n\nApproach / Methods\n~3/4 page\n\n\nIntellectual Merit\n~1/4 page\n\n\nBroader Impacts\n~1/4 page\n\n\nReferences\n~1/4 page\n\n\n\n\nOver two pages? Cut in this order:\n\nBackground the reviewer already knows\nReferences that only pad\nMethod details beyond what shows feasibility\n\n\n\nMy rule of thumb: methods get the most space. Never cut the question or Broader Impacts."
   },
   {
     "objectID": "lectures/lecture-06.html#writing-intellectual-merit",
     "href": "lectures/lecture-06.html#writing-intellectual-merit",
     "title": "Research Proposals and GRFP-Style Writing",
     "section": "Writing Intellectual Merit",
-    "text": "Writing Intellectual Merit\nTBD"
+    "text": "Writing Intellectual Merit\nThe reviewer’s question: is this worth doing, and can you do it?\n\nThe gap: what is not known, and a citation showing it is not\nThe approach: why your method can close that gap\nThe scope: feasible for an early graduate student with a mentor\nThe payoff: what the field learns if it works, and if it does not\n\n\nFeasible beats ambitious. A project that can work in three years scores better than a field-changing idea that cannot."
   },
   {
     "objectID": "lectures/lecture-06.html#writing-broader-impacts",
     "href": "lectures/lecture-06.html#writing-broader-impacts",
     "title": "Research Proposals and GRFP-Style Writing",
     "section": "Writing Broader Impacts",
-    "text": "Writing Broader Impacts\nTBD"
+    "text": "Writing Broader Impacts\nDone beats promised. “I will do outreach” is weak. “I have tutored for three years and will extend that to …” is strong.\n\n\nCommon sources in physics\n\nOutreach and public engagement\nOpen software, tools, and data\nMentoring and teaching\nApplications: energy, health, infrastructure\n\n\nMake it concrete\n\nWho benefits?\nHow many, and how often?\nHow would you know it worked?\nWhy are you the one to do it?\n\n\n\nTie it to your research and to what you have already done."
+  },
+  {
+    "objectID": "lectures/lecture-06.html#write-for-a-reviewer-outside-your-subfield",
+    "href": "lectures/lecture-06.html#write-for-a-reviewer-outside-your-subfield",
+    "title": "Research Proposals and GRFP-Style Writing",
+    "section": "Write for a reviewer outside your subfield",
+    "text": "Write for a reviewer outside your subfield\nReviewers know your broad field, not necessarily your subfield. NSF advises: do not be overly technical; explain your rationale.\n\n\nDo\n\nSay why it matters, in plain words\nDefine every acronym\nExplain why before how\n\n\nDon’t\n\nUse your group’s shorthand\nAssume they know the key paper\nSpend lines on derivations\n\n\n\nCould a physicist from another subfield explain your question back to you?\n\n\n(U.S. National Science Foundation 2026a; Broad Research Communication Lab, n.d.)"
+  },
+  {
+    "objectID": "lectures/lecture-06.html#make-the-page-skimmable",
+    "href": "lectures/lecture-06.html#make-the-page-skimmable",
+    "title": "Research Proposals and GRFP-Style Writing",
+    "section": "Make the page skimmable",
+    "text": "Make the page skimmable\nA reviewer reads many applications. Assume the first pass is a skim.\n\nBold the research question so it can be found in seconds\nStart each paragraph with its point; details follow\nShort paragraphs and white space, not a wall of text\nUse the section headings from the structure slide\nOne figure at most, and only if it replaces a paragraph\n\n\nIf a reviewer read only your headings, your bold text, and your first sentences, would they know what you are proposing?\n\nMore in the technical writing guide."
+  },
+  {
+    "objectID": "lectures/lecture-06.html#sentence-level-style",
+    "href": "lectures/lecture-06.html#sentence-level-style",
+    "title": "Research Proposals and GRFP-Style Writing",
+    "section": "Sentence-level style",
+    "text": "Sentence-level style\n\n\n\n\n\n\n\nInstead of\nWrite\n\n\n\n\nIt is hoped that this research could potentially help…\nThis work will test whether…\n\n\nMeasurements will be performed on the samples.\nI will measure the samples’ resistivity from 4 to 300 K.\n\n\nA very novel and extremely important approach\nAn approach that resolves X, which Y cannot\n\n\nA large dataset\n12,000 archival spectra\n\n\n\n\nFirst person, active voice. You are the one doing the work.\nFuture tense for the plan; past tense for what you have already done.\nNumbers and names beat adjectives."
+  },
+  {
+    "objectID": "lectures/lecture-06.html#example-antibiotic-resistance",
+    "href": "lectures/lecture-06.html#example-antibiotic-resistance",
+    "title": "Research Proposals and GRFP-Style Writing",
+    "section": "Example: antibiotic resistance",
+    "text": "Example: antibiotic resistance"
+  },
+  {
+    "objectID": "lectures/lecture-06.html#example-viral-photosensitivity",
+    "href": "lectures/lecture-06.html#example-viral-photosensitivity",
+    "title": "Research Proposals and GRFP-Style Writing",
+    "section": "Example: viral photosensitivity",
+    "text": "Example: viral photosensitivity"
+  },
+  {
+    "objectID": "lectures/lecture-06.html#physics-example-neutrino-mass-with-project-8",
+    "href": "lectures/lecture-06.html#physics-example-neutrino-mass-with-project-8",
+    "title": "Research Proposals and GRFP-Style Writing",
+    "section": "Physics example: neutrino mass with Project 8",
+    "text": "Physics example: neutrino mass with Project 8"
+  },
+  {
+    "objectID": "lectures/lecture-06.html#astrophysics-example-exomoons",
+    "href": "lectures/lecture-06.html#astrophysics-example-exomoons",
+    "title": "Research Proposals and GRFP-Style Writing",
+    "section": "Astrophysics example: exomoons",
+    "text": "Astrophysics example: exomoons"
   },
   {
     "objectID": "lectures/lecture-06.html#common-failure-modes",
     "href": "lectures/lecture-06.html#common-failure-modes",
     "title": "Research Proposals and GRFP-Style Writing",
     "section": "Common failure modes",
-    "text": "Common failure modes\nTBD"
+    "text": "Common failure modes\n\nA topic, not a question. There is nothing for a reviewer to score.\nMethods that could not fit in a PhD. Ambition without feasibility.\nBroader Impacts bolted on at the end. One generic paragraph.\nNo references, or references that only pad.\nJargon that only your research group would follow.\nTwo statements that do not connect. NSF advises a consistent theme across both.\n\n\nEach of these is fixable.\n\n\n(U.S. National Science Foundation 2026a)"
   },
   {
-    "objectID": "lectures/lecture-06.html#part-iii-producing-the-document",
-    "href": "lectures/lecture-06.html#part-iii-producing-the-document",
+    "objectID": "lectures/lecture-06.html#what-nsf-enforces",
+    "href": "lectures/lecture-06.html#what-nsf-enforces",
     "title": "Research Proposals and GRFP-Style Writing",
-    "section": "Part III: Producing the document",
-    "text": "Part III: Producing the document"
+    "section": "What NSF enforces",
+    "text": "What NSF enforces\n\n\n\n\n\n\n\n\nRule\nRequirement\n\n\n\n\nLength\n2 pages, including references and figures\n\n\nPage\n8.5 × 11 in., PDF only\n\n\nMargins\n1 in. on all sides, with nothing in them: no header, footer, name, or page number\n\n\nFont\nTimes New Roman or Computer Modern, ≥ 11 pt; Arial, Courier New, or Palatino Linotype, ≥ 10 pt\n\n\nSpacing\nAt least single-spaced (about 6 lines per inch)\n\n\nExceptions\nSmaller text only in equations, figures, tables, and captions\n\n\nHeadings\nIntellectual Merit and Broader Impacts, separate\n\n\n\n\n\nLaTeX puts a page number in the bottom margin by default. That breaks the margin rule. Turn it off.\n\n\n(U.S. National Science Foundation 2026a, 2026b)"
   },
   {
-    "objectID": "lectures/lecture-06.html#latex-and-formatting",
-    "href": "lectures/lecture-06.html#latex-and-formatting",
+    "objectID": "lectures/lecture-06.html#setting-it-up-in-latex",
+    "href": "lectures/lecture-06.html#setting-it-up-in-latex",
     "title": "Research Proposals and GRFP-Style Writing",
-    "section": "LaTeX and formatting",
-    "text": "LaTeX and formatting\nTBD"
+    "section": "Setting it up in LaTeX",
+    "text": "Setting it up in LaTeX\n\n\n\\documentclass[11pt,letterpaper]{article}\n\\usepackage[margin=1in]{geometry}\n\\pagestyle{empty}  % no page numbers\n\n\\begin{document}\n...\n\\section*{Intellectual Merit}\n...\n\\section*{Broader Impacts}\n...\n{\\small\n\\begin{thebibliography}{9}\n...\n\\end{thebibliography}}\n\\end{document}\n\nDo not cheat the page limit\n\nNo \\linespread below 1\nNo negative \\vspace\nNo body text below 11 pt\n\nReviewers notice a crammed page.\nStart from the starter template. New to LaTeX? Learn LaTeX in 30 minutes."
   },
   {
     "objectID": "lectures/lecture-06.html#before-you-leave-today",
     "href": "lectures/lecture-06.html#before-you-leave-today",
     "title": "Research Proposals and GRFP-Style Writing",
     "section": "Before you leave today",
-    "text": "Before you leave today\nTBD"
+    "text": "Before you leave today\n\nWrite your research question in one sentence.\nTrade with a neighbor.\nYour neighbor says back, in their own words, what you would measure or calculate.\nIf they cannot, revise the sentence and try again.\n\n\nBring a full draft on Oct. 9. We will workshop it in class, and it is due that night at 11:59 PM ET."
+  },
+  {
+    "objectID": "lectures/lecture-06.html#advice-and-examples-from-past-applicants",
+    "href": "lectures/lecture-06.html#advice-and-examples-from-past-applicants",
+    "title": "Research Proposals and GRFP-Style Writing",
+    "section": "Advice and examples from past applicants",
+    "text": "Advice and examples from past applicants\n\n\nNSF GRFP Help: winning essays, including the 2026 cycle\nAlex Lang: NSF Fellowship: a detailed guide and a table of successful essays\nClaire McKay Bowen: Advice on Applying: each application component\nRachel White: Guide to Graduate School Applications: a physics applicant’s statements\nMIT CommKit: NSF GRFP Research Proposal: today’s annotated examples\n\n\n\nRules change. Check every example against the current NSF requirements before you copy its format."
   },
   {
     "objectID": "lectures/lecture-06.html#references",
     "href": "lectures/lecture-06.html#references",
     "title": "Research Proposals and GRFP-Style Writing",
     "section": "References",
-    "text": "References\n\n\nU.S. National Science Foundation. 2026. “NSF 26-526: NSF Graduate Research Fellowship Program (GRFP).” https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation."
+    "text": "References\n\n\nBroad Research Communication Lab. n.d. “NSF GRFP Research Proposal.” Accessed October 2, 2026. https://mitcommlab.mit.edu/broad/commkit/nsf-research-proposal/.\n\n\nU.S. National Science Foundation. 2026a. “How to Apply: NSF Graduate Research Fellowship Program.” https://www.nsf.gov/funding/initiatives/grfp/how-to-apply.\n\n\nU.S. National Science Foundation. 2026b. “NSF 26-526: NSF Graduate Research Fellowship Program (GRFP).” https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation."
   },
   {
     "objectID": "supplemental/resume-cv.html",

@@ -35,6 +35,72 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
+    /* CSS for syntax highlighting */
+    html { -webkit-text-size-adjust: 100%; }
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      { color: #003b4f; background-color: #f1f3f5; }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span { color: #003b4f; } /* Normal */
+    code span.al { color: #ad0000; } /* Alert */
+    code span.an { color: #5e5e5e; } /* Annotation */
+    code span.at { color: #657422; } /* Attribute */
+    code span.bn { color: #ad0000; } /* BaseN */
+    code span.bu { } /* BuiltIn */
+    code span.cf { color: #003b4f; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #20794d; } /* Char */
+    code span.cn { color: #8f5902; } /* Constant */
+    code span.co { color: #5e5e5e; } /* Comment */
+    code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
+    code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
+    code span.dt { color: #ad0000; } /* DataType */
+    code span.dv { color: #ad0000; } /* DecVal */
+    code span.er { color: #ad0000; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #ad0000; } /* Float */
+    code span.fu { color: #4758ab; } /* Function */
+    code span.im { color: #00769e; } /* Import */
+    code span.in { color: #5e5e5e; } /* Information */
+    code span.kw { color: #003b4f; font-weight: bold; } /* Keyword */
+    code span.op { color: #5e5e5e; } /* Operator */
+    code span.ot { color: #003b4f; } /* Other */
+    code span.pp { color: #ad0000; } /* Preprocessor */
+    code span.sc { color: #5e5e5e; } /* SpecialChar */
+    code span.ss { color: #20794d; } /* SpecialString */
+    code span.st { color: #20794d; } /* String */
+    code span.va { color: #111111; } /* Variable */
+    code span.vs { color: #20794d; } /* VerbatimString */
+    code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
@@ -200,7 +266,7 @@ Andrew J. Steinmetz
 </section>
 <section id="the-two-review-criteria" class="slide level2">
 <h2>The two review criteria</h2>
-<p>Every reviewer scores you on exactly two things. Both documents are read against both criteria.</p>
+<p>Every reviewer scores you on exactly two things.</p>
 <div class="columns">
 <div class="column" style="width:50%;">
 <h3 id="intellectual-merit">Intellectual Merit</h3>
@@ -222,19 +288,33 @@ Andrew J. Steinmetz
 <p><strong>Broader Impacts is where most physics applications fail.</strong> It is not a paragraph you append at the end. Write it into both documents.</p>
 </div>
 <div class="cite-note">
-<p><span class="citation" data-cites="nsf_grfp_solicitation">(<a href="#/references" role="doc-biblioref" onclick="">U.S. National Science Foundation 2026</a>)</span></p>
+<p><span class="citation" data-cites="nsf_grfp_solicitation">(<a href="#/references" role="doc-biblioref" onclick="">U.S. National Science Foundation 2026b</a>)</span></p>
 </div>
-</section>
-<section id="part-i-what-two-pages-have-to-do" class="slide level2 section-slide" data-background-color="#003057">
-<h2>Part I: What two pages have to do</h2>
 </section>
 <section id="a-proposal-is-not-a-summary-of-a-field" class="slide level2">
 <h2>A proposal is not a summary of a field</h2>
-<p>TBD</p>
-<!-- TODO: The core contrast - a literature review tells the reader what is known; a proposal names one open question and commits to attacking it. Two or three sentences plus a before/after example of a vague topic vs. a specific question. -->
+<p>A literature review tells the reader what is known. A proposal names <strong>one open question</strong> and commits to attacking it.</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><strong>A topic</strong></p>
+<blockquote>
+<p>I want to study dark matter using galaxy rotation curves.</p>
+</blockquote>
+<p>What would you actually doon a workday?</p>
+</div><div class="column" style="width:50%;">
+<p><strong>A question</strong></p>
+<blockquote>
+<p>Can archival rotation curves tell a cored halo from a cuspy one?</p>
+</blockquote>
+<p>Names the data, the sample, and the measurement.</p>
+</div></div>
+<div class="highlight-box">
+<p>Can’t say what you’d measure/calculate? Then it’s a topic, not a question.</p>
+</div>
 </section>
 <section id="the-structure-that-fits-in-two-pages" class="slide level2">
 <h2>The structure that fits in two pages</h2>
+<div style="font-size: 0.85em;">
 <table class="caption-top">
 <colgroup>
 <col style="width: 38%">
@@ -273,58 +353,355 @@ Andrew J. Steinmetz
 </tr>
 <tr class="odd">
 <td><strong>References</strong></td>
-<td>Do not count against the two pages</td>
+<td><strong>Count against</strong> the two pages</td>
 </tr>
 </tbody>
 </table>
+</div>
 <div class="highlight-box">
-<p>The <strong>Intellectual Merit</strong> and <strong>Broader Impacts</strong> headings are required by NSF. Use them literally.</p>
+<p>Use the exact headings <strong>Intellectual Merit</strong> and <strong>Broader Impacts</strong>, kept separate, in <em>both</em> statements.</p>
 </div>
 <div class="cite-note">
-<p><span class="citation" data-cites="nsf_grfp_solicitation">(<a href="#/references" role="doc-biblioref" onclick="">U.S. National Science Foundation 2026</a>)</span></p>
+<p><span class="citation" data-cites="nsf_grfp_howtoapply nsf_grfp_solicitation">(<a href="#/references" role="doc-biblioref" onclick="">U.S. National Science Foundation 2026a</a>, <a href="#/references" role="doc-biblioref" onclick="">2026b</a>)</span></p>
 </div>
 </section>
 <section id="where-your-two-pages-go" class="slide level2">
 <h2>Where your two pages go</h2>
-<p>TBD</p>
-<!-- TODO: Rough page budget - how much space motivation vs. question vs. methods vs. the two criteria sections should get. Consider a two-column layout: budget on the left, the "if you run out of room, cut this first" rule on the right. -->
-</section>
-<section id="part-ii-writing-the-two-criteria" class="slide level2 section-slide" data-background-color="#003057">
-<h2>Part II: Writing the two criteria</h2>
+<div class="columns">
+<div class="column" style="width:55%;">
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th>Section</th>
+<th>Rough budget</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Title and Motivation</td>
+<td>~1/2 page</td>
+</tr>
+<tr class="even">
+<td>Research Question</td>
+<td>2–3 sentences</td>
+</tr>
+<tr class="odd">
+<td>Approach / Methods</td>
+<td>~3/4 page</td>
+</tr>
+<tr class="even">
+<td>Intellectual Merit</td>
+<td>~1/4 page</td>
+</tr>
+<tr class="odd">
+<td>Broader Impacts</td>
+<td>~1/4 page</td>
+</tr>
+<tr class="even">
+<td>References</td>
+<td>~1/4 page</td>
+</tr>
+</tbody>
+</table>
+</div><div class="column" style="width:45%;">
+<p><strong>Over two pages? Cut in this order:</strong></p>
+<ol type="1">
+<li>Background the reviewer already knows</li>
+<li>References that only pad</li>
+<li>Method details beyond what shows feasibility</li>
+</ol>
+</div></div>
+<div class="highlight-box">
+<p>My rule of thumb: <strong>methods get the most space.</strong> Never cut the question or Broader Impacts.</p>
+</div>
 </section>
 <section id="writing-intellectual-merit" class="slide level2">
 <h2>Writing Intellectual Merit</h2>
-<p>TBD</p>
-<!-- TODO: What a reviewer is looking for - an identified gap, a sound approach, a feasible scope for an early graduate student, and a clear statement of what success would teach the field. Pull the bullet list from assignments/research-proposal.qmd and tighten it to four items. -->
+<p>The reviewer’s question: <strong>is this worth doing, and can you do it?</strong></p>
+<ul>
+<li><strong>The gap:</strong> what is not known, and a citation showing it is not</li>
+<li><strong>The approach:</strong> why your method can close that gap</li>
+<li><strong>The scope:</strong> feasible for an early graduate student with a mentor</li>
+<li><strong>The payoff:</strong> what the field learns if it works, and if it does not</li>
+</ul>
+<div class="highlight-box">
+<p>Feasible beats ambitious. A project that can work in three years scores better than a field-changing idea that cannot.</p>
+</div>
 </section>
 <section id="writing-broader-impacts" class="slide level2">
 <h2>Writing Broader Impacts</h2>
-<p>TBD</p>
-<!-- TODO: The part physics applications lose points on. Make the point that outreach you have actually done beats outreach you promise. Draw examples from the list in assignments/research-proposal.qmd: outreach, open tools and data, mentoring, applications to energy/health/infrastructure. -->
+<p><strong>Done beats promised.</strong> “I will do outreach” is weak. “I have tutored for three years and will extend that to …” is strong.</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><strong>Common sources in physics</strong></p>
+<ul>
+<li>Outreach and public engagement</li>
+<li>Open software, tools, and data</li>
+<li>Mentoring and teaching</li>
+<li>Applications: energy, health, infrastructure</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<p><strong>Make it concrete</strong></p>
+<ul>
+<li><strong>Who</strong> benefits?</li>
+<li><strong>How many</strong>, and how often?</li>
+<li><strong>How would you know</strong> it worked?</li>
+<li>Why are <strong>you</strong> the one to do it?</li>
+</ul>
+</div></div>
+<div class="highlight-box">
+<p>Tie it to your research and to what you have already done.</p>
+</div>
+</section>
+<section id="write-for-a-reviewer-outside-your-subfield" class="slide level2">
+<h2>Write for a reviewer outside your subfield</h2>
+<p>Reviewers know your broad field, not necessarily your subfield. NSF advises: do not be overly technical; explain your rationale.</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><strong>Do</strong></p>
+<ul>
+<li>Say why it matters, in plain words</li>
+<li>Define every acronym</li>
+<li>Explain <em>why</em> before <em>how</em></li>
+</ul>
+</div><div class="column" style="width:50%;">
+<p><strong>Don’t</strong></p>
+<ul>
+<li>Use your group’s shorthand</li>
+<li>Assume they know the key paper</li>
+<li>Spend lines on derivations</li>
+</ul>
+</div></div>
+<div class="highlight-box">
+<p>Could a physicist from another subfield explain your question back to you?</p>
+</div>
+<div class="cite-note">
+<p><span class="citation" data-cites="nsf_grfp_howtoapply mit_commlab_grfp">(<a href="#/references" role="doc-biblioref" onclick="">U.S. National Science Foundation 2026a</a>; <a href="#/references" role="doc-biblioref" onclick="">Broad Research Communication Lab, n.d.</a>)</span></p>
+</div>
+</section>
+<section id="make-the-page-skimmable" class="slide level2">
+<h2>Make the page skimmable</h2>
+<p>A reviewer reads many applications. Assume the first pass is a skim.</p>
+<ul>
+<li><strong>Bold the research question</strong> so it can be found in seconds</li>
+<li>Start each paragraph with its point; details follow</li>
+<li>Short paragraphs and white space, not a wall of text</li>
+<li>Use the section headings from the structure slide</li>
+<li>One figure at most, and only if it replaces a paragraph</li>
+</ul>
+<div class="highlight-box">
+<p>If a reviewer read only your headings, your bold text, and your first sentences, would they know what you are proposing?</p>
+</div>
+<p>More in the <a href="../supplemental/technical-writing.html">technical writing guide</a>.</p>
+</section>
+<section id="sentence-level-style" class="slide level2">
+<h2>Sentence-level style</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Instead of</th>
+<th>Write</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>It is hoped that this research could potentially help…</td>
+<td>This work will test whether…</td>
+</tr>
+<tr class="even">
+<td>Measurements will be performed on the samples.</td>
+<td>I will measure the samples’ resistivity from 4 to 300 K.</td>
+</tr>
+<tr class="odd">
+<td>A very novel and extremely important approach</td>
+<td>An approach that resolves X, which Y cannot</td>
+</tr>
+<tr class="even">
+<td>A large dataset</td>
+<td>12,000 archival spectra</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>First person, active voice.</strong> You are the one doing the work.</li>
+<li><strong>Future tense</strong> for the plan; past tense for what you have already done.</li>
+<li><strong>Numbers and names</strong> beat adjectives.</li>
+</ul>
+</section>
+<section id="example-antibiotic-resistance" class="slide level2">
+<h2>Example: antibiotic resistance</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figs/fig5_mit-grfp-example1.jpg" class="quarto-figure quarto-figure-center" style="width:100.0%" alt="Two pages of a winning NSF GRFP research proposal on a microfluidics system for studying antibiotic resistance, with handwritten-style annotations in the margins. Annotations note that it states Intellectual Merit and Broader Impacts right away, calls out Intellectual Merit with an explicit heading, sets out a knowledge gap, states a hypothesis, uses an information-dense figure, has an explicit Broader Impacts title, and spends only half the document on methods."></p>
+</figure>
+</div>
+</section>
+<section id="example-viral-photosensitivity" class="slide level2">
+<h2>Example: viral photosensitivity</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figs/fig6_mit-grfp-example2.jpg" class="quarto-figure quarto-figure-center" style="width:100.0%" alt="Two pages of a winning NSF GRFP research proposal on photocaged proteins for light-controlled cell therapies, with margin annotations. Annotations note that the title and keywords set the niche, the introduction narrows quickly from genetic disease to photochemistry, the hypothesis is stated explicitly, the research plan is detailed but organized, control experiments and pitfalls add credibility, and Intellectual Merit and Broader Impacts are labeled in bold within their paragraphs."></p>
+</figure>
+</div>
+</section>
+<section id="physics-example-neutrino-mass-with-project-8" class="slide level2">
+<h2>Physics example: neutrino mass with Project 8</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figs/fig7_grfp-example-neutrino-mass.jpg" class="quarto-figure quarto-figure-center" alt="Two pages of a winning NSF GRFP Graduate Research Plan proposing CCA+, an upgraded resonant-cavity readout for the Project 8 neutrino mass experiment. It has a title line, then bold headings for Background, Intellectual Merit, and Broader Impacts, a year-by-year plan with bold run-in labels, key sentences in bold, and a short numbered reference list." height="600"></p>
+</figure>
+</div>
+</section>
+<section id="astrophysics-example-exomoons" class="slide level2">
+<h2>Astrophysics example: exomoons</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figs/fig8_grfp-example-exomoons.jpg" class="quarto-figure quarto-figure-center" alt="Two pages of a winning NSF GRFP Graduate Research Plan on detecting exomoons around free-floating planets using JWST and Roman infrared lightcurves. Underlined headings for Intellectual Merit, Methods, Future Work, and Broader Impacts; a four-stage timeline with months per stage; a two-panel lightcurve figure with a caption; and a compact run-in reference list." height="600"></p>
+</figure>
+</div>
 </section>
 <section id="common-failure-modes" class="slide level2">
 <h2>Common failure modes</h2>
-<p>TBD</p>
-<!-- TODO: Four or five, each one line - topic instead of question; methods that could not fit in a PhD; Broader Impacts bolted on at the end; no references; jargon that only your research group would follow. -->
+<ul>
+<li><strong>A topic, not a question.</strong> There is nothing for a reviewer to score.</li>
+<li><strong>Methods that could not fit in a PhD.</strong> Ambition without feasibility.</li>
+<li><strong>Broader Impacts bolted on at the end.</strong> One generic paragraph.</li>
+<li><strong>No references,</strong> or references that only pad.</li>
+<li><strong>Jargon</strong> that only your research group would follow.</li>
+<li><strong>Two statements that do not connect.</strong> NSF advises a consistent theme across both.</li>
+</ul>
+<div class="highlight-box">
+<p>Each of these is fixable.</p>
+</div>
+<div class="cite-note">
+<p><span class="citation" data-cites="nsf_grfp_howtoapply">(<a href="#/references" role="doc-biblioref" onclick="">U.S. National Science Foundation 2026a</a>)</span></p>
+</div>
 </section>
-<section id="part-iii-producing-the-document" class="slide level2 section-slide" data-background-color="#003057">
-<h2>Part III: Producing the document</h2>
+<section id="what-nsf-enforces" class="slide level2">
+<h2>What NSF enforces</h2>
+<div style="font-size: 0.85em;">
+<table class="caption-top">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 80%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Rule</th>
+<th>Requirement</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Length</strong></td>
+<td>2 pages, <strong>including references and figures</strong></td>
+</tr>
+<tr class="even">
+<td><strong>Page</strong></td>
+<td>8.5 × 11 in., PDF only</td>
+</tr>
+<tr class="odd">
+<td><strong>Margins</strong></td>
+<td>1 in. on all sides, <strong>with nothing in them</strong>: no header, footer, name, or page number</td>
+</tr>
+<tr class="even">
+<td><strong>Font</strong></td>
+<td>Times New Roman or Computer Modern, ≥ 11 pt; Arial, Courier New, or Palatino Linotype, ≥ 10 pt</td>
+</tr>
+<tr class="odd">
+<td><strong>Spacing</strong></td>
+<td>At least single-spaced (about 6 lines per inch)</td>
+</tr>
+<tr class="even">
+<td><strong>Exceptions</strong></td>
+<td>Smaller text only in equations, figures, tables, and captions</td>
+</tr>
+<tr class="odd">
+<td><strong>Headings</strong></td>
+<td><strong>Intellectual Merit</strong> and <strong>Broader Impacts</strong>, separate</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="highlight-box">
+<p>LaTeX puts a page number in the bottom margin by default. That breaks the margin rule. Turn it off.</p>
+</div>
+<div class="cite-note">
+<p><span class="citation" data-cites="nsf_grfp_howtoapply nsf_grfp_solicitation">(<a href="#/references" role="doc-biblioref" onclick="">U.S. National Science Foundation 2026a</a>, <a href="#/references" role="doc-biblioref" onclick="">2026b</a>)</span></p>
+</div>
 </section>
-<section id="latex-and-formatting" class="slide level2">
-<h2>LaTeX and formatting</h2>
-<p>TBD</p>
-<!-- TODO: The assignment requires LaTeX. Cover the formatting NSF actually enforces (margins, font size, page limit) and point at the Overleaf "Learn LaTeX in 30 minutes" link. Decide whether to provide a starter .tex template in course-files/. -->
+<section id="setting-it-up-in-latex" class="slide level2">
+<h2>Setting it up in LaTeX</h2>
+<div class="columns">
+<div class="column" style="width:55%;">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode numberSource latex number-lines code-with-copy"><code class="sourceCode latex"><span id="cb1-1"><a aria-label="1"></a><span class="bu">\documentclass</span>[11pt,letterpaper]{<span class="ex">article</span>}</span>
+<span id="cb1-2"><a aria-label="2"></a><span class="bu">\usepackage</span>[margin=1in]{<span class="ex">geometry</span>}</span>
+<span id="cb1-3"><a aria-label="3"></a><span class="fu">\pagestyle</span>{empty}  <span class="co">% no page numbers</span></span>
+<span id="cb1-4"><a aria-label="4"></a></span>
+<span id="cb1-5"><a aria-label="5"></a><span class="kw">\begin</span>{<span class="ex">document</span>}</span>
+<span id="cb1-6"><a aria-label="6"></a>...</span>
+<span id="cb1-7"><a aria-label="7"></a><span class="kw">\section*</span>{Intellectual Merit}</span>
+<span id="cb1-8"><a aria-label="8"></a>...</span>
+<span id="cb1-9"><a aria-label="9"></a><span class="kw">\section*</span>{Broader Impacts}</span>
+<span id="cb1-10"><a aria-label="10"></a>...</span>
+<span id="cb1-11"><a aria-label="11"></a>{<span class="fu">\small</span></span>
+<span id="cb1-12"><a aria-label="12"></a><span class="kw">\begin</span>{<span class="ex">thebibliography</span>}{9}</span>
+<span id="cb1-13"><a aria-label="13"></a>...</span>
+<span id="cb1-14"><a aria-label="14"></a><span class="kw">\end</span>{<span class="ex">thebibliography</span>}}</span>
+<span id="cb1-15"><a aria-label="15"></a><span class="kw">\end</span>{<span class="ex">document</span>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div><div class="column" style="width:45%;">
+<p><strong>Do not cheat the page limit</strong></p>
+<ul>
+<li>No <code>\linespread</code> below 1</li>
+<li>No negative <code>\vspace</code></li>
+<li>No body text below 11 pt</li>
+</ul>
+<p>Reviewers notice a crammed page.</p>
+<p>Start from the <a href="../course-files/research-proposal-latex/phys-4604-research-proposal-template.tex">starter template</a>. New to LaTeX? <a href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes">Learn LaTeX in 30 minutes</a>.</p>
+</div></div>
 </section>
 <section id="before-you-leave-today" class="slide level2">
 <h2>Before you leave today</h2>
-<p>TBD</p>
-<!-- TODO: The in-class activity. Likely: write your research question in one sentence and trade it with a neighbor, who has to say back what would be measured or calculated. Ties into the Oct. 9 workshop. -->
+<ol type="1">
+<li>Write your research question in <strong>one sentence</strong>.</li>
+<li>Trade with a neighbor.</li>
+<li>Your neighbor says back, in their own words, <strong>what you would measure or calculate</strong>.</li>
+<li>If they cannot, revise the sentence and try again.</li>
+</ol>
+<div class="highlight-box">
+<p>Bring a full draft on <strong>Oct.&nbsp;9</strong>. We will workshop it in class, and it is due that night at 11:59 PM ET.</p>
+</div>
+</section>
+<section id="advice-and-examples-from-past-applicants" class="slide level2">
+<h2>Advice and examples from past applicants</h2>
+<div style="font-size: 0.85em;">
+<ul>
+<li><a href="https://grfphelp.github.io/">NSF GRFP Help</a>: winning essays, including the 2026 cycle</li>
+<li><a href="https://www.alexhunterlang.com/nsf-fellowship">Alex Lang: NSF Fellowship</a>: a detailed guide and a table of successful essays</li>
+<li><a href="https://clairemckaybowen.com/fellowship/#application-components">Claire McKay Bowen: Advice on Applying</a>: each application component</li>
+<li><a href="https://white3792.github.io/rachels-complete-guide-to-graduate-school-applications/">Rachel White: Guide to Graduate School Applications</a>: a physics applicant’s statements</li>
+<li><a href="https://mitcommlab.mit.edu/broad/commkit/nsf-research-proposal/">MIT CommKit: NSF GRFP Research Proposal</a>: today’s annotated examples</li>
+</ul>
+</div>
+<div class="highlight-box">
+<p>Rules change. Check every example against the current NSF requirements before you copy its format.</p>
+</div>
 </section>
 <section id="references" class="slide level2 scrollable smaller">
 <h2>References</h2>
 <div id="refs" class="references csl-bib-body hanging-indent" style="font-size: 0.7em;" role="list">
+<div id="ref-mit_commlab_grfp" class="csl-entry" role="listitem">
+Broad Research Communication Lab. n.d. <span>“NSF GRFP Research Proposal.”</span> Accessed October 2, 2026. <a href="https://mitcommlab.mit.edu/broad/commkit/nsf-research-proposal/">https://mitcommlab.mit.edu/broad/commkit/nsf-research-proposal/</a>.
+</div>
+<div id="ref-nsf_grfp_howtoapply" class="csl-entry" role="listitem">
+U.S. National Science Foundation. 2026a. <span>“How to Apply: NSF Graduate Research Fellowship Program.”</span> <a href="https://www.nsf.gov/funding/initiatives/grfp/how-to-apply">https://www.nsf.gov/funding/initiatives/grfp/how-to-apply</a>.
+</div>
 <div id="ref-nsf_grfp_solicitation" class="csl-entry" role="listitem">
-U.S. National Science Foundation. 2026. <span>“NSF 26-526: NSF Graduate Research Fellowship Program (GRFP).”</span> <a href="https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation">https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation</a>.
+U.S. National Science Foundation. 2026b. <span>“NSF 26-526: NSF Graduate Research Fellowship Program (GRFP).”</span> <a href="https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation">https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation</a>.
 </div>
 </div>
 
