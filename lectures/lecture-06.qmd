@@ -30,7 +30,7 @@ format:
 
 ## The two review criteria
 
-Every reviewer scores you on exactly two things. Both documents are read against both criteria.
+Every reviewer scores you on exactly two things.
 
 :::: {.columns}
 ::: {.column width="50%"}
@@ -62,20 +62,36 @@ Potential to **benefit society**.
 
 ---
 
-## Part I: What two pages have to do {.section-slide background-color="#003057"}
-
----
-
 ## A proposal is not a summary of a field
 
-TBD
+A literature review tells the reader what is known. A proposal names **one open question** and commits to attacking it.
 
-<!-- TODO: The core contrast - a literature review tells the reader what is known; a proposal names one open question and commits to attacking it. Two or three sentences plus a before/after example of a vague topic vs. a specific question. -->
+:::: {.columns}
+::: {.column width="50%"}
+**A topic**
+
+> I want to study dark matter using galaxy rotation curves.
+
+What would you actually doon a workday?
+:::
+::: {.column width="50%"}
+**A question**
+
+> Can archival rotation curves tell a cored halo from a cuspy one?
+
+Names the data, the sample, and the measurement.
+:::
+::::
+
+::: {.highlight-box}
+Can't say what you'd measure/calculate? Then it's a topic, not a question.
+:::
 
 ---
 
 ## The structure that fits in two pages
 
+::: {style="font-size: 0.85em;"}
 | Section | What it does |
 |---|---|
 | **Title** | Names the question, not the subfield |
@@ -84,73 +100,291 @@ TBD
 | **Approach / Methods** | How you would actually do it |
 | **Intellectual Merit** | Required heading |
 | **Broader Impacts** | Required heading |
-| **References** | Do not count against the two pages |
+| **References** | **Count against** the two pages |
 
 : {tbl-colwidths="[38,62]"}
+:::
 
 ::: {.highlight-box}
-The **Intellectual Merit** and **Broader Impacts** headings are required by NSF. Use them literally.
+Use the exact headings **Intellectual Merit** and **Broader Impacts**, kept separate, in *both* statements.
 :::
 
 ::: {.cite-note}
-[@nsf_grfp_solicitation]
+[@nsf_grfp_howtoapply; @nsf_grfp_solicitation]
 :::
 
 ---
 
 ## Where your two pages go
 
-TBD
+:::: {.columns}
+::: {.column width="55%"}
+| Section | Rough budget |
+|---|---|
+| Title and Motivation | ~1/2 page |
+| Research Question | 2&ndash;3 sentences |
+| Approach / Methods | ~3/4 page |
+| Intellectual Merit | ~1/4 page |
+| Broader Impacts | ~1/4 page |
+| References | ~1/4 page |
+:::
+::: {.column width="45%"}
+**Over two pages? Cut in this order:**
 
-<!-- TODO: Rough page budget - how much space motivation vs. question vs. methods vs. the two criteria sections should get. Consider a two-column layout: budget on the left, the "if you run out of room, cut this first" rule on the right. -->
+1. Background the reviewer already knows
+2. References that only pad
+3. Method details beyond what shows feasibility
+:::
+::::
 
----
-
-## Part II: Writing the two criteria {.section-slide background-color="#003057"}
+::: {.highlight-box}
+My rule of thumb: **methods get the most space.** Never cut the question or Broader Impacts.
+:::
 
 ---
 
 ## Writing Intellectual Merit
 
-TBD
+The reviewer's question: **is this worth doing, and can you do it?**
 
-<!-- TODO: What a reviewer is looking for - an identified gap, a sound approach, a feasible scope for an early graduate student, and a clear statement of what success would teach the field. Pull the bullet list from assignments/research-proposal.qmd and tighten it to four items. -->
+- **The gap:** what is not known, and a citation showing it is not
+- **The approach:** why your method can close that gap
+- **The scope:** feasible for an early graduate student with a mentor
+- **The payoff:** what the field learns if it works, and if it does not
+
+::: {.highlight-box}
+Feasible beats ambitious. A project that can work in three years scores better than a field-changing idea that cannot.
+:::
 
 ---
 
 ## Writing Broader Impacts
 
-TBD
+**Done beats promised.** "I will do outreach" is weak. "I have tutored for three years and will extend that to &hellip;" is strong.
 
-<!-- TODO: The part physics applications lose points on. Make the point that outreach you have actually done beats outreach you promise. Draw examples from the list in assignments/research-proposal.qmd: outreach, open tools and data, mentoring, applications to energy/health/infrastructure. -->
+:::: {.columns}
+::: {.column width="50%"}
+**Common sources in physics**
+
+- Outreach and public engagement
+- Open software, tools, and data
+- Mentoring and teaching
+- Applications: energy, health, infrastructure
+:::
+::: {.column width="50%"}
+**Make it concrete**
+
+- **Who** benefits?
+- **How many**, and how often?
+- **How would you know** it worked?
+- Why are **you** the one to do it?
+:::
+::::
+
+::: {.highlight-box}
+Tie it to your research and to what you have already done.
+:::
+
+---
+
+## Write for a reviewer outside your subfield
+
+Reviewers know your broad field, not necessarily your subfield. NSF advises: do not be overly technical; explain your rationale.
+
+:::: {.columns}
+::: {.column width="50%"}
+**Do**
+
+- Say why it matters, in plain words
+- Define every acronym
+- Explain *why* before *how*
+:::
+::: {.column width="50%"}
+**Don't**
+
+- Use your group's shorthand
+- Assume they know the key paper
+- Spend lines on derivations
+:::
+::::
+
+::: {.highlight-box}
+Could a physicist from another subfield explain your question back to you?
+:::
+
+::: {.cite-note}
+[@nsf_grfp_howtoapply; @mit_commlab_grfp]
+:::
+
+---
+
+## Make the page skimmable
+
+A reviewer reads many applications. Assume the first pass is a skim.
+
+- **Bold the research question** so it can be found in seconds
+- Start each paragraph with its point; details follow
+- Short paragraphs and white space, not a wall of text
+- Use the section headings from the structure slide
+- One figure at most, and only if it replaces a paragraph
+
+::: {.highlight-box}
+If a reviewer read only your headings, your bold text, and your first sentences, would they know what you are proposing?
+:::
+
+More in the [technical writing guide](../supplemental/technical-writing.qmd).
+
+---
+
+## Sentence-level style
+
+| Instead of | Write |
+|---|---|
+| It is hoped that this research could potentially help&hellip; | This work will test whether&hellip; |
+| Measurements will be performed on the samples. | I will measure the samples' resistivity from 4 to 300 K. |
+| A very novel and extremely important approach | An approach that resolves X, which Y cannot |
+| A large dataset | 12,000 archival spectra |
+
+: {tbl-colwidths="[50,50]"}
+
+- **First person, active voice.** You are the one doing the work.
+- **Future tense** for the plan; past tense for what you have already done.
+- **Numbers and names** beat adjectives.
+
+---
+
+## Example: antibiotic resistance
+
+![](figs/fig5_mit-grfp-example1.jpg){fig-align="center" width="100%" fig-alt="Two pages of a winning NSF GRFP research proposal on a microfluidics system for studying antibiotic resistance, with handwritten-style annotations in the margins. Annotations note that it states Intellectual Merit and Broader Impacts right away, calls out Intellectual Merit with an explicit heading, sets out a knowledge gap, states a hypothesis, uses an information-dense figure, has an explicit Broader Impacts title, and spends only half the document on methods."}
+
+---
+
+## Example: viral photosensitivity
+
+![](figs/fig6_mit-grfp-example2.jpg){fig-align="center" width="100%" fig-alt="Two pages of a winning NSF GRFP research proposal on photocaged proteins for light-controlled cell therapies, with margin annotations. Annotations note that the title and keywords set the niche, the introduction narrows quickly from genetic disease to photochemistry, the hypothesis is stated explicitly, the research plan is detailed but organized, control experiments and pitfalls add credibility, and Intellectual Merit and Broader Impacts are labeled in bold within their paragraphs."}
+
+---
+
+## Physics example: neutrino mass with Project 8
+
+![](figs/fig7_grfp-example-neutrino-mass.jpg){fig-align="center" height="600px" fig-alt="Two pages of a winning NSF GRFP Graduate Research Plan proposing CCA+, an upgraded resonant-cavity readout for the Project 8 neutrino mass experiment. It has a title line, then bold headings for Background, Intellectual Merit, and Broader Impacts, a year-by-year plan with bold run-in labels, key sentences in bold, and a short numbered reference list."}
+
+---
+
+## Astrophysics example: exomoons
+
+![](figs/fig8_grfp-example-exomoons.jpg){fig-align="center" height="600px" fig-alt="Two pages of a winning NSF GRFP Graduate Research Plan on detecting exomoons around free-floating planets using JWST and Roman infrared lightcurves. Underlined headings for Intellectual Merit, Methods, Future Work, and Broader Impacts; a four-stage timeline with months per stage; a two-panel lightcurve figure with a caption; and a compact run-in reference list."}
 
 ---
 
 ## Common failure modes
 
-TBD
+- **A topic, not a question.** There is nothing for a reviewer to score.
+- **Methods that could not fit in a PhD.** Ambition without feasibility.
+- **Broader Impacts bolted on at the end.** One generic paragraph.
+- **No references,** or references that only pad.
+- **Jargon** that only your research group would follow.
+- **Two statements that do not connect.** NSF advises a consistent theme across both.
 
-<!-- TODO: Four or five, each one line - topic instead of question; methods that could not fit in a PhD; Broader Impacts bolted on at the end; no references; jargon that only your research group would follow. -->
+::: {.highlight-box}
+Each of these is fixable.
+:::
+
+::: {.cite-note}
+[@nsf_grfp_howtoapply]
+:::
 
 ---
 
-## Part III: Producing the document {.section-slide background-color="#003057"}
+## What NSF enforces
+
+::: {style="font-size: 0.85em;"}
+| Rule | Requirement |
+|---|---|
+| **Length** | 2 pages, **including references and figures** |
+| **Page** | 8.5 &times; 11 in., PDF only |
+| **Margins** | 1 in. on all sides, **with nothing in them**: no header, footer, name, or page number |
+| **Font** | Times New Roman or Computer Modern, &ge; 11 pt; Arial, Courier New, or Palatino Linotype, &ge; 10 pt |
+| **Spacing** | At least single-spaced (about 6 lines per inch) |
+| **Exceptions** | Smaller text only in equations, figures, tables, and captions |
+| **Headings** | **Intellectual Merit** and **Broader Impacts**, separate |
+
+: {tbl-colwidths="[20,80]"}
+:::
+
+::: {.highlight-box}
+LaTeX puts a page number in the bottom margin by default. That breaks the margin rule. Turn it off.
+:::
+
+::: {.cite-note}
+[@nsf_grfp_howtoapply; @nsf_grfp_solicitation]
+:::
 
 ---
 
-## LaTeX and formatting
+## Setting it up in LaTeX
 
-TBD
+:::: {.columns}
+::: {.column width="55%"}
+```latex
+\documentclass[11pt,letterpaper]{article}
+\usepackage[margin=1in]{geometry}
+\pagestyle{empty}  % no page numbers
 
-<!-- TODO: The assignment requires LaTeX. Cover the formatting NSF actually enforces (margins, font size, page limit) and point at the Overleaf "Learn LaTeX in 30 minutes" link. Decide whether to provide a starter .tex template in course-files/. -->
+\begin{document}
+...
+\section*{Intellectual Merit}
+...
+\section*{Broader Impacts}
+...
+{\small
+\begin{thebibliography}{9}
+...
+\end{thebibliography}}
+\end{document}
+```
+:::
+::: {.column width="45%"}
+**Do not cheat the page limit**
+
+- No `\linespread` below 1
+- No negative `\vspace`
+- No body text below 11 pt
+
+Reviewers notice a crammed page.
+
+Start from the [starter template](../course-files/research-proposal-latex/phys-4604-research-proposal-template.tex). New to LaTeX? [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
+:::
+::::
 
 ---
 
 ## Before you leave today
 
-TBD
+1. Write your research question in **one sentence**.
+2. Trade with a neighbor.
+3. Your neighbor says back, in their own words, **what you would measure or calculate**.
+4. If they cannot, revise the sentence and try again.
 
-<!-- TODO: The in-class activity. Likely: write your research question in one sentence and trade it with a neighbor, who has to say back what would be measured or calculated. Ties into the Oct. 9 workshop. -->
+::: {.highlight-box}
+Bring a full draft on **Oct. 9**. We will workshop it in class, and it is due that night at 11:59 PM ET.
+:::
+
+---
+
+## Advice and examples from past applicants
+
+::: {style="font-size: 0.85em;"}
+- [NSF GRFP Help](https://grfphelp.github.io/): winning essays, including the 2026 cycle
+- [Alex Lang: NSF Fellowship](https://www.alexhunterlang.com/nsf-fellowship): a detailed guide and a table of successful essays
+- [Claire McKay Bowen: Advice on Applying](https://clairemckaybowen.com/fellowship/#application-components): each application component
+- [Rachel White: Guide to Graduate School Applications](https://white3792.github.io/rachels-complete-guide-to-graduate-school-applications/): a physics applicant's statements
+- [MIT CommKit: NSF GRFP Research Proposal](https://mitcommlab.mit.edu/broad/commkit/nsf-research-proposal/): today's annotated examples
+:::
+
+::: {.highlight-box}
+Rules change. Check every example against the current NSF requirements before you copy its format.
+:::
 
 ---
 

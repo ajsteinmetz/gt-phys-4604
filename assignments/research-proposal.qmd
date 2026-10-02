@@ -5,7 +5,7 @@ subtitle: "Due: October 9 by 11:59 PM ET &middot; 15% of course grade"
 
 ## Purpose
 
-For this assignment, you will write a **two-page research proposal with references** modeled after the National Science Foundation Graduate Research Fellowship Program [Graduate Research Plan Statement](https://www.nsfgrfp.org/applicants/statements.html).
+For this assignment, you will write a **two-page research proposal with references** modeled after the National Science Foundation Graduate Research Fellowship Program [Graduate Research Plan Statement](https://www.nsf.gov/funding/initiatives/grfp/how-to-apply).
 
 The proposal should be developed with the intention of being **ready (or nearly ready) for an actual NSF GRFP submission**, should you choose to pursue the fellowship. This means that the proposal should describe a serious, feasible, and clearly motivated graduate-level research direction rather than a vague topic area or informal class exercise.
 
@@ -29,7 +29,7 @@ The current NSF GRFP Graduate Research Plan Statement requires applicants to add
 
 Upload to Canvas the following:
 
-1. Your completed two-page research proposal with references as a PDF formatted in LaTeX.
+1. Your completed research proposal as a PDF formatted in LaTeX, following the NSF formatting rules: two pages maximum **including references**, 1-inch margins with nothing in them (no page numbers), and 11 pt or larger Computer Modern or Times New Roman. The [starter template](../course-files/research-proposal-latex/phys-4604-research-proposal-template.tex) already follows these rules.
 2. An [AI Usage Statement](https://gatech.instructure.com/courses/559356/pages/how-to-format-an-ai-usage-statement), if generative AI was used during the drafting, revision, or formatting of the proposal.
 
 ## Proposal Structure
@@ -87,13 +87,20 @@ By the end of this assignment, a student interested in attending a graduate prog
 ## Helpful Resources
 
 - [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/)
-- [NSF GRFP Statement Requirements](https://www.nsfgrfp.org/applicants/statements.html)
+- [NSF GRFP Statement Requirements](https://www.nsf.gov/funding/initiatives/grfp/how-to-apply)
 - [NSF GRFP Funding Opportunity Page](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program)
+- [NSF GRFP Help](https://grfphelp.github.io/): winning essays and curated advice
+- [Alex Lang: NSF Fellowship](https://www.alexhunterlang.com/nsf-fellowship): a detailed guide and a table of successful essays
+- [Claire McKay Bowen: Advice on Applying for the NSF GRFP](https://clairemckaybowen.com/fellowship/#application-components)
+- [Rachel White: Complete Guide to Graduate School Applications](https://white3792.github.io/rachels-complete-guide-to-graduate-school-applications/): a physics applicant's GRFP statements and timeline
+- [MIT CommKit: NSF GRFP Research Proposal](https://mitcommlab.mit.edu/broad/commkit/nsf-research-proposal/): annotated winning examples
+- [Research proposal LaTeX template](../course-files/research-proposal-latex/phys-4604-research-proposal-template.tex)
 - [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 ## Submission Checklist
 
-- I wrote a two-page research proposal with references.
+- I wrote a research proposal of two pages or less, including references.
+- I followed the NSF formatting rules: 1-inch margins, no page numbers, and 11 pt or larger font.
 - I included explicit attention to Intellectual Merit.
 - I included explicit attention to Broader Impacts.
 - I edited the proposal for clarity, professionalism, and near-submission quality.
