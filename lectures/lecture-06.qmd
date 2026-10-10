@@ -36,15 +36,15 @@ Every reviewer scores you on exactly two things.
 ::: {.column width="50%"}
 ### Intellectual Merit
 
-Potential to **advance knowledge**.
+**Your** potential to **advance knowledge**.
 
 - Is the question worth asking?
-- Is the approach sound and feasible?
+- Can **you** carry it out?
 :::
 ::: {.column width="50%"}
 ### Broader Impacts
 
-Potential to **benefit society**.
+**Your** potential to **benefit society**.
 
 - Outreach, teaching, mentoring
 - Broadening participation in STEM
@@ -58,6 +58,40 @@ Potential to **benefit society**.
 
 ::: {.cite-note}
 [@nsf_grfp_solicitation]
+:::
+
+---
+
+## Intellectual Merit is about you, too
+
+NSF's criterion is "the potential to advance knowledge." The GRFP applies it to **the applicant**. Reviewers may weigh your ability to:
+
+:::: {.columns}
+::: {.column width="50%"}
+- Plan and conduct research
+- Work independently and on a team
+- Interpret and communicate research
+- Take initiative and think creatively
+:::
+::: {.column width="50%"}
+- Solve problems
+- Persist and overcome challenges
+- Show intellectual ability: grades, coursework, awards
+:::
+::::
+
+::: {.highlight-box}
+Your research plan is evidence for this list. A clear, feasible plan shows you can plan research; the writing shows you can communicate it.
+:::
+
+::: {.cite-note}
+NSF 26-526, Section VI.A &middot; [@nsf_grfp_solicitation]
+:::
+
+::: notes
+Section VI.A gives the NSB definitions, then lists these factors as what reviewers "will consider in assessing potential Intellectual Merit of the application," framed as the applicant's ability. Broader Impacts is framed the same way: "the likelihood that the applicant's activities will..."
+
+The how-to-apply page still describes the Research Plan's Intellectual Merit section in project terms ("advance knowledge in your field"), so students need both: the project is worth doing, and they can do it.
 :::
 
 ---
@@ -149,6 +183,7 @@ The reviewer's question: **is this worth doing, and can you do it?**
 
 - **The gap:** what is not known, and a citation showing it is not
 - **The approach:** why your method can close that gap
+- **You:** what you have already done that shows you can do this (a technique, instrument, code, or result)
 - **The scope:** feasible for an early graduate student with a mentor
 - **The payoff:** what the field learns if it works, and if it does not
 
@@ -337,10 +372,9 @@ LaTeX puts a page number in the bottom margin by default. That breaks the margin
 ...
 \section*{Broader Impacts}
 ...
-{\small
 \begin{thebibliography}{9}
 ...
-\end{thebibliography}}
+\end{thebibliography}
 \end{document}
 ```
 :::

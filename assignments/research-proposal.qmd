@@ -21,6 +21,7 @@ Your proposal should present a focused research question or project that could p
 - Why that problem matters scientifically, technically, or societally;
 - What approach, methods, or strategy you would use;
 - What new knowledge, capability, or impact could result;
+- Why you are prepared to carry out the work;
 - How the project addresses NSF's review criteria of **Intellectual Merit** and **Broader Impacts**.
 
 The current NSF GRFP Graduate Research Plan Statement requires applicants to address both **Intellectual Merit** and **Broader Impacts** and to include headings for these criteria. Your assignment submission should do the same.
@@ -42,13 +43,17 @@ A strong proposal will be specific, carefully reasoned, and shaped toward a plau
 | **Motivation / Background** | Introduce the research problem, its context, and why it matters. |
 | **Research Question or Objective** | State clearly what the proposed work seeks to understand, test, develop, or accomplish. |
 | **Approach / Methods** | Describe the proposed strategy, tools, models, experiments, calculations, or analyses. |
-| **Intellectual Merit** | Explain how the project could advance knowledge, contribute to the field, or address an important scientific or technical challenge. |
+| **Intellectual Merit** | Explain how the project could advance knowledge, and why you are prepared to carry it out. |
 | **Broader Impacts** | Explain how the proposed work may benefit society or contribute to broader educational, scientific, technological, or community outcomes. |
 | **References** | Cite relevant literature clearly and consistently. |
 
 ## Intellectual Merit
 
-The **Intellectual Merit** portion should make a convincing case that the proposed research is worth doing. Depending on the project, this may involve:
+NSF defines Intellectual Merit as "the potential to advance knowledge." For the GRFP, reviewers apply that to **you**, the applicant, not only to the project [@nsf_grfp_solicitation]. They may weigh your ability to plan and conduct research, work independently and as part of a team, interpret and communicate research, take initiative, think creatively, solve problems, and persist through challenges, along with your demonstrated intellectual ability (grades, coursework, awards).
+
+Your **Intellectual Merit** section should make two cases.
+
+**The research is worth doing.** Depending on the project, this may involve:
 
 - Identifying an important open question or gap in current understanding;
 - Proposing a novel theoretical, computational, experimental, or analytical approach;
@@ -56,9 +61,15 @@ The **Intellectual Merit** portion should make a convincing case that the propos
 - Connecting your project to broader questions in physics, astrophysics, engineering, or another relevant field;
 - Explaining what a successful outcome would teach the field.
 
+**You are ready to do it.** For example:
+
+- Research experience that prepared you for this project, and what you did in it;
+- Techniques, instruments, codes, or analyses you have already used and will build on;
+- Evidence that you can carry a project through: a result, a presentation, a problem you solved.
+
 ## Broader Impacts
 
-The **Broader Impacts** portion should explain how the work or its surrounding activities may benefit society or contribute to broader goals beyond the immediate technical result. NSF describes broader impacts as the potential to benefit society and contribute to desired societal outcomes.
+The **Broader Impacts** portion should explain how the work or its surrounding activities may benefit society or contribute to broader goals beyond the immediate technical result. NSF describes broader impacts as the potential to benefit society and contribute to desired societal outcomes. As with Intellectual Merit, GRFP reviewers judge the likelihood that **your** activities will produce these outcomes, so build on what you have already done.
 
 Depending on the proposal, broader impacts might include:
 
@@ -101,7 +112,7 @@ By the end of this assignment, a student interested in attending a graduate prog
 
 - I wrote a research proposal of two pages or less, including references.
 - I followed the NSF formatting rules: 1-inch margins, no page numbers, and 11 pt or larger font.
-- I included explicit attention to Intellectual Merit.
+- I included explicit attention to Intellectual Merit: what the project would add to the field and why I am prepared to do it.
 - I included explicit attention to Broader Impacts.
 - I edited the proposal for clarity, professionalism, and near-submission quality.
 - I included an AI Usage Statement, if needed.
