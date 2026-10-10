@@ -62,7 +62,7 @@ Every reviewer scores you on exactly two things.
 
 ---
 
-## Intellectual Merit is about you, too
+## Intellectual Merit
 
 NSF's criterion is "the potential to advance knowledge." The GRFP applies it to **the applicant**. Reviewers may weigh your ability to:
 
@@ -292,42 +292,41 @@ More in the [technical writing guide](../supplemental/technical-writing.qmd).
 
 ![](figs/fig5_mit-grfp-example1.jpg){fig-align="center" width="100%" fig-alt="Two pages of a winning NSF GRFP research proposal on a microfluidics system for studying antibiotic resistance, with handwritten-style annotations in the margins. Annotations note that it states Intellectual Merit and Broader Impacts right away, calls out Intellectual Merit with an explicit heading, sets out a knowledge gap, states a hypothesis, uses an information-dense figure, has an explicit Broader Impacts title, and spends only half the document on methods."}
 
+::: {.cite-note}
+Copyright &copy; by the Authors &middot; Source: [@mit_commlab_grfp]
+:::
+
 ---
 
 ## Example: viral photosensitivity
 
 ![](figs/fig6_mit-grfp-example2.jpg){fig-align="center" width="100%" fig-alt="Two pages of a winning NSF GRFP research proposal on photocaged proteins for light-controlled cell therapies, with margin annotations. Annotations note that the title and keywords set the niche, the introduction narrows quickly from genetic disease to photochemistry, the hypothesis is stated explicitly, the research plan is detailed but organized, control experiments and pitfalls add credibility, and Intellectual Merit and Broader Impacts are labeled in bold within their paragraphs."}
 
+::: {.cite-note}
+Copyright &copy; by the Authors &middot; Source: [@mit_commlab_grfp]
+:::
+
+
 ---
 
-## Physics example: neutrino mass with Project 8
+## Example: neutrino mass with Project 8
 
 ![](figs/fig7_grfp-example-neutrino-mass.jpg){fig-align="center" height="600px" fig-alt="Two pages of a winning NSF GRFP Graduate Research Plan proposing CCA+, an upgraded resonant-cavity readout for the Project 8 neutrino mass experiment. It has a title line, then bold headings for Background, Intellectual Merit, and Broader Impacts, a year-by-year plan with bold run-in labels, key sentences in bold, and a short numbered reference list."}
 
+::: {.cite-note}
+Copyright &copy; by Rachel White &middot; Source: [@grfphelp]
+:::
+
 ---
 
-## Astrophysics example: exomoons
+## Example: exomoon astrophysics
 
 ![](figs/fig8_grfp-example-exomoons.jpg){fig-align="center" height="600px" fig-alt="Two pages of a winning NSF GRFP Graduate Research Plan on detecting exomoons around free-floating planets using JWST and Roman infrared lightcurves. Underlined headings for Intellectual Merit, Methods, Future Work, and Broader Impacts; a four-stage timeline with months per stage; a two-panel lightcurve figure with a caption; and a compact run-in reference list."}
 
----
-
-## Common failure modes
-
-- **A topic, not a question.** There is nothing for a reviewer to score.
-- **Methods that could not fit in a PhD.** Ambition without feasibility.
-- **Broader Impacts bolted on at the end.** One generic paragraph.
-- **No references,** or references that only pad.
-- **Jargon** that only your research group would follow.
-- **Two statements that do not connect.** NSF advises a consistent theme across both.
-
-::: {.highlight-box}
-Each of these is fixable.
-:::
-
 ::: {.cite-note}
-[@nsf_grfp_howtoapply]
+Copyright &copy; by Brooke Kotten &middot; Source: [@grfphelp]
 :::
+
 
 ---
 
@@ -390,19 +389,6 @@ Reviewers notice a crammed page.
 Start from the [starter template](../course-files/research-proposal-latex/phys-4604-research-proposal-template.tex). New to LaTeX? [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
 :::
 ::::
-
----
-
-## Before you leave today
-
-1. Write your research question in **one sentence**.
-2. Trade with a neighbor.
-3. Your neighbor says back, in their own words, **what you would measure or calculate**.
-4. If they cannot, revise the sentence and try again.
-
-::: {.highlight-box}
-Bring a full draft on **Oct. 9**. We will workshop it in class, and it is due that night at 11:59 PM ET.
-:::
 
 ---
 
