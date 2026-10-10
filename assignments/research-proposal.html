@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,13 +12,10 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
+code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: 1.5em;}
-div.column{flex: auto;}
-@media screen {
-div.columns{gap: min(4vw, 1.5em);}
-div.column{overflow-x: auto;}
-}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -26,7 +23,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -41,10 +57,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-2a3b3d27721b48ac864e2922a5c086b5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-e78bc8e74f3905b7b92a3403cb54fc12.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -220,6 +236,7 @@ Important
 <li>Why that problem matters scientifically, technically, or societally;</li>
 <li>What approach, methods, or strategy you would use;</li>
 <li>What new knowledge, capability, or impact could result;</li>
+<li>Why you are prepared to carry out the work;</li>
 <li>How the project addresses NSF’s review criteria of <strong>Intellectual Merit</strong> and <strong>Broader Impacts</strong>.</li>
 </ul>
 <p>The current NSF GRFP Graduate Research Plan Statement requires applicants to address both <strong>Intellectual Merit</strong> and <strong>Broader Impacts</strong> and to include headings for these criteria. Your assignment submission should do the same.</p>
@@ -265,7 +282,7 @@ Important
 </tr>
 <tr class="odd">
 <td><strong>Intellectual Merit</strong></td>
-<td>Explain how the project could advance knowledge, contribute to the field, or address an important scientific or technical challenge.</td>
+<td>Explain how the project could advance knowledge, and why you are prepared to carry it out.</td>
 </tr>
 <tr class="even">
 <td><strong>Broader Impacts</strong></td>
@@ -280,7 +297,9 @@ Important
 </section>
 <section id="intellectual-merit" class="level2" data-number="5">
 <h2 data-number="5" class="anchored" data-anchor-id="intellectual-merit"><span class="header-section-number">5</span> Intellectual Merit</h2>
-<p>The <strong>Intellectual Merit</strong> portion should make a convincing case that the proposed research is worth doing. Depending on the project, this may involve:</p>
+<p>NSF defines Intellectual Merit as “the potential to advance knowledge.” For the GRFP, reviewers apply that to <strong>you</strong>, the applicant, not only to the project <span class="citation" data-cites="nsf_grfp_solicitation">(<a href="#ref-nsf_grfp_solicitation" role="doc-biblioref">U.S. National Science Foundation 2026</a>)</span>. They may weigh your ability to plan and conduct research, work independently and as part of a team, interpret and communicate research, take initiative, think creatively, solve problems, and persist through challenges, along with your demonstrated intellectual ability (grades, coursework, awards).</p>
+<p>Your <strong>Intellectual Merit</strong> section should make two cases.</p>
+<p><strong>The research is worth doing.</strong> Depending on the project, this may involve:</p>
 <ul>
 <li>Identifying an important open question or gap in current understanding;</li>
 <li>Proposing a novel theoretical, computational, experimental, or analytical approach;</li>
@@ -288,10 +307,16 @@ Important
 <li>Connecting your project to broader questions in physics, astrophysics, engineering, or another relevant field;</li>
 <li>Explaining what a successful outcome would teach the field.</li>
 </ul>
+<p><strong>You are ready to do it.</strong> For example:</p>
+<ul>
+<li>Research experience that prepared you for this project, and what you did in it;</li>
+<li>Techniques, instruments, codes, or analyses you have already used and will build on;</li>
+<li>Evidence that you can carry a project through: a result, a presentation, a problem you solved.</li>
+</ul>
 </section>
 <section id="broader-impacts" class="level2" data-number="6">
 <h2 data-number="6" class="anchored" data-anchor-id="broader-impacts"><span class="header-section-number">6</span> Broader Impacts</h2>
-<p>The <strong>Broader Impacts</strong> portion should explain how the work or its surrounding activities may benefit society or contribute to broader goals beyond the immediate technical result. NSF describes broader impacts as the potential to benefit society and contribute to desired societal outcomes.</p>
+<p>The <strong>Broader Impacts</strong> portion should explain how the work or its surrounding activities may benefit society or contribute to broader goals beyond the immediate technical result. NSF describes broader impacts as the potential to benefit society and contribute to desired societal outcomes. As with Intellectual Merit, GRFP reviewers judge the likelihood that <strong>your</strong> activities will produce these outcomes, so build on what you have already done.</p>
 <p>Depending on the proposal, broader impacts might include:</p>
 <ul>
 <li>Educational outreach or public engagement;</li>
@@ -346,16 +371,21 @@ Important
 <ul>
 <li>I wrote a research proposal of two pages or less, including references.</li>
 <li>I followed the NSF formatting rules: 1-inch margins, no page numbers, and 11 pt or larger font.</li>
-<li>I included explicit attention to Intellectual Merit.</li>
+<li>I included explicit attention to Intellectual Merit: what the project would add to the field and why I am prepared to do it.</li>
 <li>I included explicit attention to Broader Impacts.</li>
 <li>I edited the proposal for clarity, professionalism, and near-submission quality.</li>
 <li>I included an AI Usage Statement, if needed.</li>
 </ul>
 
 
+
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-nsf_grfp_solicitation" class="csl-entry" role="listitem">
+U.S. National Science Foundation. 2026. <span>“NSF 26-526: NSF Graduate Research Fellowship Program (GRFP).”</span> <a href="https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation">https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

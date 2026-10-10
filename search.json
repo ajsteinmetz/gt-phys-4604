@@ -403,7 +403,7 @@
     "href": "index.html#copyright",
     "title": "Welcome Page",
     "section": "8 Copyright",
-    "text": "8 Copyright\n© 2026 Andrew J. Steinmetz. Course materials are licensed under the Creative Commons Attribution 4.0 International License. You are free to share and adapt this material for any purpose, provided you give appropriate credit to the original author and indicate if changes were made.\n\n8.1 AI Disclosure\nSome course materials were developed with assistance from generative AI tools, including Claude (Anthropic), Copilot (Microsoft), ChatGPT (OpenAI), and Gemini (Google). All AI-generated content was reviewed, edited, and approved by the instructor before use."
+    "text": "8 Copyright\n© 2026 Andrew J. Steinmetz. Course materials are licensed under the Creative Commons Attribution 4.0 International License, unless otherwise noted. You are free to share and adapt this material for any purpose, provided you give appropriate credit to the original author and indicate if changes were made.\n\n8.1 AI Disclosure\nSome course materials were developed with assistance from generative AI tools, including Claude (Anthropic), Copilot (Microsoft), ChatGPT (OpenAI), and Gemini (Google). All AI-generated content was reviewed, edited, and approved by the instructor before use."
   },
   {
     "objectID": "course-files/ai-usage-statement.html",
@@ -487,7 +487,7 @@
     "href": "assignments/research-proposal.html#assignment-overview",
     "title": "Assignment 3 · Research Proposal",
     "section": "2 Assignment Overview",
-    "text": "2 Assignment Overview\nYour proposal should present a focused research question or project that could plausibly be pursued in graduate study. It should explain:\n\nWhat problem, question, or opportunity motivates the proposed research;\nWhy that problem matters scientifically, technically, or societally;\nWhat approach, methods, or strategy you would use;\nWhat new knowledge, capability, or impact could result;\nHow the project addresses NSF’s review criteria of Intellectual Merit and Broader Impacts.\n\nThe current NSF GRFP Graduate Research Plan Statement requires applicants to address both Intellectual Merit and Broader Impacts and to include headings for these criteria. Your assignment submission should do the same."
+    "text": "2 Assignment Overview\nYour proposal should present a focused research question or project that could plausibly be pursued in graduate study. It should explain:\n\nWhat problem, question, or opportunity motivates the proposed research;\nWhy that problem matters scientifically, technically, or societally;\nWhat approach, methods, or strategy you would use;\nWhat new knowledge, capability, or impact could result;\nWhy you are prepared to carry out the work;\nHow the project addresses NSF’s review criteria of Intellectual Merit and Broader Impacts.\n\nThe current NSF GRFP Graduate Research Plan Statement requires applicants to address both Intellectual Merit and Broader Impacts and to include headings for these criteria. Your assignment submission should do the same."
   },
   {
     "objectID": "assignments/research-proposal.html#what-to-submit",
@@ -501,21 +501,21 @@
     "href": "assignments/research-proposal.html#proposal-structure",
     "title": "Assignment 3 · Research Proposal",
     "section": "4 Proposal Structure",
-    "text": "4 Proposal Structure\nA strong proposal will be specific, carefully reasoned, and shaped toward a plausible graduate research direction. Your proposal may be organized in different ways depending on the project. The following is a starting template:\n\n\n\n\n\n\n\nSection\nPurpose\n\n\n\n\nTitle\nA concise, informative title for the proposed research.\n\n\nMotivation / Background\nIntroduce the research problem, its context, and why it matters.\n\n\nResearch Question or Objective\nState clearly what the proposed work seeks to understand, test, develop, or accomplish.\n\n\nApproach / Methods\nDescribe the proposed strategy, tools, models, experiments, calculations, or analyses.\n\n\nIntellectual Merit\nExplain how the project could advance knowledge, contribute to the field, or address an important scientific or technical challenge.\n\n\nBroader Impacts\nExplain how the proposed work may benefit society or contribute to broader educational, scientific, technological, or community outcomes.\n\n\nReferences\nCite relevant literature clearly and consistently."
+    "text": "4 Proposal Structure\nA strong proposal will be specific, carefully reasoned, and shaped toward a plausible graduate research direction. Your proposal may be organized in different ways depending on the project. The following is a starting template:\n\n\n\n\n\n\n\nSection\nPurpose\n\n\n\n\nTitle\nA concise, informative title for the proposed research.\n\n\nMotivation / Background\nIntroduce the research problem, its context, and why it matters.\n\n\nResearch Question or Objective\nState clearly what the proposed work seeks to understand, test, develop, or accomplish.\n\n\nApproach / Methods\nDescribe the proposed strategy, tools, models, experiments, calculations, or analyses.\n\n\nIntellectual Merit\nExplain how the project could advance knowledge, and why you are prepared to carry it out.\n\n\nBroader Impacts\nExplain how the proposed work may benefit society or contribute to broader educational, scientific, technological, or community outcomes.\n\n\nReferences\nCite relevant literature clearly and consistently."
   },
   {
     "objectID": "assignments/research-proposal.html#intellectual-merit",
     "href": "assignments/research-proposal.html#intellectual-merit",
     "title": "Assignment 3 · Research Proposal",
     "section": "5 Intellectual Merit",
-    "text": "5 Intellectual Merit\nThe Intellectual Merit portion should make a convincing case that the proposed research is worth doing. Depending on the project, this may involve:\n\nIdentifying an important open question or gap in current understanding;\nProposing a novel theoretical, computational, experimental, or analytical approach;\nDeveloping a new tool, method, dataset, model, or capability;\nConnecting your project to broader questions in physics, astrophysics, engineering, or another relevant field;\nExplaining what a successful outcome would teach the field."
+    "text": "5 Intellectual Merit\nNSF defines Intellectual Merit as “the potential to advance knowledge.” For the GRFP, reviewers apply that to you, the applicant, not only to the project (U.S. National Science Foundation 2026). They may weigh your ability to plan and conduct research, work independently and as part of a team, interpret and communicate research, take initiative, think creatively, solve problems, and persist through challenges, along with your demonstrated intellectual ability (grades, coursework, awards).\nYour Intellectual Merit section should make two cases.\nThe research is worth doing. Depending on the project, this may involve:\n\nIdentifying an important open question or gap in current understanding;\nProposing a novel theoretical, computational, experimental, or analytical approach;\nDeveloping a new tool, method, dataset, model, or capability;\nConnecting your project to broader questions in physics, astrophysics, engineering, or another relevant field;\nExplaining what a successful outcome would teach the field.\n\nYou are ready to do it. For example:\n\nResearch experience that prepared you for this project, and what you did in it;\nTechniques, instruments, codes, or analyses you have already used and will build on;\nEvidence that you can carry a project through: a result, a presentation, a problem you solved."
   },
   {
     "objectID": "assignments/research-proposal.html#broader-impacts",
     "href": "assignments/research-proposal.html#broader-impacts",
     "title": "Assignment 3 · Research Proposal",
     "section": "6 Broader Impacts",
-    "text": "6 Broader Impacts\nThe Broader Impacts portion should explain how the work or its surrounding activities may benefit society or contribute to broader goals beyond the immediate technical result. NSF describes broader impacts as the potential to benefit society and contribute to desired societal outcomes.\nDepending on the proposal, broader impacts might include:\n\nEducational outreach or public engagement;\nBroadening access to scientific knowledge or research participation;\nDevelopment of tools, software, open resources, or data products;\nApplications that support technology, energy, health, infrastructure, sustainability, or national needs;\nTraining, mentoring, or workforce development;\nContributions to scientific communication or public understanding."
+    "text": "6 Broader Impacts\nThe Broader Impacts portion should explain how the work or its surrounding activities may benefit society or contribute to broader goals beyond the immediate technical result. NSF describes broader impacts as the potential to benefit society and contribute to desired societal outcomes. As with Intellectual Merit, GRFP reviewers judge the likelihood that your activities will produce these outcomes, so build on what you have already done.\nDepending on the proposal, broader impacts might include:\n\nEducational outreach or public engagement;\nBroadening access to scientific knowledge or research participation;\nDevelopment of tools, software, open resources, or data products;\nApplications that support technology, energy, health, infrastructure, sustainability, or national needs;\nTraining, mentoring, or workforce development;\nContributions to scientific communication or public understanding."
   },
   {
     "objectID": "assignments/research-proposal.html#level-of-polish-expected",
@@ -536,7 +536,7 @@
     "href": "assignments/research-proposal.html#submission-checklist",
     "title": "Assignment 3 · Research Proposal",
     "section": "9 Submission Checklist",
-    "text": "9 Submission Checklist\n\nI wrote a research proposal of two pages or less, including references.\nI followed the NSF formatting rules: 1-inch margins, no page numbers, and 11 pt or larger font.\nI included explicit attention to Intellectual Merit.\nI included explicit attention to Broader Impacts.\nI edited the proposal for clarity, professionalism, and near-submission quality.\nI included an AI Usage Statement, if needed."
+    "text": "9 Submission Checklist\n\nI wrote a research proposal of two pages or less, including references.\nI followed the NSF formatting rules: 1-inch margins, no page numbers, and 11 pt or larger font.\nI included explicit attention to Intellectual Merit: what the project would add to the field and why I am prepared to do it.\nI included explicit attention to Broader Impacts.\nI edited the proposal for clarity, professionalism, and near-submission quality.\nI included an AI Usage Statement, if needed."
   },
   {
     "objectID": "assignments/online-profile.html",
@@ -1054,7 +1054,14 @@
     "href": "lectures/lecture-06.html#the-two-review-criteria",
     "title": "Research Proposals and GRFP-Style Writing",
     "section": "The two review criteria",
-    "text": "The two review criteria\nEvery reviewer scores you on exactly two things.\n\n\nIntellectual Merit\nPotential to advance knowledge.\n\nIs the question worth asking?\nIs the approach sound and feasible?\n\n\nBroader Impacts\nPotential to benefit society.\n\nOutreach, teaching, mentoring\nBroadening participation in STEM\nApplications beyond your subfield\n\n\n\nBroader Impacts is where most physics applications fail. It is not a paragraph you append at the end. Write it into both documents.\n\n\n(U.S. National Science Foundation 2026b)"
+    "text": "The two review criteria\nEvery reviewer scores you on exactly two things.\n\n\nIntellectual Merit\nYour potential to advance knowledge.\n\nIs the question worth asking?\nCan you carry it out?\n\n\nBroader Impacts\nYour potential to benefit society.\n\nOutreach, teaching, mentoring\nBroadening participation in STEM\nApplications beyond your subfield\n\n\n\nBroader Impacts is where most physics applications fail. It is not a paragraph you append at the end. Write it into both documents.\n\n\n(U.S. National Science Foundation 2026b)"
+  },
+  {
+    "objectID": "lectures/lecture-06.html#intellectual-merit-1",
+    "href": "lectures/lecture-06.html#intellectual-merit-1",
+    "title": "Research Proposals and GRFP-Style Writing",
+    "section": "Intellectual Merit",
+    "text": "Intellectual Merit\nNSF’s criterion is “the potential to advance knowledge.” The GRFP applies it to the applicant. Reviewers may weigh your ability to:\n\n\n\nPlan and conduct research\nWork independently and on a team\nInterpret and communicate research\nTake initiative and think creatively\n\n\n\nSolve problems\nPersist and overcome challenges\nShow intellectual ability: grades, coursework, awards\n\n\n\nYour research plan is evidence for this list. A clear, feasible plan shows you can plan research; the writing shows you can communicate it.\n\n\nNSF 26-526, Section VI.A · (U.S. National Science Foundation 2026b)\n\n\nSection VI.A gives the NSB definitions, then lists these factors as what reviewers “will consider in assessing potential Intellectual Merit of the application,” framed as the applicant’s ability. Broader Impacts is framed the same way: “the likelihood that the applicant’s activities will…”\nThe how-to-apply page still describes the Research Plan’s Intellectual Merit section in project terms (“advance knowledge in your field”), so students need both: the project is worth doing, and they can do it."
   },
   {
     "objectID": "lectures/lecture-06.html#a-proposal-is-not-a-summary-of-a-field",
@@ -1082,7 +1089,7 @@
     "href": "lectures/lecture-06.html#writing-intellectual-merit",
     "title": "Research Proposals and GRFP-Style Writing",
     "section": "Writing Intellectual Merit",
-    "text": "Writing Intellectual Merit\nThe reviewer’s question: is this worth doing, and can you do it?\n\nThe gap: what is not known, and a citation showing it is not\nThe approach: why your method can close that gap\nThe scope: feasible for an early graduate student with a mentor\nThe payoff: what the field learns if it works, and if it does not\n\n\nFeasible beats ambitious. A project that can work in three years scores better than a field-changing idea that cannot."
+    "text": "Writing Intellectual Merit\nThe reviewer’s question: is this worth doing, and can you do it?\n\nThe gap: what is not known, and a citation showing it is not\nThe approach: why your method can close that gap\nYou: what you have already done that shows you can do this (a technique, instrument, code, or result)\nThe scope: feasible for an early graduate student with a mentor\nThe payoff: what the field learns if it works, and if it does not\n\n\nFeasible beats ambitious. A project that can work in three years scores better than a field-changing idea that cannot."
   },
   {
     "objectID": "lectures/lecture-06.html#writing-broader-impacts",
@@ -1117,35 +1124,28 @@
     "href": "lectures/lecture-06.html#example-antibiotic-resistance",
     "title": "Research Proposals and GRFP-Style Writing",
     "section": "Example: antibiotic resistance",
-    "text": "Example: antibiotic resistance"
+    "text": "Example: antibiotic resistance\n\n\n\n\n\n\nCopyright © by the Authors · Source: (Broad Research Communication Lab, n.d.)"
   },
   {
     "objectID": "lectures/lecture-06.html#example-viral-photosensitivity",
     "href": "lectures/lecture-06.html#example-viral-photosensitivity",
     "title": "Research Proposals and GRFP-Style Writing",
     "section": "Example: viral photosensitivity",
-    "text": "Example: viral photosensitivity"
+    "text": "Example: viral photosensitivity\n\n\n\n\n\n\nCopyright © by the Authors · Source: (Broad Research Communication Lab, n.d.)"
   },
   {
-    "objectID": "lectures/lecture-06.html#physics-example-neutrino-mass-with-project-8",
-    "href": "lectures/lecture-06.html#physics-example-neutrino-mass-with-project-8",
+    "objectID": "lectures/lecture-06.html#example-neutrino-mass-with-project-8",
+    "href": "lectures/lecture-06.html#example-neutrino-mass-with-project-8",
     "title": "Research Proposals and GRFP-Style Writing",
-    "section": "Physics example: neutrino mass with Project 8",
-    "text": "Physics example: neutrino mass with Project 8"
+    "section": "Example: neutrino mass with Project 8",
+    "text": "Example: neutrino mass with Project 8\n\n\n\n\n\n\nCopyright © by Rachel White · Source: (“NSF GRFP Help” 2026)"
   },
   {
-    "objectID": "lectures/lecture-06.html#astrophysics-example-exomoons",
-    "href": "lectures/lecture-06.html#astrophysics-example-exomoons",
+    "objectID": "lectures/lecture-06.html#example-exomoon-astrophysics",
+    "href": "lectures/lecture-06.html#example-exomoon-astrophysics",
     "title": "Research Proposals and GRFP-Style Writing",
-    "section": "Astrophysics example: exomoons",
-    "text": "Astrophysics example: exomoons"
-  },
-  {
-    "objectID": "lectures/lecture-06.html#common-failure-modes",
-    "href": "lectures/lecture-06.html#common-failure-modes",
-    "title": "Research Proposals and GRFP-Style Writing",
-    "section": "Common failure modes",
-    "text": "Common failure modes\n\nA topic, not a question. There is nothing for a reviewer to score.\nMethods that could not fit in a PhD. Ambition without feasibility.\nBroader Impacts bolted on at the end. One generic paragraph.\nNo references, or references that only pad.\nJargon that only your research group would follow.\nTwo statements that do not connect. NSF advises a consistent theme across both.\n\n\nEach of these is fixable.\n\n\n(U.S. National Science Foundation 2026a)"
+    "section": "Example: exomoon astrophysics",
+    "text": "Example: exomoon astrophysics\n\n\n\n\n\n\nCopyright © by Brooke Kotten · Source: (“NSF GRFP Help” 2026)"
   },
   {
     "objectID": "lectures/lecture-06.html#what-nsf-enforces",
@@ -1159,14 +1159,7 @@
     "href": "lectures/lecture-06.html#setting-it-up-in-latex",
     "title": "Research Proposals and GRFP-Style Writing",
     "section": "Setting it up in LaTeX",
-    "text": "Setting it up in LaTeX\n\n\n\\documentclass[11pt,letterpaper]{article}\n\\usepackage[margin=1in]{geometry}\n\\pagestyle{empty}  % no page numbers\n\n\\begin{document}\n...\n\\section*{Intellectual Merit}\n...\n\\section*{Broader Impacts}\n...\n{\\small\n\\begin{thebibliography}{9}\n...\n\\end{thebibliography}}\n\\end{document}\n\nDo not cheat the page limit\n\nNo \\linespread below 1\nNo negative \\vspace\nNo body text below 11 pt\n\nReviewers notice a crammed page.\nStart from the starter template. New to LaTeX? Learn LaTeX in 30 minutes."
-  },
-  {
-    "objectID": "lectures/lecture-06.html#before-you-leave-today",
-    "href": "lectures/lecture-06.html#before-you-leave-today",
-    "title": "Research Proposals and GRFP-Style Writing",
-    "section": "Before you leave today",
-    "text": "Before you leave today\n\nWrite your research question in one sentence.\nTrade with a neighbor.\nYour neighbor says back, in their own words, what you would measure or calculate.\nIf they cannot, revise the sentence and try again.\n\n\nBring a full draft on Oct. 9. We will workshop it in class, and it is due that night at 11:59 PM ET."
+    "text": "Setting it up in LaTeX\n\n\n\\documentclass[11pt,letterpaper]{article}\n\\usepackage[margin=1in]{geometry}\n\\pagestyle{empty}  % no page numbers\n\n\\begin{document}\n...\n\\section*{Intellectual Merit}\n...\n\\section*{Broader Impacts}\n...\n\\begin{thebibliography}{9}\n...\n\\end{thebibliography}\n\\end{document}\n\nDo not cheat the page limit\n\nNo \\linespread below 1\nNo negative \\vspace\nNo body text below 11 pt\n\nReviewers notice a crammed page.\nStart from the starter template. New to LaTeX? Learn LaTeX in 30 minutes."
   },
   {
     "objectID": "lectures/lecture-06.html#advice-and-examples-from-past-applicants",
@@ -1180,7 +1173,7 @@
     "href": "lectures/lecture-06.html#references",
     "title": "Research Proposals and GRFP-Style Writing",
     "section": "References",
-    "text": "References\n\n\nBroad Research Communication Lab. n.d. “NSF GRFP Research Proposal.” Accessed October 2, 2026. https://mitcommlab.mit.edu/broad/commkit/nsf-research-proposal/.\n\n\nU.S. National Science Foundation. 2026a. “How to Apply: NSF Graduate Research Fellowship Program.” https://www.nsf.gov/funding/initiatives/grfp/how-to-apply.\n\n\nU.S. National Science Foundation. 2026b. “NSF 26-526: NSF Graduate Research Fellowship Program (GRFP).” https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation."
+    "text": "References\n\n\nBroad Research Communication Lab. n.d. “NSF GRFP Research Proposal.” Accessed October 2, 2026. https://mitcommlab.mit.edu/broad/commkit/nsf-research-proposal/.\n\n\n“NSF GRFP Help.” 2026. https://grfphelp.github.io/.\n\n\nU.S. National Science Foundation. 2026a. “How to Apply: NSF Graduate Research Fellowship Program.” https://www.nsf.gov/funding/initiatives/grfp/how-to-apply.\n\n\nU.S. National Science Foundation. 2026b. “NSF 26-526: NSF Graduate Research Fellowship Program (GRFP).” https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation."
   },
   {
     "objectID": "supplemental/resume-cv.html",

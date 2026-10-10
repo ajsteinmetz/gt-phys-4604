@@ -6,8 +6,8 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.10.18">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.9.37">
 
   <meta name="author" content="Andrew J. Steinmetz">
   <title>PHYS 4604 – Writing a Lab Report</title>
@@ -20,13 +20,10 @@
     /* Default styles provided by pandoc.
     ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
     */
+    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: 1.5em;}
-    div.column{flex: auto;}
-    @media screen {
-    div.columns{gap: min(4vw, 1.5em);}
-    div.column{overflow-x: auto;}
-    }
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -205,7 +202,7 @@
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Andrew J. Steinmetz
+Andrew J. Steinmetz 
 </div>
 </div>
 </div>
@@ -537,21 +534,21 @@ Andrew J. Steinmetz
 </div><div class="column" style="width:54%;">
 <h3 id="let-bibtex-do-it">Let BibTeX do it</h3>
 <div style="font-size: 0.8em;">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode numberSource bibtex number-lines code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a aria-label="1"></a><span class="va">@article</span>{<span class="ot">LIGOScientific:2016aoc</span>,</span>
-<span id="cb1-2"><a aria-label="2"></a>    <span class="dt">author</span> = "<span class="st">Abbott, B. P. and others</span>",</span>
-<span id="cb1-3"><a aria-label="3"></a>    <span class="dt">collaboration</span> = "<span class="st">LIGO Scientific, Virgo</span>",</span>
-<span id="cb1-4"><a aria-label="4"></a>    <span class="dt">title</span> = "<span class="st">{Observation of Gravitational Waves from a Binary Black Hole Merger}</span>",</span>
-<span id="cb1-5"><a aria-label="5"></a>    <span class="dt">eprint</span> = "<span class="st">1602.03837</span>",</span>
-<span id="cb1-6"><a aria-label="6"></a>    <span class="dt">archivePrefix</span> = "<span class="st">arXiv</span>",</span>
-<span id="cb1-7"><a aria-label="7"></a>    <span class="dt">primaryClass</span> = "<span class="st">gr-qc</span>",</span>
-<span id="cb1-8"><a aria-label="8"></a>    <span class="dt">reportNumber</span> = "<span class="st">LIGO-P150914</span>",</span>
-<span id="cb1-9"><a aria-label="9"></a>    <span class="dt">doi</span> = "<span class="st">10.1103/PhysRevLett.116.061102</span>",</span>
-<span id="cb1-10"><a aria-label="10"></a>    <span class="dt">journal</span> = "<span class="st">Phys. Rev. Lett.</span>",</span>
-<span id="cb1-11"><a aria-label="11"></a>    <span class="dt">volume</span> = "<span class="st">116</span>",</span>
-<span id="cb1-12"><a aria-label="12"></a>    <span class="dt">number</span> = "<span class="st">6</span>",</span>
-<span id="cb1-13"><a aria-label="13"></a>    <span class="dt">pages</span> = "<span class="st">061102</span>",</span>
-<span id="cb1-14"><a aria-label="14"></a>    <span class="dt">year</span> = "<span class="st">2016</span>"</span>
-<span id="cb1-15"><a aria-label="15"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode numberSource bibtex number-lines code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a></a><span class="va">@article</span>{<span class="ot">LIGOScientific:2016aoc</span>,</span>
+<span id="cb1-2"><a></a>    <span class="dt">author</span> = "<span class="st">Abbott, B. P. and others</span>",</span>
+<span id="cb1-3"><a></a>    <span class="dt">collaboration</span> = "<span class="st">LIGO Scientific, Virgo</span>",</span>
+<span id="cb1-4"><a></a>    <span class="dt">title</span> = "<span class="st">{Observation of Gravitational Waves from a Binary Black Hole Merger}</span>",</span>
+<span id="cb1-5"><a></a>    <span class="dt">eprint</span> = "<span class="st">1602.03837</span>",</span>
+<span id="cb1-6"><a></a>    <span class="dt">archivePrefix</span> = "<span class="st">arXiv</span>",</span>
+<span id="cb1-7"><a></a>    <span class="dt">primaryClass</span> = "<span class="st">gr-qc</span>",</span>
+<span id="cb1-8"><a></a>    <span class="dt">reportNumber</span> = "<span class="st">LIGO-P150914</span>",</span>
+<span id="cb1-9"><a></a>    <span class="dt">doi</span> = "<span class="st">10.1103/PhysRevLett.116.061102</span>",</span>
+<span id="cb1-10"><a></a>    <span class="dt">journal</span> = "<span class="st">Phys. Rev. Lett.</span>",</span>
+<span id="cb1-11"><a></a>    <span class="dt">volume</span> = "<span class="st">116</span>",</span>
+<span id="cb1-12"><a></a>    <span class="dt">number</span> = "<span class="st">6</span>",</span>
+<span id="cb1-13"><a></a>    <span class="dt">pages</span> = "<span class="st">061102</span>",</span>
+<span id="cb1-14"><a></a>    <span class="dt">year</span> = "<span class="st">2016</span>"</span>
+<span id="cb1-15"><a></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 </div></div>
 <div style="font-size: 0.8em;">
