@@ -14,9 +14,7 @@ format:
     auto-stretch: false
 ---
 
-## How grad school is just like kindergarten
-
-![](figs/fluff/phd-comic-grad-school-kindergarten.gif){fig-align="center" height="580px" fig-alt="PHD Comics strip titled How Grad School Is Just Like Kindergarten, six paired panels comparing kindergarteners to grad students: all-day napping is acceptable, there is constant adult supervision, you get cookies for lunch, the most common activity is cutting and pasting, there are no grades (you just have to play well with others), and crying for your mommy is normal."}
+![](figs/fluff/phd-comic-grad-school-kindergarten.gif){fig-align="center" height="650px" fig-alt="PHD Comics strip titled How Grad School Is Just Like Kindergarten, six paired panels comparing kindergarteners to grad students: all-day napping is acceptable, there is constant adult supervision, you get cookies for lunch, the most common activity is cutting and pasting, there are no grades (you just have to play well with others), and crying for your mommy is normal."}
 
 ::: {.cite-note}
 Copyright &copy; 2010 by Jorge Cham &middot; Source: [@phdcomics_kindergarten]
@@ -58,11 +56,13 @@ Copyright &copy; 2010 by Jorge Cham &middot; Source: [@phdcomics_kindergarten]
 ::::
 
 ::: {style="font-size: 0.85em;"}
-**90%** of first-year physics grad students are in PhD-granting departments. Also consider applied physics, materials science, optics, medical physics, and astronomy, or the [APS Bridge Program](https://www.aps.org/programs/minorities/bridge/).
+**PhD abroad:** in much of Europe a **master's comes first**, then a **3&ndash;5 year PhD**, often a **paid position** with a named supervisor (e.g., Germany, the Netherlands). UK research-council funding for international students is capped at 30% of awards.
+
+Also consider applied physics, materials science, optics, medical physics, and astronomy.
 :::
 
 ::: {.cite-note}
-[@aip_firstyear2019; @aps_bridge]
+[@aip_firstyear2019; @rig_faq; @uva_kdvi_phd; @ukri_intl2021]
 :::
 
 ---
@@ -76,7 +76,7 @@ Copyright &copy; 2010 by Jorge Cham &middot; Source: [@phdcomics_kindergarten]
 
 For Physics, Applied Physics, and Astrophysics majors.
 
-- **To apply:** &ge; 30 GT credit hours, &ge; 3.3 GPA, &lt; 90 total hours
+- **To apply:** &ge; 30 GT credit hours, &ge; 3.3 GPA, &lt; 90 total hours (can be waived)
 - **6 hours** of 4000-level+ courses count toward both degrees
 - Thesis or non-thesis M.S.
 - **No application fee**, GRE optional, one letter
