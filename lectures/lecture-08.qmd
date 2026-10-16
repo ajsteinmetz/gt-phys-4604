@@ -42,21 +42,21 @@ Copyright &copy; 2010 by Jorge Cham &middot; Source: [@phdcomics_kindergarten]
 ::: {.column width="50%"}
 ### Direct PhD
 
-- **The U.S. physics norm:** apply straight from your B.S.
-- **Funded:** tuition waiver plus a stipend
-- About **5&ndash;6 years**; often an M.S. along the way
+- The U.S. physics norm: apply straight from your B.S.
+- **Funded:** tuition waiver plus a stipend (CoS GT: $37,500/yr for the 2026-27 academic year)
+- About 5&ndash;6 years; often an M.S. along the way
 :::
 ::: {.column width="50%"}
 ### Terminal M.S.
 
-- **1&ndash;2 years**, coursework or thesis
-- **Often self-funded**; master's-only departments pay much smaller stipends
+- 1&ndash;2 years, coursework or thesis
+- **Often self-funded**; or funded via external job
 - A route to industry, or a step toward a PhD
 :::
 ::::
 
 ::: {style="font-size: 0.85em;"}
-**PhD abroad:** in much of Europe a **master's comes first**, then a **3&ndash;5 year PhD**, often a **paid position** with a named supervisor (e.g., Germany, the Netherlands). UK research-council funding for international students is capped at 30% of awards.
+**PhD abroad:** in much of Europe a **master's comes first**, then a 3&ndash;5 year PhD, often a paid position with a named supervisor (e.g., Germany, the Netherlands). UK research-council funding for international students is capped at 30% of awards.
 
 Also consider applied physics, materials science, optics, medical physics, and astronomy.
 :::
@@ -76,10 +76,10 @@ Also consider applied physics, materials science, optics, medical physics, and a
 
 For Physics, Applied Physics, and Astrophysics majors.
 
-- **To apply:** &ge; 30 GT credit hours, &ge; 3.3 GPA, &lt; 90 total hours (can be waived)
-- **6 hours** of 4000-level+ courses count toward both degrees
+- To apply: &ge; 30 GT credit hours, &ge; 3.3 GPA, &lt; 90 total hours (can be waived)
+- 6 hours of 4000-level+ courses count toward both degrees
 - Thesis or non-thesis M.S.
-- **No application fee**, GRE optional, one letter
+- No application fee, GRE optional, one letter
 - Deadline **Dec. 15**
 :::
 ::: {.column width="50%"}
@@ -87,8 +87,8 @@ For Physics, Applied Physics, and Astrophysics majors.
 
 Scheller College of Business; open to all College of Sciences majors.
 
-- M.S. with a major in Management, **30 credit hours**
-- **6 hours** count toward both degrees
+- M.S. with a major in Management, 30 credit hours
+- 6 hours count toward both degrees
 - Full-time, on campus, fall start
 - Scheller's 2025 criteria: &ge; 60 credit hours, &ge; 3.5 GPA, two letters
 :::
@@ -118,7 +118,7 @@ Finish the M.S. within **two years** of your B.S. for shared credits to count. U
 | Research assistantship | 9% |
 :::
 ::: {.column width="50%"}
-- Most also receive a **full tuition waiver**
+- Most also receive a full tuition waiver
 - TAs usually come first; RAs come from your advisor's grants once you join a group
 - A fellowship moves with you and frees you to pick any advisor
 :::
@@ -142,23 +142,19 @@ Survey years 2014&ndash;15 and 2015&ndash;16 &middot; [@aip_firstyear2019]
 
 - **Down 8%** (270 students): the largest drop since 1994
 - Domestic down 5%; international down 11%
-- **3,364** first-year students in all
+- 3,364 first-year students in all
 :::
 ::: {.column width="50%"}
 **Fall 2026 and 2027 offers**
 
 - **55%** of PhD programs made fewer international offers
 - U.S. offers: roughly even split of more, same, and fewer
-- Most plan about the **same number of offers** for fall 2027
+- Most plan about the same number of offers for fall 2027
 :::
 ::::
 
 ::: {style="font-size: 0.85em;"}
-Meanwhile, a record **2,067** physics PhDs were conferred in 2024&ndash;25.
-:::
-
-::: {.highlight-box}
-Fewer seats: build a **wider, well-tiered list**.
+Meanwhile, a record 2,067 physics PhDs were conferred in 2024&ndash;25.
 :::
 
 ::: {.cite-note}
@@ -202,10 +198,10 @@ Check each program's website: "apply to the department" or "contact faculty firs
 ## Large programs: target the department
 
 - **At least three faculty** you'd work with; funding, retirements, and moves happen
-- **Breadth**, and how easy it is to switch groups
-- **Qualifying exams:** what, when, and how many pass
-- **Time to degree** and where graduates go
-- **Stipend vs. cost of living** in that city
+- Breadth, and how easy it is to switch groups
+- Qualifying exams: what, when, and how many pass
+- Time to degree and where graduates go
+- Stipend vs. cost of living in that city
 - [GradSchoolShopper](https://www.gradschoolshopper.com/) (AIP): applicants and admits by department
 
 ::: {.highlight-box}
@@ -220,11 +216,11 @@ You are betting on a **department**, not a person.
 
 ## Smaller or niche programs: target the advisor
 
-- **Find one to three faculty** whose work you want to do
-- **Read their papers** from the last two or three years; websites go stale
+- Find one to three faculty whose work you want to do
+- Read their papers from the last two or three years; websites go stale
 - **Email before you apply** (October&ndash;November): are they taking students for Fall 2027?
-- **Name them** in your statement of purpose
-- **Ask a mentor here** for an introduction; a referral beats a cold email
+- Name them in your statement of purpose
+- Ask a mentor here for an introduction; a referral beats a cold email
 
 ::: {.highlight-box}
 At a small program, one faculty member saying "I want this student" can decide your admission.
@@ -268,7 +264,7 @@ Thank you, [Name]
 - How is the group funded?
 - Where did past students go?
 - How often do you meet?
-- Also: talk to **current students** without the advisor in the room
+- Also: talk to current students without the advisor in the room
 :::
 :::
 ::::
@@ -318,11 +314,11 @@ Thank you, [Name]
 ::: {style="font-size: 0.85em;"}
 | When | What |
 |---|---|
-| **Sept.&ndash;Oct.** | Build your list; GRFP; ask letter writers (&ge; 4 weeks ahead) |
-| **Oct.&ndash;Nov.** | Contact faculty; last fall Physics GRE window is Oct. 19&ndash;Nov. 1 |
-| **Dec. 1&ndash;Jan. 15** | Most deadlines (Georgia Tech Physics: Dec. 15) |
-| **Jan.&ndash;Mar.** | Interviews, offers, and visit weekends |
-| **Apr. 15** | Decision date for funded offers |
+| Sept.&ndash;Oct. | Build your list; GRFP; ask letter writers (&ge; 4 weeks ahead) |
+| Oct.&ndash;Nov. | Contact faculty; last fall Physics GRE window is Oct. 19&ndash;Nov. 1 |
+| Dec. 1&ndash;Jan. 15 | Most deadlines (Georgia Tech Physics: Dec. 15) |
+| Jan.&ndash;Mar. | Interviews, offers, and visit weekends |
+| Apr. 15 | Decision date for funded offers |
 
 : {tbl-colwidths="[25,75]"}
 :::
@@ -344,17 +340,17 @@ No program can make you accept a funded offer **before April 15**. Use the time 
 ::: {style="font-size: 0.85em;"}
 **Fees** (domestic / international)
 
-- Georgia Tech: **$95** / $105
-- UC Berkeley: **$135** / $155
+- Georgia Tech: $95 / $105
+- UC Berkeley: $135 / $155
 - Ten programs: about **$1,000**
-- **Waivers:** McNair, Pell, first-gen, NSF REU, GRFP, veterans; or ask the graduate coordinator
+- Waivers: McNair, Pell, first-gen, NSF REU, GRFP, veterans; or ask the graduate coordinator
 :::
 :::
 ::: {.column width="45%"}
 ::: {style="font-size: 0.85em;"}
 **How many**
 
-- **6&ndash;12** is common
+- 6&ndash;12 is common
 - A tiered list of about **10**:
   - 2&ndash;3 reach
   - 4&ndash;5 good matches
