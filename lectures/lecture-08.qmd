@@ -28,6 +28,7 @@ Copyright &copy; 2010 by Jorge Cham &middot; Source: [@phdcomics_kindergarten]
 |---|---|---|
 | **NSF GRFP reference letters** | Oct. 16 (today), 8:00 PM ET | &ndash; |
 | **NSF GRFP deadline** &ndash; Physics & Astronomy | Oct. 23, 8:00 PM ET | &ndash; |
+| Astrophysics/Astronomy Graduate Q&A (Room CCB 103) | Nov. 12, 3:30&ndash;4:30PM | &ndash; |
 | [Personal statement or cover letter](../assignments/personal-statement.qmd) | Nov. 20, 11:59 PM ET | 15% |
 
 ::: {.highlight-box}
@@ -44,21 +45,21 @@ Copyright &copy; 2010 by Jorge Cham &middot; Source: [@phdcomics_kindergarten]
 
 - The U.S. physics norm: apply straight from your B.S.
 - **Funded:** tuition waiver plus a stipend (CoS GT: $37,500/yr for the 2026-27 academic year)
-- About 5&ndash;6 years; often an M.S. along the way
+- About 5&ndash;6 years; often M.S. along the way
 :::
 ::: {.column width="50%"}
 ### Terminal M.S.
 
 - 1&ndash;2 years, coursework or thesis
 - **Often self-funded**; or funded via external job
-- A route to industry, or a step toward a PhD
+- Primarily a route to industry
 :::
 ::::
 
 ::: {style="font-size: 0.85em;"}
 **PhD abroad:** in much of Europe a **master's comes first**, then a 3&ndash;5 year PhD, often a paid position with a named supervisor (e.g., Germany, the Netherlands). UK research-council funding for international students is capped at 30% of awards.
 
-Also consider applied physics, materials science, optics, medical physics, and astronomy.
+Also consider engineering, materials science, optics, medical physics, and astronomy.
 :::
 
 ::: {.cite-note}
@@ -95,7 +96,7 @@ Scheller College of Business; open to all College of Sciences majors.
 ::::
 :::
 
-::: {.highlight-box}
+::: {.highlight-box style="font-size: 0.72em;"}
 Finish the M.S. within **two years** of your B.S. for shared credits to count. Undergraduate scholarships do not cover the M.S. year.
 :::
 
@@ -155,6 +156,10 @@ Survey years 2014&ndash;15 and 2015&ndash;16 &middot; [@aip_firstyear2019]
 
 ::: {style="font-size: 0.85em;"}
 Meanwhile, a record 2,067 physics PhDs were conferred in 2024&ndash;25.
+:::
+
+::: {.highlight-box}
+The international picture is depressed, domestic is similar.
 :::
 
 ::: {.cite-note}
