@@ -28,7 +28,7 @@ Copyright &copy; 2010 by Jorge Cham &middot; Source: [@phdcomics_kindergarten]
 |---|---|---|
 | **NSF GRFP reference letters** | Oct. 16 (today), 8:00 PM ET | &ndash; |
 | **NSF GRFP deadline** &ndash; Physics & Astronomy | Oct. 23, 8:00 PM ET | &ndash; |
-| Astrophysics/Astronomy Graduate Q&A (Room CCB 103) | Nov. 12, 3:30&ndash;4:30PM | &ndash; |
+| Astrophysics/Astro Graduate Q&A (Room CCB 103) | Nov. 12, 3:30&ndash;4:30 PM ET | &ndash; |
 | [Personal statement or cover letter](../assignments/personal-statement.qmd) | Nov. 20, 11:59 PM ET | 15% |
 
 ::: {.highlight-box}
@@ -78,8 +78,7 @@ Also consider engineering, materials science, optics, medical physics, and astro
 For Physics, Applied Physics, and Astrophysics majors.
 
 - To apply: &ge; 30 GT credit hours, &ge; 3.3 GPA, &lt; 90 total hours (can be waived)
-- 6 hours of 4000-level+ courses count toward both degrees
-- Thesis or non-thesis M.S.
+- 6 hours of 4000-level+ courses count toward both degrees; thesis or non-thesis M.S.
 - No application fee, GRE optional, one letter
 - Deadline **Dec. 15**
 :::
@@ -135,22 +134,20 @@ Survey years 2014&ndash;15 and 2015&ndash;16 &middot; [@aip_firstyear2019]
 
 ---
 
-## The admissions landscape this cycle
+## The Physics/Astro admissions landscape this cycle
 
 :::: {.columns style="font-size: 0.85em;"}
 ::: {.column width="50%"}
 **Fall 2025 first-year enrollment, PhD departments**
 
-- **Down 8%** (270 students): the largest drop since 1994
+- **Down 8%** (270 enrollments)
 - Domestic down 5%; international down 11%
-- 3,364 first-year students in all
 :::
 ::: {.column width="50%"}
 **Fall 2026 and 2027 offers**
 
-- **55%** of PhD programs made fewer international offers
-- U.S. offers: roughly even split of more, same, and fewer
-- Most plan about the same number of offers for fall 2027
+- Half of PhD programs made fewer international offers
+- Most plan about the same number of offers for Fall 2027
 :::
 ::::
 
@@ -195,14 +192,14 @@ Check each program's website: "apply to the department" or "contact faculty firs
 :::
 
 ::: {.cite-note}
-[@aapt_gradchoice; @yale_adviser]
+[@aapt_gradchoice]
 :::
 
 ---
 
 ## Large programs: target the department
 
-- **At least three faculty** you'd work with; funding, retirements, and moves happen
+- **At least three faculty** you'd work with; funding changes, retirements, and moves happen
 - Breadth, and how easy it is to switch groups
 - Qualifying exams: what, when, and how many pass
 - Time to degree and where graduates go
@@ -245,7 +242,7 @@ At a small program, one faculty member saying "I want this student" can decide y
 ```{.text code-line-numbers="false"}
 Subject: Prospective PhD student, Fall 2027
 
-Dear Prof. Lee,
+Dear Prof. Lastname,
 
 I am a senior in physics at Georgia Tech,
 working with Prof. X on [project]. I read
@@ -321,7 +318,7 @@ Thank you, [Name]
 |---|---|
 | Sept.&ndash;Oct. | Build your list; GRFP; ask letter writers (&ge; 4 weeks ahead) |
 | Oct.&ndash;Nov. | Contact faculty; last fall Physics GRE window is Oct. 19&ndash;Nov. 1 |
-| Dec. 1&ndash;Jan. 15 | Most deadlines (Georgia Tech Physics: Dec. 15) |
+| Dec. 1&ndash;Jan. 15 | Most deadlines |
 | Jan.&ndash;Mar. | Interviews, offers, and visit weekends |
 | Apr. 15 | Decision date for funded offers |
 
@@ -333,7 +330,7 @@ No program can make you accept a funded offer **before April 15**. Use the time 
 :::
 
 ::: {.cite-note}
-[@ets_gre_subject; @gt_physics_bsms; @cgs_april15]
+[@ets_gre_subject; @cgs_april15]
 :::
 
 ---
