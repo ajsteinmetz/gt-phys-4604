@@ -15,3 +15,4 @@ subtitle: "PHYS 4604: Professional Development"
 | 6 | Oct. 2 | Research Proposals and GRFP-Style Writing | [Open slides](lecture-06.qmd){target="_blank"} |
 | 7 | Oct. 9 | Research Proposal Peer Review Workshop; guest speaker | &ndash; |
 | 8 | Oct. 16 | Graduate School Pathways & Selecting Programs | [Open slides](lecture-08.qmd){target="_blank"} |
+| 9 | Oct. 23 | Graduate School Application Materials | [Open slides](lecture-09.qmd){target="_blank"} |
