@@ -1,5 +1,8 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "!course-files/grad-panel/"
 
 website:
   title: "PHYS 4604"

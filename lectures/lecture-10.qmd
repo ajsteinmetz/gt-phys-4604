@@ -1,0 +1,23 @@
+---
+pagetitle: "Graduate Student Panel"
+author: "Andrew J. Steinmetz"
+date: "October 30, 2026"
+format:
+  revealjs:
+    theme: [default, gatech-revealjs.css]
+    slide-number: c/t
+    transition: none
+    footer: "PHYS 4604 &middot; Fall 2026 &middot; Georgia Institute of Technology"
+    width: 1200
+    height: 750
+    auto-stretch: false
+---
+
+## Graduate Student Panel
+
+::: {.nonincremental style="display: flex; justify-content: center; margin-top: 1.2em; font-size: 1.4em; line-height: 2.0;"}
+1. Applications and admissions
+2. Choosing and working with an advisor
+3. Life as a graduate student
+4. Careers after graduate school
+:::

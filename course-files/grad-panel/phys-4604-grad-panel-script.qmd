@@ -1,0 +1,77 @@
+---
+# Moderator script for the graduate student panel, October 30, 2026. Not part of the website build.
+# Render: quarto render phys-4604-grad-panel-script.qmd
+format:
+  typst:
+    papersize: us-letter
+    margin:
+      x: 0.75in
+      y: 0.5in
+    mainfont: Libertinus Serif
+    fontsize: 10.0pt
+    include-in-header:
+      text: |
+        #set par(justify: true, leading: 0.55em, spacing: 0.6em)
+        #show heading.where(level: 1): set text(size: 13.5pt)
+        #show heading.where(level: 1): set block(above: 0pt, below: 0.5em)
+        #show heading.where(level: 2): set text(size: 11.5pt)
+        #show heading.where(level: 2): set block(above: 0.9em, below: 0.5em)
+        #set list(spacing: 0.5em)
+        #set enum(spacing: 0.5em)
+---
+
+# PHYS 4604 Graduate Student Panel: Question Script
+
+**Prepared by:** Andrew J. Steinmetz, School of Physics, Georgia Tech &middot; **Date:** October 30, 2026
+
+Eight students submitted 16 questions. They are grouped below into four categories plus a closing question, and the order runs from applying to grad school, to picking an advisor, to daily life, to careers. Names are removed; student context (field, major, international status) is kept only where the answer depends on it.
+
+## Moderator notes
+
+- **Opening (about 1 minute per panelist):** ask each panelist for their name, year, research area, where they did undergrad, and one sentence on how they ended up here.
+- **Format:** every question goes to all panelists. Go down the line with short answers, and rotate who answers first.
+- **(Core)** marks questions with the broadest appeal for juniors and seniors. If time runs short, ask these first.
+- **Follow-ups** are optional prompts to use if an answer stays general.
+- Questions about numbers (applications, acceptances) are optional to answer; say so when asking.
+
+## 1. Applications and admissions
+
+1. **How many programs did you apply to, and how many acceptances did you get?** How did you settle on that number? (Core)
+    - Asked by two students; sharing numbers is optional
+2. **Which matters more for getting accepted: research experience or undergraduate grades?** (Core)
+    - Follow-up: if one of those was weaker for you, how did you address it in your application?
+3. **Did you take the Physics GRE or the general GRE? Why or why not?**
+    - Follow-up: how much did it seem to matter at the programs you applied to?
+4. **When your interests sit between fields, how do you decide which kind of department to apply to?** (Core)
+    - Context: one student is a math and physics double major doing computational neuroscience research and is weighing physics against neuroscience or applied math programs. Another, interested in astrophysics, is weighing astronomy against physics at schools that have both.
+5. **If your undergraduate research is in a different or unrelated field from what you want to do in grad school, does that hurt your chances?**
+6. **What should international students know about PhD funding?**
+    - Context: several fellowships, such as the NSF GRFP, are not open to international students. Does that affect how departments decide whether to admit them? Invite any international panelists to answer first.
+7. **What were admitted-student visits and open houses like?** Were you flown out anywhere, or interviewed?
+    - Follow-up: did anything you saw on a visit change your decision?
+
+## 2. Choosing and working with an advisor
+
+8. **Did you end up in the research group you applied to work with? If not, how did you find your current group?** (Core)
+9. **Does the department you enter limit which advisors you can work with?**
+    - Context: for example, a student in a physics PhD who wants an advisor in neuroscience or applied math. How common are co-advisors or cross-department advisors at your school?
+10. **When you visited or rotated through groups, did you talk to the grad students without the PI there?** What did you ask them, and what told you a group was a good fit?
+
+## 3. Life as a graduate student
+
+11. **What are the biggest differences between grad school and undergrad?** Think workload, classes, structure, and academic life overall. (Core)
+12. **What does your typical week look like now?** Roughly how is your time split between research, coursework, and teaching?
+13. **How have you seen AI being integrated into research workflows?** Does it improve the quality of the work, speed it up, or both?
+14. **How do you feel about your work-life balance? How much time do you have for hobbies and extracurriculars?** (Core)
+
+## 4. Careers after graduate school
+
+15. **How do you figure out which career paths outside academia best suit your skills?** (Core)
+    - Follow-up: what are you doing during your PhD to keep those options open (internships, skills, networking)?
+
+## Closing
+
+16. **Looking back on undergrad, what are you most grateful you did?** And if you could go back, is there anything you'd do a little differently? (Core)
+    - One or two sentences each
+
+After the closing question, open the floor to audience questions if time allows, then thank the panelists.
