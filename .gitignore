@@ -13,7 +13,7 @@ Thumbs.db
 *~
 
 # Build artifacts
-/.quarto/
+.quarto/
 /_site/
 **/*_files/
 
