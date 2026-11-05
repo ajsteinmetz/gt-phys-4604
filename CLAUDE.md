@@ -1,6 +1,6 @@
 # Course Conventions
 
-Quarto website for a Georgia Tech course, instructor Andrew J. Steinmetz. All GT course repos share one scaffold and one set of conventions, and are named `gt-<school>-<course-number>`: `gt-gt-1000` (GT 1000, First-Year Seminar), `gt-phys-4321` (PHYS 4321/4322, Advanced Laboratory I/II), and `gt-phys-4604` (PHYS 4604, Professional Development). The shared conventions below are identical in every course repo's `CLAUDE.md`; keep them in sync when any one changes.
+Quarto website for a Georgia Tech course, instructor Andrew J. Steinmetz. All GT course repos share one scaffold and one set of conventions, and are named `gt-<school>-<course-number>`: `gt-gt-1000` (GT 1000, First-Year Seminar), `gt-phys-3209` (PHYS 3209, Electronics I), `gt-phys-4321` (PHYS 4321/4322, Advanced Laboratory I/II), and `gt-phys-4604` (PHYS 4604, Professional Development). The shared conventions below are identical in every course repo's `CLAUDE.md`; keep them in sync when any one changes.
 
 ## Working in this repo
 
