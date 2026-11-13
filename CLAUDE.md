@@ -80,7 +80,7 @@ All `.qmd`, `.md`, and `.yml` source is ASCII-only. Write special characters as 
 - One slide per `##` heading, with `---` on its own line between slides.
 - Slide titles are **sentence case** (unlike page headings): "Writing strong bullets", "Where do new physics PhDs work?". Capitalize the first word after a `Part N:` or `Aside:` label ("Part III: The graduate school path"); after any other colon, lowercase ("Study abroad: the deadlines are earlier than you think"). Proper nouns and official names keep their capitals: GT 1000, NSF GRFP, PhD, CV, Team Leader, Fall 2026 All Majors Career Fair, assignment names (Campus Scavenger Hunt), and the majors Physics, Astrophysics, and Applied Physics.
 - Usual opening: a "Due dates"/"Upcoming" slide with a `| What | When | Points |` table. Usual close: a `## References` slide containing `::: {#refs}` (add `{.scrollable}` and `style="font-size: 0.7em;"` when long).
-- Section dividers: `## Part II: Sentence-case title {.section-slide background-color="#003057"}`.
+- Section dividers: do not add standalone divider slides. Mark a new part in the title of its first content slide instead: `## Part II: How a typical hiring process runs`.
 - Slide building blocks (styled in `lectures/gatech-revealjs.css`):
   - `::: {.highlight-box}` for the key takeaway (hyphen, not underscore).
   - `::: {.cite-note}` under a figure or claim for its source, e.g. `Source: [@key]`.

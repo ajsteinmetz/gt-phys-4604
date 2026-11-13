@@ -31,11 +31,7 @@ format:
 
 ---
 
-## Part I: Industry cover letters {.section-slide background-color="#003057"}
-
----
-
-## Most physics jobs don't say "physics"
+## Part I: Most physics jobs don't say "physics"
 
 ::: {style="font-size: 0.8em;"}
 | Category | Job titles reported by new physics bachelors |
@@ -305,11 +301,7 @@ The same rules carry over from Lecture 9: specific evidence, first person, activ
 
 ---
 
-## Part II: Industry interviews {.section-slide background-color="#003057"}
-
----
-
-## How a typical hiring process runs
+## Part II: How a typical hiring process runs
 
 :::: {.columns style="font-size: 0.85em;"}
 ::: {.column width="25%"}
@@ -601,11 +593,7 @@ Salary is the most commonly negotiated term. A polite, researched ask is normal.
 
 ---
 
-## Part III: The same skills in academic interviews {.section-slide background-color="#003057"}
-
----
-
-## Same skills, different room
+## Part III: Same skills, different room
 
 ::: {style="font-size: 0.8em;"}
 | Industry interview | Graduate school interview or visit |
