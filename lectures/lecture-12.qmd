@@ -25,10 +25,6 @@ format:
 | [External participation](../assignments/external-participation.qmd) | Dec. 4, 11:59 PM ET | 4% |
 :::
 
-::: {.highlight-box}
-**The goal of today's lecture:** leave with industry work you would target, a salary range, and one interview story, ready to practice at next week's workshop.
-:::
-
 ---
 
 ## Part I: Most physics jobs don't say "physics"
@@ -47,11 +43,11 @@ format:
 
 ::: {style="font-size: 0.85em;"}
 - **Search by skill and tool**, not by degree: optics, lasers, vacuum, RF, metrology, test, simulation, signal processing, Python, MATLAB
-- "B.S. in engineering, physics, or a related field": physics counts. Your cover letter explains why.
+- "B.S. in engineering, physics, or a related field": physics counts.
 :::
 
 ::: {.cite-note}
-Classes of 2021 and 2022 &middot; Recall Lecture 3 &middot; [@aip_bs_titles2024; @aps_bs_private]
+Classes of 2021 and 2022 &middot; [@aip_bs_titles2024; @aps_bs_private]
 :::
 
 ---
@@ -81,23 +77,22 @@ Classes of 2021 and 2022 &middot; Recall Lecture 3 &middot; [@aip_bs_titles2024;
 ::::
 
 ::: {.highlight-box}
-Save every posting as a PDF when you find it. Postings come down, and Assignment 4 asks you to submit a copy.
+Save every posting as a PDF when you find it. Keep your job hunt organized.
 :::
 
 ---
 
 ## What a cover letter does
 
-Your resume lists what you did. Your cover letter argues **why it matters for this job**.
+Your resume lists what you did. Your cover letter argues why it matters for this job.
 
 :::: {.columns style="font-size: 0.8em;"}
 ::: {.column width="50%"}
 ### It should
 
 - Introduce you and name the position
-- Say how you found the job
-- Highlight **2&ndash;3** skills and experiences that match the posting
-- Say why this field and this company
+- Highlight **2&ndash;3** skills and experiences that match the posting (check keywords)
+- Say why this field and this company; be specific
 :::
 ::: {.column width="50%"}
 ### It should not
@@ -109,7 +104,7 @@ Your resume lists what you did. Your cover letter argues **why it matters for th
 ::::
 
 ::: {.highlight-box}
-Think of it as a highlight reel. A hiring manager should finish it wanting to read your resume.
+The cover letter presents a narrative for why you are the best candidate.
 :::
 
 ::: {.cite-note}
@@ -123,13 +118,13 @@ Think of it as a highlight reel. A hiring manager should finish it wanting to re
 Before you write a word, take the posting apart.
 
 ::: {style="font-size: 0.8em;"}
-| The posting asks for | Your evidence |
+| The posting asks for | Your evidence (examples) |
 |---|---|
 | Bachelor's in physics, optics, or engineering | B.S. Physics, Georgia Tech, May 2027 |
-| Hands-on experience with lasers and optical alignment | Built and aligned a Michelson interferometer in Advanced Lab; 2 years in an optics research lab |
+| Hands-on experience with lasers and optical alignment | Built and aligned a Michelson interferometer; 2 years in an optics research lab |
 | Python or MATLAB for test automation | Wrote Python code that controls a lock-in amplifier and motorized stage |
-| Clear technical communication | Four lab reports; poster at the Undergraduate Research Symposium |
-| Works well on a team | Three-person Advanced Lab team, all semester |
+| Clear technical communication | Poster at an Undergraduate Research Symposium |
+| Works well on a team | Internship at Y company in the design team for 6-months |
 
 : {tbl-colwidths="[42,58]"}
 :::
@@ -146,7 +141,7 @@ Pick the **top 2&ndash;3 rows** where your evidence is strongest. Those are your
 | Section | What it does | Space |
 |---|---|---|
 | **Header and greeting** | Same header as your resume; a named person if you can find one | &ndash; |
-| **Opening** | The position, how you found it, and why you in one sentence | 1 short paragraph |
+| **Opening** | The position and why you in one sentence | 1 short paragraph |
 | **Body** | 2&ndash;3 qualifications from the posting, each with evidence | 1&ndash;2 paragraphs |
 | **Why this company** | Their products, team, or mission, and why it fits your goals | 1 paragraph |
 | **Close** | Thanks, availability, and an invitation to talk | 2&ndash;3 sentences |
@@ -155,7 +150,7 @@ Pick the **top 2&ndash;3 rows** where your evidence is strongest. Those are your
 :::
 
 ::: {.highlight-box}
-One page or less, usually 250&ndash;400 words. Shorter is better if every sentence earns its place.
+About one page with header, body text, and signature/contact info.
 :::
 
 ::: {.cite-note}
@@ -185,29 +180,6 @@ By the end of your first paragraph, the reader should know which job you want an
 
 ---
 
-## Translate physics into the employer's language
-
-::: {style="font-size: 0.8em;"}
-| Instead of | Write |
-|---|---|
-| Fit Lorentzians to my spectra | Built a Python pipeline that fits and reports results for 300 spectra |
-| Did the Advanced Lab experiments | Designed, ran, and documented experiments on a three-person team |
-| Did error analysis | Quantified measurement uncertainty and found the dominant error sources |
-| Ran the group's cryostat | Operated and maintained cryogenic and vacuum equipment; trained two new users |
-| Debugged the DAQ | Diagnosed and fixed faults in a data acquisition system |
-
-: {tbl-colwidths="[38,62]"}
-:::
-
-- Use the **posting's words** where they are true for you: "test automation," "root-cause analysis," "cross-functional team."
-- Keep the numbers. They are the evidence.
-
-::: {.cite-note}
-[@aps_bs_private; @levine2022]
-:::
-
----
-
 ## Writing a body paragraph
 
 :::: {.columns style="font-size: 0.9em;"}
@@ -229,7 +201,7 @@ For each qualification:
 
 **After**
 
-> Your posting asks for experience automating test equipment. In Prof. Y's lab, I wrote a Python program that controls a lock-in amplifier and a motorized stage, cutting a four-hour manual scan to 25 minutes. I documented it so new students could run it on their own, and I would bring the same habits to your test bench.
+> In Prof. Y's lab, I wrote a Python program that controls a lock-in amplifier and a motorized stage, cutting a four-hour manual scan to 25 minutes. I then documented the code and wrote instructions so new students could run it on their own. This experience automating test equipment within a team environment matches the skills needed for your open position.
 :::
 :::
 ::::
@@ -241,12 +213,12 @@ For each qualification:
 It does the same job as the fit paragraph in a statement of purpose.
 
 ::: {style="font-size: 0.9em;"}
-- Name **something specific**: a product line, a recent project, the team's work
-- Mention any contact: a career fair conversation, an informational interview, an alum
-- Connect it to **your** goals, not to how prestigious they are
+- Name something specific: a product line, a recent project, the team's work
+- Mention any contact: a career fair conversation, an informational session, an alum. Leverage your network if possible.
+- Connect it to your goals, not to how prestigious/high-paying they are
 :::
 
-:::: {.columns style="font-size: 0.85em;"}
+:::: {.columns style="font-size: 0.76em;"}
 ::: {.column width="50%"}
 **Before**
 
@@ -255,29 +227,9 @@ It does the same job as the fit paragraph in a statement of purpose.
 ::: {.column width="50%"}
 **After**
 
-> Your work on fiber sensors for structural monitoring is where I want to take my optics experience: from the research bench to a product people use.
+> When I talked with your team at the career fair, I learned that your fiber sensors now monitor bridges in three states. I want to take my laser alignment and data analysis experience from the research bench to sensors like those.
 :::
 ::::
-
----
-
-## Details that get letters tossed
-
-::: {.nonincremental style="font-size: 0.9em;"}
-- The **wrong company name**, left over from your last letter
-- "To Whom It May Concern." Use a name if you can find it; otherwise "Dear Hiring Manager"
-- A different header, font, or style from your resume
-- Typos in the company name, the job title, or the hiring manager's name
-- Claims your resume cannot back up
-:::
-
-::: {.highlight-box}
-Save as a PDF with a clear name: `Lastname-Firstname-Cover-Letter.pdf`. Read it out loud once before you send it.
-:::
-
-::: {.cite-note}
-[@gtcc_resumes]
-:::
 
 ---
 
@@ -312,46 +264,21 @@ Signature and contact details removed.
 ## Example: what I would fix today
 
 :::: {.columns}
-::: {.column width="42%"}
-![](figs/fig11_steinmetz-gt-cover-letter.png){fig-align="center" height="450px" fig-alt="The same cover letter as the previous slide, shown again for reference."}
+::: {.column width="50%"}
+![](figs/fig11_steinmetz-gt-cover-letter.png){fig-align="center" height="540px" fig-alt="A one-page cover letter dated February 23, 2025, from Dr. Andrew J. Steinmetz, then a Global Professor at the University of Arizona and the Arizona College of Technology, Hebei University of Technology, to the Georgia Tech School of Physics search committee, applying for the Academic Professional faculty position. Four paragraphs: the position and current role; courses taught and developed, including an Experimental Methods in Physics lab sequence and a senior capstone; fit with the position, teaching philosophy, background, and research interests; and a short closing."}
 :::
-::: {.column width="58%"}
-::: {style="font-size: 0.63em;"}
-- **Typos:** "a excellent"; "perspective two degrees"; commas missing in the address
-- **A claim, not evidence:** "I strongly feel that I am a excellent candidate." Cut it.
-- **No numbers:** how many courses, sections, students?
-- **Paragraph 3 has four ideas:** philosophy, background, chemical engineering, research
-- **A hedge that raises a doubt:** "While this position is intended to be primarily a teaching position&hellip;"
-- **A hobby mid-paragraph:** astrophotography inside the teaching paragraph
-- **Little about Georgia Tech:** no courses, programs, or people by name
-- **A generic close**
+::: {.column width="50%"}
+::: {style="font-size: 0.66em;"}
+- Typos: "a[n] excellent"; "perspective [of] two degrees"
+- Fluff: "I strongly feel that I am a excellent candidate."
+- No numbers: how many courses, sections, students?
+- Meandering third paragraph: philosophy, background, chemical engineering, research
+- Hedging/low-confidence: "While this position is intended to be primarily a teaching position&hellip;"
+- Unjustified hobby: astrophotography not connected to teaching
+- Little about Georgia Tech: no courses, programs, or people by name
 :::
 :::
 ::::
-
-::: {.highlight-box}
-Matching evidence carries a letter. Polish keeps them reading.
-:::
-
----
-
-## Cover letter vs. statement of purpose
-
-::: {style="font-size: 0.8em;"}
-|  | Statement of purpose | Industry cover letter |
-|---|---|---|
-| **Reader** | Faculty committee | Hiring manager or recruiter |
-| **Their question** | Will you succeed in research here? | Can you do this job for us? |
-| **Emphasis** | Your research interests and goals | Their needs and your matching skills |
-| **Length** | 1&ndash;2 pages | One page or less |
-| **Tailoring** | Rewrite the fit paragraph | Rewrite the whole letter |
-
-: {tbl-colwidths="[22,39,39]"}
-:::
-
-::: {.highlight-box}
-The same rules carry over from Lecture 9: specific evidence, first person, active voice, and no "I have always been passionate about&hellip;"
-:::
 
 ---
 
@@ -481,7 +408,7 @@ It is not your life story. It is the opening paragraph of your cover letter, sai
 
 ## Build a story bank
 
-Prepare **5&ndash;6 STAR stories** before any interview. One good story can answer several questions.
+Prepare **several STAR stories** before any interview. One good story can answer several questions.
 
 ::: {style="font-size: 0.75em;"}
 | Story about&hellip; | Answers questions like&hellip; |
@@ -512,9 +439,9 @@ Practice them **out loud**, not just in your head. Each one should take about tw
 ::: {.column width="50%"}
 ### Explain your project at three depths
 
-- **30 seconds** for anyone
-- **2 minutes** for an engineer outside your field
-- **As deep as they want** on the methods and your role
+- 30 seconds for anyone
+- 2 minutes for an engineer/scientist outside your field
+- Expertise on the methods and your role
 
 ### Know your resume
 
@@ -525,7 +452,7 @@ Practice them **out loud**, not just in your head. Each one should take about tw
 
 - Estimates and calculations: state your assumptions, then reason
 - Code: talk through your approach before you type
-- "I don't know, but here is how I would find out" is a good answer
+- "I don't know, but here is how I would find out" is a good answer. Don't BS.
 :::
 ::::
 
@@ -535,30 +462,6 @@ The interviewer is grading **how you think**, not just whether you land on the r
 
 ::: {.cite-note}
 [@gtcc_interviewing]
-:::
-
----
-
-## Common mistakes and the fixes
-
-::: {style="font-size: 0.8em;"}
-| Mistake | Fix |
-|---|---|
-| Telling your history instead of your value | Frame each experience as problem, what you did, result |
-| Generic answers | Research the team, its projects, and goals; use their terms |
-| Logistics surprises | Confirm the time zone and platform; test video and sound; know who you will meet |
-| Coming across flat | Nerves are normal. Let your real interest show. |
-| No questions at the end | Prepare 3&ndash;4, and ask each interviewer about their own role |
-
-: {tbl-colwidths="[38,62]"}
-:::
-
-::: {style="font-size: 0.85em;"}
-**On video:** look at the camera, find a quiet space, and check what is behind you. **In person:** plan the route, arrive early, and bring copies of your resume.
-:::
-
-::: {.cite-note}
-[@levine2022; @aps_interview; @gtcc_interviewing]
 :::
 
 ---
@@ -594,60 +497,7 @@ The interviewer is grading **how you think**, not just whether you land on the r
 
 ---
 
-## When an offer comes
-
-::: {style="font-size: 0.9em;"}
-- **Thank them** and say you are excited. You do not have to decide on the call.
-- **Get it in writing** before you accept, and ask for the decision deadline.
-- **Know your priorities:** salary, benefits, location, remote work, start date. Decide what you would trade.
-- Waiting on another company? Tell them you have an offer and ask whether they can speed up.
-:::
-
-::: {.highlight-box}
-Once you accept, honor it. Withdraw from other searches and tell anyone else who is considering you.
-:::
-
-::: {.cite-note}
-[@aps_interview]
-:::
-
----
-
-## Negotiating salary
-
-Salary is the most commonly negotiated term. A polite, researched ask is normal.
-
-:::: {.columns style="font-size: 0.75em;"}
-::: {.column width="50%"}
-### Before you ask
-
-- Research the range: the posting's pay range, AIP starting salaries (Lecture 3), Glassdoor
-- Pick a specific number near the top of that range
-- Asked for expectations early? Give a researched range, or ask what is budgeted
-
-### What else can move
-
-- Signing bonus, relocation, start date, remote days, training support
-:::
-::: {.column width="50%"}
-### The ask
-
-> Thank you; I'm excited about this role. Based on what I've found for test engineers in Atlanta, and the automation experience I'd bring, I was hoping for closer to [your number]. Is there flexibility?
-
-### Don't
-
-- Invent a competing offer
-- Negotiate again after you accept
-:::
-::::
-
-::: {.cite-note}
-[@aps_interview; @aip_bs_salaries2023]
-:::
-
----
-
-## Part III: Same skills, different room
+## Part III: Graduate school visits
 
 ::: {style="font-size: 0.8em;"}
 | Industry interview | Graduate school interview or visit |
@@ -701,30 +551,6 @@ Many physics programs no longer hold formal admissions interviews, but faculty c
 
 ::: {.cite-note}
 [@perez2023]
-:::
-
----
-
-## Resources at Georgia Tech
-
-:::: {.columns style="font-size: 0.9em;"}
-::: {.column width="50%"}
-### Career Center
-
-- [Resumes, cover letters, and portfolios](https://career.gatech.edu/resumes): cover letter guide and outline
-- [Interviewing](https://career.gatech.edu/interviewing): interview guide and STAR worksheet
-- Mock interviews with a career advisor, by appointment
-:::
-::: {.column width="50%"}
-### Practice on your own
-
-- [Big Interview](https://gatech.biginterview.com/): recorded practice interviews with feedback; sign in with your GT email
-- Practice with a friend, and switch roles
-:::
-::::
-
-::: {.cite-note}
-[@gtcc_resumes; @gtcc_interviewing]
 :::
 
 ---

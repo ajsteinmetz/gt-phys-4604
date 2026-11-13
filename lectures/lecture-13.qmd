@@ -1,0 +1,94 @@
+---
+title: "Interview Practice and Cover Letter Workshop"
+subtitle: "PHYS 4604 &middot; Lecture 13"
+author: "Andrew J. Steinmetz"
+date: "November 20, 2026"
+format:
+  revealjs:
+    theme: [default, gatech-revealjs.css]
+    slide-number: c/t
+    transition: none
+    footer: "PHYS 4604 &middot; Fall 2026 &middot; Georgia Institute of Technology"
+    width: 1200
+    height: 750
+    auto-stretch: false
+---
+
+## Upcoming
+
+::: {style="font-size: 0.9em;"}
+| What | When | Points |
+|---|---|---|
+| [Personal statement or cover letter](../assignments/personal-statement.qmd) | Nov. 20 (today), 11:59 PM ET | 15% |
+| No class: Thanksgiving break | Nov. 27 | &ndash; |
+| [External participation](../assignments/external-participation.qmd) | Dec. 4, 11:59 PM ET | 4% |
+| Course wrap-up and reflection | Dec. 4, in class | &ndash; |
+:::
+
+---
+
+## Interview practice
+
+TBD
+
+<!-- TODO: Plan the in-class interview practice (pairs, question list, timing) and the cover letter workshop. -->
+
+---
+
+## When an offer comes
+
+::: {style="font-size: 0.9em;"}
+- **Thank them** and say you are excited. You do not have to decide on the call.
+- **Get it in writing** before you accept, and ask for the decision deadline.
+- **Know your priorities:** salary, benefits, location, remote work, start date. Decide what you would trade.
+- Waiting on another company? Tell them you have an offer and ask whether they can speed up.
+:::
+
+::: {.highlight-box}
+Once you accept, honor it. Withdraw from other searches and tell anyone else who is considering you.
+:::
+
+::: {.cite-note}
+[@aps_interview]
+:::
+
+---
+
+## Negotiating salary
+
+Salary is the most commonly negotiated term. A polite, researched ask is normal.
+
+:::: {.columns style="font-size: 0.75em;"}
+::: {.column width="50%"}
+### Before you ask
+
+- Research the range: the posting's pay range, AIP starting salaries, Glassdoor
+- Pick a specific number near the top of that range
+- Asked for expectations early? Give a researched range, or ask what is budgeted
+
+### What else can move
+
+- Signing bonus, relocation, start date, remote days, training support
+:::
+::: {.column width="50%"}
+### The ask
+
+> Thank you; I'm excited about this role. Based on what I've found for test engineers in Atlanta, and the automation experience I'd bring, I was hoping for closer to [your number]. Is there flexibility?
+
+### Don't
+
+- Invent a competing offer
+- Negotiate again after you accept
+:::
+::::
+
+::: {.cite-note}
+[@aps_interview; @aip_bs_salaries2023]
+:::
+
+---
+
+## References {.scrollable}
+
+::: {#refs style="font-size: 0.7em;"}
+:::

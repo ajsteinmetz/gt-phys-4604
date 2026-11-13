@@ -19,3 +19,4 @@ subtitle: "PHYS 4604: Professional Development"
 | 10 | Oct. 30 | Graduate Student Panel | [Open slides](lecture-10.qmd){target="_blank"} |
 | 11 | Nov. 6 | &ndash; | &ndash; |
 | 12 | Nov. 13 | Industry Cover Letters & Interviews | [Open slides](lecture-12.qmd){target="_blank"} |
+| 13 | Nov. 20 | Interview Practice & Cover Letter Workshop | [Open slides](lecture-13.qmd){target="_blank"} |
