@@ -281,6 +281,60 @@ Save as a PDF with a clear name: `Lastname-Firstname-Cover-Letter.pdf`. Read it 
 
 ---
 
+## Example: the letter that got me this job
+
+:::: {.columns}
+::: {.column width="50%"}
+![](figs/fig11_steinmetz-gt-cover-letter.png){fig-align="center" height="540px" fig-alt="A one-page cover letter dated February 23, 2025, from Dr. Andrew J. Steinmetz, then a Global Professor at the University of Arizona and the Arizona College of Technology, Hebei University of Technology, to the Georgia Tech School of Physics search committee, applying for the Academic Professional faculty position. Four paragraphs: the position and current role; courses taught and developed, including an Experimental Methods in Physics lab sequence and a senior capstone; fit with the position, teaching philosophy, background, and research interests; and a short closing."}
+:::
+::: {.column width="50%"}
+::: {style="font-size: 0.66em;"}
+My application for the teaching faculty job I hold now, February 2025. An academic job, but the parts of the letter are the same.
+
+**What works**
+
+- The first sentence names the position and job ID
+- Addressed to the search chair by name
+- Specific evidence: started a lab course sequence (PHYS 381/382), refurbished the lab, and co-developed a capstone course
+- Teaching across very different settings, from community college to large ESL cohorts
+- Uses the posting's own words: "innovative pedagogy, mentoring, and curriculum development"
+- One page
+:::
+:::
+::::
+
+::: {.cite-note}
+Signature and contact details removed.
+:::
+
+---
+
+## Example: what I would fix today
+
+:::: {.columns}
+::: {.column width="42%"}
+![](figs/fig11_steinmetz-gt-cover-letter.png){fig-align="center" height="450px" fig-alt="The same cover letter as the previous slide, shown again for reference."}
+:::
+::: {.column width="58%"}
+::: {style="font-size: 0.63em;"}
+- **Typos:** "a excellent"; "perspective two degrees"; commas missing in the address
+- **A claim, not evidence:** "I strongly feel that I am a excellent candidate." Cut it.
+- **No numbers:** how many courses, sections, students?
+- **Paragraph 3 has four ideas:** philosophy, background, chemical engineering, research
+- **A hedge that raises a doubt:** "While this position is intended to be primarily a teaching position&hellip;"
+- **A hobby mid-paragraph:** astrophotography inside the teaching paragraph
+- **Little about Georgia Tech:** no courses, programs, or people by name
+- **A generic close**
+:::
+:::
+::::
+
+::: {.highlight-box}
+Matching evidence carries a letter. Polish keeps them reading.
+:::
+
+---
+
 ## Cover letter vs. statement of purpose
 
 ::: {style="font-size: 0.8em;"}
