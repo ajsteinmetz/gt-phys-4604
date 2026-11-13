@@ -26,7 +26,7 @@ format:
 :::
 
 ::: {.highlight-box}
-**The goal of today's lecture:** leave with an outline of a cover letter for a real posting and one interview story, ready to practice at next week's workshop.
+**The goal of today's lecture:** leave with industry work you would target, a salary range, and one interview story, ready to practice at next week's workshop.
 :::
 
 ---
@@ -701,23 +701,6 @@ Many physics programs no longer hold formal admissions interviews, but faculty c
 
 ::: {.cite-note}
 [@perez2023]
-:::
-
----
-
-## In-class activity: posting and story
-
-::: {style="font-size: 0.9em;"}
-Work on the real opportunity you chose for [Assignment 4](../assignments/personal-statement.qmd) (15 minutes):
-
-1. List the posting's top three requirements, or the program's three main priorities
-2. Next to each, write your strongest evidence, with a number if you have one
-3. Write one STAR story in four lines: S, T, A, R
-4. Pair up. Tell your story in under two minutes; your partner names a question it answers
-:::
-
-::: {.highlight-box}
-Bring your draft letter or statement and your posting to the **Nov. 20 workshop**. We will practice interviews in pairs.
 :::
 
 ---
