@@ -35,6 +35,61 @@ format:
 
 ---
 
+## Most physics jobs don't say "physics"
+
+::: {style="font-size: 0.8em;"}
+| Category | Job titles reported by new physics bachelors |
+|---|---|
+| **Engineering** | Systems, Electrical, Mechanical, Test, Process, Design, Application Engineer; Engineering Technician |
+| **Software** | Software Engineer/Developer, Data Engineer, Data Analyst, Data Scientist, ML Engineer, Consultant |
+| **Research** | Research Assistant, Research Technician, Patent Examiner, Accelerator Operator, Physicist, Scientist |
+| **Education** | High School Physics/Math Teacher, Middle School Science Teacher, Tutor |
+| **Business** | Data Analyst, Research Analyst, Project Manager, Investment Banker |
+
+: {tbl-colwidths="[18,82]"}
+:::
+
+::: {style="font-size: 0.85em;"}
+- **Search by skill and tool**, not by degree: optics, lasers, vacuum, RF, metrology, test, simulation, signal processing, Python, MATLAB
+- "B.S. in engineering, physics, or a related field": physics counts. Your cover letter explains why.
+:::
+
+::: {.cite-note}
+Classes of 2021 and 2022 &middot; Recall Lecture 3 &middot; [@aip_bs_titles2024; @aps_bs_private]
+:::
+
+---
+
+## Where to find industry postings
+
+:::: {.columns style="font-size: 0.78em;"}
+::: {.column width="50%"}
+### Industry and government
+
+- [CareerBuzz](https://career.gatech.edu/careerbuzz/): GT jobs and internships
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/): industry and networking
+- [USAJOBS](https://www.usajobs.gov/): federal jobs, including entry-level physicist roles
+- [Hacker News Jobs](https://news.ycombinator.com/jobs): Y Combinator startups
+:::
+::: {.column width="50%"}
+### Physics boards that list industry jobs
+
+- [APS Physics Jobs](https://www.apsphysicsjobs.com/): academia, labs, and industry
+- [Physics Today Jobs](https://jobs.physicstoday.org/): physics and related fields
+
+### Off the boards
+
+- Career pages of companies and national labs you already know
+- People you met at the career fair or in informational interviews
+:::
+::::
+
+::: {.highlight-box}
+Save every posting as a PDF when you find it. Postings come down, and Assignment 4 asks you to submit a copy.
+:::
+
+---
+
 ## What a cover letter does
 
 Your resume lists what you did. Your cover letter argues **why it matters for this job**.
@@ -495,14 +550,50 @@ The interviewer is grading **how you think**, not just whether you land on the r
 
 ## When an offer comes
 
-- **Get it in writing** before you accept. Ask for the decision deadline.
-- **Research the range** for the role and location. Recall the starting salaries for physics bachelor's degrees from Lecture 3.
+::: {style="font-size: 0.9em;"}
+- **Thank them** and say you are excited. You do not have to decide on the call.
+- **Get it in writing** before you accept, and ask for the decision deadline.
 - **Know your priorities:** salary, benefits, location, remote work, start date. Decide what you would trade.
-- Salary is the most commonly negotiated term, and asking politely is normal.
+- Waiting on another company? Tell them you have an offer and ask whether they can speed up.
+:::
 
 ::: {.highlight-box}
 Once you accept, honor it. Withdraw from other searches and tell anyone else who is considering you.
 :::
+
+::: {.cite-note}
+[@aps_interview]
+:::
+
+---
+
+## Negotiating salary
+
+Salary is the most commonly negotiated term. A polite, researched ask is normal.
+
+:::: {.columns style="font-size: 0.75em;"}
+::: {.column width="50%"}
+### Before you ask
+
+- Research the range: the posting's pay range, AIP starting salaries (Lecture 3), Glassdoor
+- Pick a specific number near the top of that range
+- Asked for expectations early? Give a researched range, or ask what is budgeted
+
+### What else can move
+
+- Signing bonus, relocation, start date, remote days, training support
+:::
+::: {.column width="50%"}
+### The ask
+
+> Thank you; I'm excited about this role. Based on what I've found for test engineers in Atlanta, and the automation experience I'd bring, I was hoping for closer to [your number]. Is there flexibility?
+
+### Don't
+
+- Invent a competing offer
+- Negotiate again after you accept
+:::
+::::
 
 ::: {.cite-note}
 [@aps_interview; @aip_bs_salaries2023]
