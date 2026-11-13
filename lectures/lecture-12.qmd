@@ -1,0 +1,619 @@
+---
+title: "Industry Cover Letters and Interviews"
+subtitle: "PHYS 4604 &middot; Lecture 12"
+author: "Andrew J. Steinmetz"
+date: "November 13, 2026"
+format:
+  revealjs:
+    theme: [default, gatech-revealjs.css]
+    slide-number: c/t
+    transition: none
+    footer: "PHYS 4604 &middot; Fall 2026 &middot; Georgia Institute of Technology"
+    width: 1200
+    height: 750
+    auto-stretch: false
+---
+
+## Upcoming
+
+::: {style="font-size: 0.9em;"}
+| What | When | Points |
+|---|---|---|
+| Interview practice and cover letter workshop: bring a draft and your posting | Nov. 20, in class | &ndash; |
+| [Personal statement or cover letter](../assignments/personal-statement.qmd) | Nov. 20, 11:59 PM ET | 15% |
+| No class: Thanksgiving break | Nov. 27 | &ndash; |
+| [External participation](../assignments/external-participation.qmd) | Dec. 4, 11:59 PM ET | 4% |
+:::
+
+::: {.highlight-box}
+**The goal of today's lecture:** leave with an outline of a cover letter for a real posting and one interview story, ready to practice at next week's workshop.
+:::
+
+---
+
+## Part I: Industry cover letters {.section-slide background-color="#003057"}
+
+---
+
+## What a cover letter does
+
+Your resume lists what you did. Your cover letter argues **why it matters for this job**.
+
+:::: {.columns style="font-size: 0.8em;"}
+::: {.column width="50%"}
+### It should
+
+- Introduce you and name the position
+- Say how you found the job
+- Highlight **2&ndash;3** skills and experiences that match the posting
+- Say why this field and this company
+:::
+::: {.column width="50%"}
+### It should not
+
+- Repeat your resume line by line
+- Run past one page
+- Be the same letter you send everywhere
+:::
+::::
+
+::: {.highlight-box}
+Think of it as a highlight reel. A hiring manager should finish it wanting to read your resume.
+:::
+
+::: {.cite-note}
+[@gtcc_resumes]
+:::
+
+---
+
+## Start from the posting
+
+Before you write a word, take the posting apart.
+
+::: {style="font-size: 0.8em;"}
+| The posting asks for | Your evidence |
+|---|---|
+| Bachelor's in physics, optics, or engineering | B.S. Physics, Georgia Tech, May 2027 |
+| Hands-on experience with lasers and optical alignment | Built and aligned a Michelson interferometer in Advanced Lab; 2 years in an optics research lab |
+| Python or MATLAB for test automation | Wrote Python code that controls a lock-in amplifier and motorized stage |
+| Clear technical communication | Four lab reports; poster at the Undergraduate Research Symposium |
+| Works well on a team | Three-person Advanced Lab team, all semester |
+
+: {tbl-colwidths="[42,58]"}
+:::
+
+::: {.highlight-box}
+Pick the **top 2&ndash;3 rows** where your evidence is strongest. Those are your body paragraphs.
+:::
+
+---
+
+## A structure that fits on one page
+
+::: {style="font-size: 0.8em;"}
+| Section | What it does | Space |
+|---|---|---|
+| **Header and greeting** | Same header as your resume; a named person if you can find one | &ndash; |
+| **Opening** | The position, how you found it, and why you in one sentence | 1 short paragraph |
+| **Body** | 2&ndash;3 qualifications from the posting, each with evidence | 1&ndash;2 paragraphs |
+| **Why this company** | Their products, team, or mission, and why it fits your goals | 1 paragraph |
+| **Close** | Thanks, availability, and an invitation to talk | 2&ndash;3 sentences |
+
+: {tbl-colwidths="[24,52,24]"}
+:::
+
+::: {.highlight-box}
+One page or less, usually 250&ndash;400 words. Shorter is better if every sentence earns its place.
+:::
+
+::: {.cite-note}
+[@gtcc_resumes]
+:::
+
+---
+
+## Open with the job, not with yourself
+
+:::: {.columns style="font-size: 0.85em;"}
+::: {.column width="50%"}
+**Before**
+
+> I am writing to apply for the position at your company. I am a hard-working physics student with strong analytical skills, and I believe I would be a great fit for your team.
+:::
+::: {.column width="50%"}
+**After**
+
+> I am applying for the Optical Test Engineer I position that I discussed with your team at the Fall 2026 All Majors Career Fair. I have built and aligned laser systems in two labs at Georgia Tech, and I would bring that hands-on optics experience and the Python skills your posting asks for.
+:::
+::::
+
+::: {.highlight-box}
+By the end of your first paragraph, the reader should know which job you want and the one reason to keep reading.
+:::
+
+---
+
+## Translate physics into the employer's language
+
+::: {style="font-size: 0.8em;"}
+| Instead of | Write |
+|---|---|
+| Fit Lorentzians to my spectra | Built a Python pipeline that fits and reports results for 300 spectra |
+| Did the Advanced Lab experiments | Designed, ran, and documented experiments on a three-person team |
+| Did error analysis | Quantified measurement uncertainty and found the dominant error sources |
+| Ran the group's cryostat | Operated and maintained cryogenic and vacuum equipment; trained two new users |
+| Debugged the DAQ | Diagnosed and fixed faults in a data acquisition system |
+
+: {tbl-colwidths="[38,62]"}
+:::
+
+- Use the **posting's words** where they are true for you: "test automation," "root-cause analysis," "cross-functional team."
+- Keep the numbers. They are the evidence.
+
+::: {.cite-note}
+[@aps_bs_private; @levine2022]
+:::
+
+---
+
+## Writing a body paragraph
+
+:::: {.columns style="font-size: 0.9em;"}
+::: {.column width="42%"}
+::: {style="font-size: 0.85em;"}
+For each qualification:
+
+- **Name it** in the posting's words
+- **Show it:** one specific example
+- **Size it:** a number, a result, an outcome
+- **Connect it:** what it means for this job
+:::
+:::
+::: {.column width="58%"}
+::: {style="font-size: 0.85em;"}
+**Before**
+
+> I have taken many lab courses and learned many technical skills, including programming and data analysis.
+
+**After**
+
+> Your posting asks for experience automating test equipment. In Prof. Y's lab, I wrote a Python program that controls a lock-in amplifier and a motorized stage, cutting a four-hour manual scan to 25 minutes. I documented it so new students could run it on their own, and I would bring the same habits to your test bench.
+:::
+:::
+::::
+
+---
+
+## The "why this company" paragraph
+
+It does the same job as the fit paragraph in a statement of purpose.
+
+::: {style="font-size: 0.9em;"}
+- Name **something specific**: a product line, a recent project, the team's work
+- Mention any contact: a career fair conversation, an informational interview, an alum
+- Connect it to **your** goals, not to how prestigious they are
+:::
+
+:::: {.columns style="font-size: 0.85em;"}
+::: {.column width="50%"}
+**Before**
+
+> Your company is a leader in the industry, and I would be honored to join such a prestigious organization.
+:::
+::: {.column width="50%"}
+**After**
+
+> Your work on fiber sensors for structural monitoring is where I want to take my optics experience: from the research bench to a product people use.
+:::
+::::
+
+---
+
+## Details that get letters tossed
+
+::: {.nonincremental style="font-size: 0.9em;"}
+- The **wrong company name**, left over from your last letter
+- "To Whom It May Concern." Use a name if you can find it; otherwise "Dear Hiring Manager"
+- A different header, font, or style from your resume
+- Typos in the company name, the job title, or the hiring manager's name
+- Claims your resume cannot back up
+:::
+
+::: {.highlight-box}
+Save as a PDF with a clear name: `Lastname-Firstname-Cover-Letter.pdf`. Read it out loud once before you send it.
+:::
+
+::: {.cite-note}
+[@gtcc_resumes]
+:::
+
+---
+
+## Cover letter vs. statement of purpose
+
+::: {style="font-size: 0.8em;"}
+|  | Statement of purpose | Industry cover letter |
+|---|---|---|
+| **Reader** | Faculty committee | Hiring manager or recruiter |
+| **Their question** | Will you succeed in research here? | Can you do this job for us? |
+| **Emphasis** | Your research interests and goals | Their needs and your matching skills |
+| **Length** | 1&ndash;2 pages | One page or less |
+| **Tailoring** | Rewrite the fit paragraph | Rewrite the whole letter |
+
+: {tbl-colwidths="[22,39,39]"}
+:::
+
+::: {.highlight-box}
+The same rules carry over from Lecture 9: specific evidence, first person, active voice, and no "I have always been passionate about&hellip;"
+:::
+
+---
+
+## Part II: Industry interviews {.section-slide background-color="#003057"}
+
+---
+
+## How a typical hiring process runs
+
+:::: {.columns style="font-size: 0.85em;"}
+::: {.column width="25%"}
+### 1. Screen
+
+- Phone or video, about 30 minutes
+- Often a recruiter
+- Fit, interest, logistics
+:::
+::: {.column width="25%"}
+### 2. First interview
+
+- Hiring manager or team member
+- Your experience and the role
+- Sometimes recorded, one-way video
+:::
+::: {.column width="25%"}
+### 3. Final round
+
+- On-site or a long video call
+- Several interviewers back to back
+- Technical questions; maybe a short talk
+:::
+::: {.column width="25%"}
+### 4. Offer
+
+- Usually by phone first
+- Get it in writing
+- Then decide or negotiate
+:::
+::::
+
+::: {.highlight-box}
+Every round asks the same three questions: **Can you do the job? Do you want this job? Will we want to work with you?**
+:::
+
+::: {.cite-note}
+[@aps_interview; @gtcc_interviewing]
+:::
+
+---
+
+## Four kinds of questions
+
+:::: {.columns style="font-size: 0.85em;"}
+::: {.column width="50%"}
+### Behavioral
+
+"Tell me about a time you&hellip;"
+
+- Solved a hard problem
+- Disagreed with a teammate
+- Made a mistake
+
+### Technical
+
+- Explain your project
+- The physics of your instrument
+- An estimate, a calculation, or code
+:::
+::: {.column width="50%"}
+### Motivation and fit
+
+- "Tell me about yourself."
+- "Why this company? Why this role?"
+- "Where do you see yourself in five years?"
+
+### Yours
+
+- "What questions do you have for us?"
+- **Always** have some
+:::
+::::
+
+::: {.cite-note}
+[@gtcc_interviewing; @aps_interview]
+:::
+
+---
+
+## "Tell me about yourself"
+
+A 60&ndash;90 second answer: **present, past, future.**
+
+:::: {.columns style="font-size: 0.9em;"}
+::: {.column width="35%"}
+- **Present:** who you are now
+- **Past:** one or two experiences that matter for this job
+- **Future:** why this role is the next step
+:::
+::: {.column width="65%"}
+> I'm a fourth-year Physics major at Georgia Tech. For the last two years I've worked in an optics lab, where I built a laser measurement setup and wrote the Python code that runs it. That work showed me I like building and debugging instruments more than anything else, which is why this test engineering role caught my eye.
+:::
+::::
+
+::: {.highlight-box}
+It is not your life story. It is the opening paragraph of your cover letter, said out loud.
+:::
+
+---
+
+## Behavioral questions: the STAR method
+
+:::: {.columns style="font-size: 0.85em;"}
+::: {.column width="40%"}
+- **S**ituation: the context, in one or two sentences
+- **T**ask: what *you* were responsible for
+- **A**ction: what *you* did, step by step. The biggest part of your answer.
+- **R**esult: what happened, with numbers; or what you learned
+:::
+::: {.column width="60%"}
+"Tell me about a time you solved a technical problem under a deadline."
+
+> **S:** A week before our Advanced Lab report was due, our interferometer data were too noisy to resolve the sodium doublet. **T:** I was responsible for data acquisition. **A:** I traced the noise to building vibration, moved the setup to an isolation table, and rewrote our script to average 20 scans. **R:** The noise dropped by a factor of five, we measured the splitting within 2% of the accepted value, and we submitted on time.
+:::
+::::
+
+::: {.cite-note}
+[@orise_star; @gtcc_interviewing]
+:::
+
+---
+
+## Build a story bank
+
+Prepare **5&ndash;6 STAR stories** before any interview. One good story can answer several questions.
+
+::: {style="font-size: 0.75em;"}
+| Story about&hellip; | Answers questions like&hellip; |
+|---|---|
+| A technical problem you solved | "a hard problem," "a time you used data to decide" |
+| Working on a team | "a disagreement," "a time you helped a teammate" |
+| A mistake or failure | "a time you failed," "something you would do differently" |
+| Taking initiative | "leadership," "going beyond what was asked" |
+| Learning something fast | "a new tool or skill," "working outside your comfort zone" |
+| A deadline under pressure | "managing competing priorities," "working under stress" |
+
+: {tbl-colwidths="[38,62]"}
+:::
+
+::: {.highlight-box}
+Practice them **out loud**, not just in your head. Each one should take about two minutes.
+:::
+
+::: {.cite-note}
+[@gtcc_interviewing; @aps_interview]
+:::
+
+---
+
+## Technical questions as a physicist
+
+:::: {.columns style="font-size: 0.78em;"}
+::: {.column width="50%"}
+### Explain your project at three depths
+
+- **30 seconds** for anyone
+- **2 minutes** for an engineer outside your field
+- **As deep as they want** on the methods and your role
+
+### Know your resume
+
+- Every tool, language, and instrument on it is fair game
+:::
+::: {.column width="50%"}
+### Thinking out loud
+
+- Estimates and calculations: state your assumptions, then reason
+- Code: talk through your approach before you type
+- "I don't know, but here is how I would find out" is a good answer
+:::
+::::
+
+::: {.highlight-box}
+The interviewer is grading **how you think**, not just whether you land on the right number. Physics training is good preparation for this.
+:::
+
+::: {.cite-note}
+[@gtcc_interviewing]
+:::
+
+---
+
+## Common mistakes and the fixes
+
+::: {style="font-size: 0.8em;"}
+| Mistake | Fix |
+|---|---|
+| Telling your history instead of your value | Frame each experience as problem, what you did, result |
+| Generic answers | Research the team, its projects, and goals; use their terms |
+| Logistics surprises | Confirm the time zone and platform; test video and sound; know who you will meet |
+| Coming across flat | Nerves are normal. Let your real interest show. |
+| No questions at the end | Prepare 3&ndash;4, and ask each interviewer about their own role |
+
+: {tbl-colwidths="[38,62]"}
+:::
+
+::: {style="font-size: 0.85em;"}
+**On video:** look at the camera, find a quiet space, and check what is behind you. **In person:** plan the route, arrive early, and bring copies of your resume.
+:::
+
+::: {.cite-note}
+[@levine2022; @aps_interview; @gtcc_interviewing]
+:::
+
+---
+
+## Questions to ask them
+
+:::: {.columns style="font-size: 0.85em;"}
+::: {.column width="50%"}
+### Good questions
+
+- What does success look like in this role after six months?
+- What does a typical week look like for the team?
+- How do new hires learn the tools and methods you use?
+- What do you enjoy most about working here?
+- What are the next steps in the process?
+:::
+::: {.column width="50%"}
+### Save for later
+
+- Salary and benefits: wait for them to raise it, or for an offer
+- Anything answered on the company's website
+
+### After the interview
+
+- A short, specific thank-you email within a day
+- Write down what they asked while you remember it
+:::
+::::
+
+::: {.cite-note}
+[@aps_interview]
+:::
+
+---
+
+## When an offer comes
+
+- **Get it in writing** before you accept. Ask for the decision deadline.
+- **Research the range** for the role and location. Recall the starting salaries for physics bachelor's degrees from Lecture 3.
+- **Know your priorities:** salary, benefits, location, remote work, start date. Decide what you would trade.
+- Salary is the most commonly negotiated term, and asking politely is normal.
+
+::: {.highlight-box}
+Once you accept, honor it. Withdraw from other searches and tell anyone else who is considering you.
+:::
+
+::: {.cite-note}
+[@aps_interview; @aip_bs_salaries2023]
+:::
+
+---
+
+## Part III: The same skills in academic interviews {.section-slide background-color="#003057"}
+
+---
+
+## Same skills, different room
+
+::: {style="font-size: 0.8em;"}
+| Industry interview | Graduate school interview or visit |
+|---|---|
+| "Tell me about yourself." | "Tell me about your research." |
+| STAR story: a technical problem you solved | "What went wrong in your project, and what did you do?" |
+| "Why this company?" | "Why this program? Whose group interests you?" |
+| Know every line of your resume | Know every line of your CV and statement |
+| Questions for the hiring manager | Questions for faculty **and** current graduate students |
+| Thank-you email after the interview | Thank-you email, especially to faculty whose groups you might join |
+| Get the offer in writing | Get the funding offer in writing |
+
+: {tbl-colwidths="[45,55]"}
+:::
+
+::: {.highlight-box}
+Your story bank works for both. A research project told in STAR form is a strong answer in either room.
+:::
+
+---
+
+## Graduate school interviews and visits
+
+:::: {.columns style="font-size: 0.78em;"}
+::: {.column width="33%"}
+### Before
+
+- Pick 3&ndash;5 faculty whose work interests you
+- Read a recent paper from each
+- Write your questions down
+:::
+::: {.column width="33%"}
+### During
+
+- Talk with current students, ideally in groups you'd join
+- Ask faculty about mentoring style and whether they are taking students
+- Be yourself; you are interviewing them too
+:::
+::: {.column width="34%"}
+### After
+
+- Send thank-you emails
+- Write down your impressions that night
+- Talk them over with a mentor
+:::
+::::
+
+::: {.highlight-box}
+Many physics programs no longer hold formal admissions interviews, but faculty conversations at visits still matter. Prepare for them like interviews.
+:::
+
+::: {.cite-note}
+[@perez2023]
+:::
+
+---
+
+## In-class activity: posting and story
+
+::: {style="font-size: 0.9em;"}
+Work on the real opportunity you chose for [Assignment 4](../assignments/personal-statement.qmd) (15 minutes):
+
+1. List the posting's top three requirements, or the program's three main priorities
+2. Next to each, write your strongest evidence, with a number if you have one
+3. Write one STAR story in four lines: S, T, A, R
+4. Pair up. Tell your story in under two minutes; your partner names a question it answers
+:::
+
+::: {.highlight-box}
+Bring your draft letter or statement and your posting to the **Nov. 20 workshop**. We will practice interviews in pairs.
+:::
+
+---
+
+## Resources at Georgia Tech
+
+:::: {.columns style="font-size: 0.9em;"}
+::: {.column width="50%"}
+### Career Center
+
+- [Resumes, cover letters, and portfolios](https://career.gatech.edu/resumes): cover letter guide and outline
+- [Interviewing](https://career.gatech.edu/interviewing): interview guide and STAR worksheet
+- Mock interviews with a career advisor, by appointment
+:::
+::: {.column width="50%"}
+### Practice on your own
+
+- [Big Interview](https://gatech.biginterview.com/): recorded practice interviews with feedback; sign in with your GT email
+- Practice with a friend, and switch roles
+:::
+::::
+
+::: {.cite-note}
+[@gtcc_resumes; @gtcc_interviewing]
+:::
+
+---
+
+## References {.scrollable}
+
+::: {#refs style="font-size: 0.7em;"}
+:::
