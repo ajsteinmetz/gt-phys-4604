@@ -25,3 +25,5 @@ Thumbs.db
 /_freeze/**/libs/
 
 **/*.quarto_ipynb
+
+/.quarto/
