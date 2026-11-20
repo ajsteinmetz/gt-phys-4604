@@ -54,7 +54,7 @@ Once you accept, honor it. Withdraw from other searches and tell anyone else who
 
 ---
 
-## Negotiating salary
+## Negotiating an industry offer
 
 Salary is the most commonly negotiated term. A polite, researched ask is normal.
 
@@ -84,6 +84,34 @@ Salary is the most commonly negotiated term. A polite, researched ask is normal.
 
 ::: {.cite-note}
 [@aps_interview; @aip_bs_salaries2023]
+:::
+
+---
+
+## Negotiating an academic offer
+
+Less room on base salary, more room on everything else.
+
+:::: {.columns style="font-size: 0.75em;"}
+::: {.column width="50%"}
+### How it differs from industry
+
+- You negotiate with the department chair, not a recruiter. HR answers benefits questions separately.
+- Pay follows job title and rank, and public-university salaries are often public records.
+- Budgets run on fiscal years, so answers are slower and start dates can shift.
+:::
+::: {.column width="50%"}
+### What can move
+
+- **Salary:** a specific number, justified by your current pay, cost of living, and public data for your title
+- **Effort split:** teaching vs. research time, within the institution's written policy
+- **Support:** professional-development funds for travel, software, publication fees, or student help
+- **Start date:** an earlier start to prepare courses
+:::
+::::
+
+::: {.highlight-box}
+Send one polite email with every ask. Thank them, give a number and a reason for each item, and offer to meet.
 :::
 
 ---
