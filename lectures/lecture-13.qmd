@@ -27,53 +27,65 @@ format:
 
 ---
 
-## Interview practice: how it works
+## Interview day: before and during
 
-Work in pairs. Your partner's cover letter and posting are the job you are interviewing for.
+:::: {.columns style="font-size: 0.75em;"}
+::: {.column width="33%"}
+### Prepare
 
-:::: {.columns style="font-size: 0.8em;"}
-::: {.column width="50%"}
-### As the candidate
-
-- Answer as if this is the real interview for the job in your letter
-- "Tell me about yourself": present, past, future in 60&ndash;90 seconds
-- Behavioral questions: STAR, with the Action as the longest part
-- Pausing to think is fine: "Let me think about that for a second."
+- Re-read the posting, your resume, and your cover letter
+- Research the team: products, recent news, who you will meet
+- Practice 4&ndash;5 STAR stories out loud
+- Write down 3 questions to ask them
 :::
-::: {.column width="50%"}
-### As the interviewer
+::: {.column width="33%"}
+### Video and phone
 
-- Read the letter and posting first; they are your job description
-- Ask the three questions on the worksheet, in order
-- Don't coach or interrupt. Take notes.
-- Close with "What questions do you have for me?"
+- Test the link, camera, and microphone the day before
+- Camera at eye level; quiet room, plain background
+- Look at the camera, not the screen, when you speak
+- On the phone, keep your notes in front of you
+:::
+::: {.column width="34%"}
+### In person
+
+- Arrive 10 minutes early
+- Bring printed resumes, a notepad, and a pen
+- Dress one step above what the team wears day to day
+- Be courteous to everyone, from the front desk on
 :::
 ::::
 
 ::: {.highlight-box}
-We covered these in Lecture 12. Today you practice them **out loud**, with your own letter.
+Lunch, the lab tour, and the walk back to the lobby are part of the interview too.
+:::
+
+::: {.cite-note}
+[@gtcc_interviewing; @aps_interview]
 :::
 
 ---
 
-## In-class activity: letter swap and mock interview
+## Hard questions and how to answer them
 
-::: {style="font-size: 0.8em;"}
-Fill out the [cover letter and mock interview worksheet](../course-files/peer-feedback-latex/phys-4604-cover-letter-interview-worksheet.pdf) about your partner (30 minutes):
-
-| Step | What you do | Time |
+::: {style="font-size: 0.75em;"}
+| They ask | What they want to know | A strong answer |
 |---|---|---|
-| 1. Swap | Read your partner's letter and posting. Fill in Part A. | 8 min |
-| 2. Feedback | Talk through your Part A notes, then switch. | 4 min |
-| 3. Interview, round 1 | One partner interviews the other with Part B. | 7 min |
-| 4. Interview, round 2 | Swap roles. | 7 min |
-| 5. Debrief | One answer to keep, one to rework. Hand over your worksheet. | 4 min |
+| "What is your greatest weakness?" | Are you self-aware? | A real but minor weakness, and what you are doing about it |
+| "Tell me about a failure." | Do you learn from mistakes? | A STAR story whose Result is what you changed afterward |
+| "Why should we hire you?" | Do you fit the posting? | 2&ndash;3 qualifications from the posting, each with evidence |
+| "What are your salary expectations?" | Are you within budget? | A researched range, or ask what the role's range is |
+| A gap, a low grade, or a change of field | Is it a pattern? | One honest sentence, then what you learned and where you are now |
 
-: {tbl-colwidths="[26,60,14]"}
+: {tbl-colwidths="[30,24,46]"}
 :::
 
 ::: {.highlight-box}
-Revise your letter tonight with your partner's notes. It is due at **11:59 PM ET**.
+Answer the question behind the question. Keep it short, honest, and pointed back at the job.
+:::
+
+::: {.cite-note}
+[@gtcc_interviewing; @aps_interview]
 :::
 
 ---
