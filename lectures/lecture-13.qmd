@@ -27,11 +27,54 @@ format:
 
 ---
 
-## Interview practice
+## Interview practice: how it works
 
-TBD
+Work in pairs. Your partner's cover letter and posting are the job you are interviewing for.
 
-<!-- TODO: Plan the in-class interview practice (pairs, question list, timing) and the cover letter workshop. -->
+:::: {.columns style="font-size: 0.8em;"}
+::: {.column width="50%"}
+### As the candidate
+
+- Answer as if this is the real interview for the job in your letter
+- "Tell me about yourself": present, past, future in 60&ndash;90 seconds
+- Behavioral questions: STAR, with the Action as the longest part
+- Pausing to think is fine: "Let me think about that for a second."
+:::
+::: {.column width="50%"}
+### As the interviewer
+
+- Read the letter and posting first; they are your job description
+- Ask the three questions on the worksheet, in order
+- Don't coach or interrupt. Take notes.
+- Close with "What questions do you have for me?"
+:::
+::::
+
+::: {.highlight-box}
+We covered these in Lecture 12. Today you practice them **out loud**, with your own letter.
+:::
+
+---
+
+## In-class activity: letter swap and mock interview
+
+::: {style="font-size: 0.8em;"}
+Fill out the [cover letter and mock interview worksheet](../course-files/peer-feedback-latex/phys-4604-cover-letter-interview-worksheet.pdf) about your partner (30 minutes):
+
+| Step | What you do | Time |
+|---|---|---|
+| 1. Swap | Read your partner's letter and posting. Fill in Part A. | 8 min |
+| 2. Feedback | Talk through your Part A notes, then switch. | 4 min |
+| 3. Interview, round 1 | One partner interviews the other with Part B. | 7 min |
+| 4. Interview, round 2 | Swap roles. | 7 min |
+| 5. Debrief | One answer to keep, one to rework. Hand over your worksheet. | 4 min |
+
+: {tbl-colwidths="[26,60,14]"}
+:::
+
+::: {.highlight-box}
+Revise your letter tonight with your partner's notes. It is due at **11:59 PM ET**.
+:::
 
 ---
 

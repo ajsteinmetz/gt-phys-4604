@@ -1,0 +1,119 @@
+\documentclass[11pt]{article}
+
+\usepackage[margin=0.75in,top=0.6in,bottom=0.6in]{geometry}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage[table]{xcolor}
+\usepackage{microtype}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+
+\setlength{\headheight}{14pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.2em}
+
+\definecolor{GTGold}{HTML}{B3A369}
+\definecolor{GTNavy}{HTML}{003057}
+\definecolor{GTLightGold}{HTML}{F9F6E5} % Diploma
+\definecolor{GTGray}{HTML}{54585A}      % Gray Matter
+\definecolor{GTLightGray}{HTML}{D6DBD4} % Pi Mile
+
+\titleformat{\section}
+  {\large\bfseries\color{GTNavy}}
+  {}{0pt}{}
+\titlespacing*{\section}{0pt}{0.6em}{0.1em}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textcolor{black}{PHYS 4604}}
+\fancyhead[R]{\textcolor{black}{Professional Development}}
+\fancyfoot[L]{\textcolor{black}{Georgia Institute of Technology}}
+\renewcommand{\headrulewidth}{0.2pt}
+\renewcommand{\footrulewidth}{0.2pt}
+
+% Fill-in field: bold label followed by a rule running to the end of the box.
+\newcommand{\field}[1]{\textbf{#1}~\hrulefill{}}
+
+% Two side-by-side fill-in fields, half the text width each.
+\newcommand{\fieldrow}[2]{%
+  \noindent\parbox[t]{0.48\textwidth}{\field{#1}}\hfill
+  \parbox[t]{0.48\textwidth}{\field{#2}}%
+}
+
+% Ruled writing space: #1 lines, spaced for handwriting.
+\newcounter{linecount}
+\newcommand{\lines}[1]{%
+  \par
+  \setcounter{linecount}{0}%
+  \loop\ifnum\value{linecount}<#1\relax
+    \vspace{0.32in}%
+    {\color{GTLightGray}\hrule height 0.4pt}%
+    \stepcounter{linecount}%
+  \repeat
+  \vspace{0.3em}%
+}
+
+% Prompt heading plus its italic cue line.
+\newcommand{\prompt}[2]{%
+  \vspace{0.35em}%
+  {\bfseries\color{GTNavy}#1}\par
+  \vspace{0.15em}%
+  {\small\itshape\color{GTGray}#2}\par
+}
+
+
+\begin{document}
+
+\noindent\textcolor{GTGold}{\rule{\textwidth}{4pt}}
+\vspace{-0.2em}
+
+\begingroup
+\setlength{\fboxsep}{9pt}
+\noindent\colorbox{GTLightGold}{%
+\parbox{\dimexpr\textwidth-2\fboxsep\relax}{%
+    {\LARGE\bfseries\textcolor{GTNavy}{Cover Letter and Mock Interview}}
+}}
+\endgroup
+
+\vspace{0.6em}
+
+\fieldrow{Reviewer}{Partner}
+
+\vspace{1.0em}
+
+\field{Position or program your partner is applying to}
+
+\vspace{0.3em}
+\noindent\textcolor{GTGold}{\rule{\textwidth}{1pt}}
+
+\section*{Part A: Cover letter feedback}
+{\small\itshape\color{GTGray}Read your partner's letter next to the posting. For a personal statement, read ``posting'' as ``program.''}
+
+\prompt{1.\quad Does the opening name the job and give one reason to keep reading?}
+{Underline the sentence that says which position this is. If no sentence does, say so.}
+\lines{2}
+
+\prompt{2.\quad Which qualification is best supported, and which needs evidence?}
+{Name it, show it, size it, connect it. Point to one sentence that needs an example or a number.}
+\lines{2}
+
+\prompt{3.\quad Could this letter be sent unchanged to another employer?}
+{Suggest one specific detail about this employer or program to add.}
+\lines{2}
+
+\section*{Part B: Mock interview}
+{\small\itshape\color{GTGray}You are the interviewer. Ask in order, don't interrupt, take notes. Then swap roles.}
+
+\prompt{1.\quad ``Tell me about yourself.''}
+{Present, past, future in 60--90 seconds. Did it sound like the letter's opening, said out loud?}
+\lines{2}
+
+\prompt{2.\quad ``Tell me about a time you solved a hard technical problem.''}
+{All four STAR parts? Was the Action the longest part? Did the Result have a number?}
+\lines{2}
+
+\prompt{3.\quad ``Why do you want this position, and why here?''}
+{Did your partner name something specific about the employer or program? Did it match the letter?}
+\lines{2}
+
+\end{document}
